@@ -1,0 +1,1000 @@
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247251, 17, 22, 1, N'O', N'L 115 - svar på spm. 3, fra irkeministeren', N'2010-04-27 00:00:00.000', N'2010-04-27 00:00:00.000', N'2010-04-28 10:33:29.000', N'', N'', N'Ministeren bedes give en vurdering af, i hvor mange tilfælde man vil kunne forvente en problematik i sognene i forbindelse med præsters ret til at fortsætte i embedet til de er fyldt 75 år.', N'Spm. om  ministeren kan give en vurdering af, i hvor mange tilfælde man vil kunne forvente en problematik i sognene i forbindelse med præsters ret til at fortsætte i embedet til de er fyldt 75 år, til kirkeministeren', 247250, N'', N'', null, N'2015-12-05 23:41:43.767');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247252, 12, 15, 1, N'O', N'Samlenotat om organdirektivet, fra indenrigs- og sundhedsministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 10:45:16.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:07.793');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247253, 13, 36, 1, N'O', N'Spm. om  ministeren kan oplyse hvorfor man ved tidligere lovgivning om forhøjelse af pensionsalder for statstjenestemænd havde en undtagelsesregel for præster og dommere, til kirkeministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:41:44.657');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247254, 17, 22, 1, N'O', N'L 115 - svar på spm. 4, fra kirkeministeren', N'2010-04-27 00:00:00.000', N'2010-04-27 00:00:00.000', N'2010-04-28 08:25:50.000', N'', N'', N'Ministeren bedes oplyse hvorfor man ved tidligere lovgivning om forhøjelse af pensionsalder for statstjenestemænd havde en undtagelsesregel for præster og dommere.', N'Spm. om  ministeren kan oplyse hvorfor man ved tidligere lovgivning om forhøjelse af pensionsalder for statstjenestemænd havde en undtagelsesregel for præster og dommere, til kirkeministeren', 247253, N'', N'', null, N'2015-12-05 23:41:44.657');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247255, 13, 36, 1, N'O', N'Spm. om miinisteren kan oplyse hvorfor regeringen har ændret holdning til netop præsters pensionsalder, men ikke til dommernes, til kirkeministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:41:44.313');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247256, 17, 22, 1, N'O', N'L 115 - svar på spm. 5, fra kirkeministeren', N'2010-04-27 00:00:00.000', N'2010-04-27 00:00:00.000', N'2010-04-28 08:22:36.000', N'', N'', N'Ministeren bedes oplyse hvorfor regeringen har ændret holdning til netop præsters pensionsalder, men ikke til dommernes.', N'Spm. om miinisteren kan oplyse hvorfor regeringen har ændret holdning til netop præsters pensionsalder, men ikke til dommernes, til kirkeministeren', 247255, N'', N'', null, N'2015-12-05 23:41:44.313');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247257, 13, 36, 1, N'O', N'Spm. om hvad der erstatter bortfaldet af servicelovens §143, ifølge hvilken socialministeren i en bekendtgørelse kan fastsætte nærmere regler om godkendelse af tilsyn med private opholdssteder, og bør bemyndigelsesbestemmelsen ikke hjemles i loven?', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:43.843');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247258, 17, 22, 1, N'O', N'SOU L 178 - svar på spm. 5, fra socialministeren', N'2010-05-03 00:00:00.000', N'2010-05-03 00:00:00.000', N'2010-05-03 12:56:18.000', N'', N'', N'Ministeren bedes redegøre for hvad der erstatter bortfaldet af servicelovens §143, ifølge hvilken socialministeren i en bekendtgørelse kan fastsætte nærmere regler om godkendelse af tilsyn med private opholdssteder, og bør bemyndigelsesbestemmelsen ikke hjemles i loven?', N'Spm. om hvad der erstatter bortfaldet af servicelovens §143, ifølge hvilken socialministeren i en bekendtgørelse kan fastsætte nærmere regler om godkendelse af tilsyn med private opholdssteder, og bør bemyndigelsesbestemmelsen ikke hjemles i loven?', 247257, N'', N'', null, N'2015-12-05 23:43:43.843');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247259, 13, 36, 1, N'O', N'Spm. om praksis i den katolske kirkes fagetiske udvalg, der bl.a. tager stilling til sager om misbrug af børn og unge, til socialministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:54:53.677');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247260, 17, 22, 1, N'O', N'SOU alm. del - svar på spm. 425, fra socialministeren', N'2010-05-21 00:00:00.000', N'2010-05-21 00:00:00.000', N'2010-05-21 13:35:55.000', N'', N'', N'Ministeren bedes udarbejde en redegørelse for praksis i den katolske kirkes fagetiske udvalg, der bl.a. tager stilling til sager om misbrug af børn og unge, herunder om udvalgets praksis er i overensstemmelse med den sociale lovgivning vedrørerende bl.a. underretningspligt og straffelovens §141, samt hvorvidt det forhold, at en medarbejder fra Servicestyrelsen har siddet i udvalget som privatperson, kan have bidraget til at legitimere udvalgets praksis.', N'Spm. om praksis i den katolske kirkes fagetiske udvalg, der bl.a. tager stilling til sager om misbrug af børn og unge, til socialministeren', 247259, N'', N'', null, N'2015-12-05 23:54:53.677');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247263, 13, 36, 1, N'O', N'Spm. om øgede udgifter til medicintilskud, til indenrigs- og sundhedsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:56:12.553');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247264, 17, 22, 1, N'O', N'SUU alm. del - svar på spm. 516, fra indenrigs- og sundhedsministeren', N'2010-05-25 00:00:00.000', N'2010-05-25 00:00:00.000', N'2010-05-25 16:17:00.000', N'', N'', N'Ministeren bedes redegøre for de øgede udgifter til medicintilskud, hvis man: 
+
+a) benyttede sig af de samme tilskudsmuligheder som til kronisk syge børn og unge under 18 år, under forudsætning af at tilskudsmodtageren var under uddannelse.
+
+b) hævede aldersgrænsen for, hvornår man overgår til de almindelige tilskudsmuligheder for kronisk syge til 21 år. 
+
+Som eksempel kan nævnes at en uddannelsessøgende dreng med diabetes type 1 på Statens Uddannelsesstøtte i en alder af 18 år, månedligt har medicinudgifter for omkring 250 kr. med de nuværende medicintilskudsregler.', N'Spm. om øgede udgifter til medicintilskud, til indenrigs- og sundhedsministeren', 247263, N'', N'', null, N'2015-12-05 23:56:12.553');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247265, 12, 53, 1, N'O', N'Henvendelse af 20/4-10 fra Ulrick Moos vedr. Furesøaftalens genforhandling', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 11:07:11.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:14.607');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247266, 12, 55, 1, N'O', N'1. Udkast til betænkning ', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 11:08:05.000', N'Finansministeriet', N'7', null, null, null, N'', N'', null, N'2015-12-05 23:38:22.637');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247267, 13, 36, 1, N'O', N'Spm. om, hvordan kravene om skriftligheden skal forstås, til beskæftigelsesministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:40:46.607');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247268, 17, 22, 1, N'O', N'AMU L 126 - svar på spm. 39, fra beskæftigelsesministeren', N'2010-04-26 00:00:00.000', N'2010-04-26 00:00:00.000', N'2010-04-26 15:01:46.000', N'', N'', N'Ministeren har svaret på spørgsmålene 11, 17, 18, 30, 34, 35 samt 36 til L 126 til Arbejdsmarkedsudvalget vedrørende skriftlighed i den årlige arbejdsmiljødrøftelse. Svarene samt bemærkninger til loven åbner fortsat en vis mulighed for forskellig tolkning af, hvad skriftligheden omfatter, skriftlighedens rækkevidde samt udgangspunktet for bekendtgørelsesarbejdet. Vil ministeren samlet oplyse, hvordan kravene skal forstås?', N'Spm. om, hvordan kravene om skriftligheden skal forstås, til beskæftigelsesministeren', 247267, N'', N'', null, N'2015-12-05 23:40:46.607');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247269, 12, 53, 1, N'O', N'Henvendelse af 21/4-2010 fra Foreningen Død i psykiatrien vedr. patientsikkerhed og obduktioner ved pludselige uventede dødsfald i psykiatrien (anmodning om foretræde)', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 11:21:17.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:23.637');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247271, 12, 15, 1, N'O', N'Orientering om Rigspolitiets status vedrørende den intensiverede indsats på rocker- og bandeområdet i 1. kvartal 2010, fra justitsministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 11:28:38.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:23.717');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247272, 13, 36, 1, N'O', N'Spm. om at stille krav om dansk på A-niveau på de færøske gymnasiale uddannelser som en forudsætning for optagelse på videregående uddannelser i Danmark, til undervisningsministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:49:21.503');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247273, 17, 22, 1, N'O', N'FÆU alm. del - svar på spm. 4, fra undervisningsministeren', N'2010-05-12 00:00:00.000', N'2010-05-12 00:00:00.000', N'2010-05-12 10:04:48.000', N'', N'', N'Vil ministeren oplyse, om det er et ønske fra dansk side at ændre det færøske skolesystem, således at det er en kopi af det danske, ved at stille krav om dansk på A-niveau på de færøske gymnasiale uddannelser som en forudsætning for optagelse på videregående uddannelser i Danmark, og hvordan stemmer dette overens med principperne i den nordiske uddannelsesoverenskomst om gensidig optagelse af studerende på universiteterne og anerkendelse af de gymnasiale uddannelser?”', N'Spm. om at stille krav om dansk på A-niveau på de færøske gymnasiale uddannelser som en forudsætning for optagelse på videregående uddannelser i Danmark, til undervisningsministeren', 247272, N'', N'', null, N'2015-12-05 23:49:21.503');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247274, 13, 36, 1, N'O', N'Spm. om at redegøre for, om de 0,5 procent besparelser, statsministeren d. 20/4-10 har bebudet på alle ministerområder, vil betyde en reduktion af årsværk hos SKAT, til skatteministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:53:39.867');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247275, 17, 22, 1, N'O', N'SAU alm. del - svar på spm. 394, fra skatteministeren', N'2010-05-19 00:00:00.000', N'2010-05-19 00:00:00.000', N'2010-05-20 08:54:24.000', N'', N'', N'Ministeren bedes redegøre for, om de 0,5 procent besparelser, statsministeren den 20. april 2010 har bebudet på alle ministerområder, vil betyde en reduktion af årsværk hos SKAT.', N'Spm. om at redegøre for, om de 0,5 procent besparelser, statsministeren d. 20/4-10 har bebudet på alle ministerområder, vil betyde en reduktion af årsværk hos SKAT, til skatteministeren', 247274, N'', N'', null, N'2015-12-05 23:53:39.867');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247276, 13, 36, 1, N'O', N'Spm. om, hvorledes statsministerens bebudede besparelser på 0,5 procent på ministerens område harmonerer med ministerens egen bebudede opprioritering af indsatsen overfor henholdsvis multinationale selskabers beskatning i Danmark og SKATs inddrivelse af restancer til stat og kommuner, til skatteministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:53:45.163');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247277, 17, 22, 1, N'O', N'SAU alm. del - svar på spm. 395, fra skatteministeren', N'2010-05-19 00:00:00.000', N'2010-05-19 00:00:00.000', N'2010-05-20 08:55:50.000', N'', N'', N'Vil ministeren oplyse, hvorledes statsministerens bebudede besparelser på 0,5 procent på ministerens område harmonerer med ministerens egen bebudede opprioritering af indsatsen overfor henholdsvis multinationale selskabers beskatning i Danmark og SKATs inddrivelse af restancer til stat og kommuner?', N'Spm. om, hvorledes statsministerens bebudede besparelser på 0,5 procent på ministerens område harmonerer med ministerens egen bebudede opprioritering af indsatsen overfor henholdsvis multinationale selskabers beskatning i Danmark og SKATs inddrivelse af restancer til stat og kommuner, til skatteministeren', 247276, N'', N'', null, N'2015-12-05 23:53:45.163');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247278, 12, 15, 1, N'O', N'Ændringsforslag fra klima- og energiministeren', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 11:59:23.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:23.593');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247279, 12, 15, 1, N'O', N'Notat vedr. meddelelse af humanitær opholdstilladelse', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 12:01:03.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:23.810');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247280, 13, 36, 1, N'O', N'Spm. om kommentar til henvendelsen af 19/4-2010 fra Hepatitis Foreningen, til indenrigs- og sundhedsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-06 00:07:01.653');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247281, 17, 22, 1, N'O', N'SUU alm. del - svar på spm. 517, fra indenrigs- og sundhedsministeren', N'2010-06-04 00:00:00.000', N'2010-06-04 00:00:00.000', N'2010-06-04 11:51:14.000', N'', N'', N'Ministeren bedes kommentere henvendelsen af 19. april 2010 fra Hepatitis Foreningen, jf. SUU alm. del - bilag 325.', N'Spm. om kommentar til henvendelsen af 19/4-2010 fra Hepatitis Foreningen, til indenrigs- og sundhedsministeren', 247280, N'', N'', null, N'2015-12-06 00:07:01.653');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247282, 12, 15, 1, N'O', N'Talepapir fra samrådet d. 21/4-10 vedr. naturgaslagret ved Ll. Torup, jf. samrådsspm. BX-BZ', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 12:04:41.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:24.497');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247283, 13, 37, 1, N'O', N'Samrådsspm. om aftalen vedrørende godkendelse af færøske gymnasiale uddannelser, som det færøske undervisningsministerium og Undervisningsministeriet indgik i 2007, til undervisninsministeren
+', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 12:04:34.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:26.137');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247285, 12, 15, 1, N'O', N'Supplerende høringssvar, fra integrationsministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 12:11:44.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:25.997');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247286, 12, 15, 1, N'O', N'Orientering om Rigspolitiets rapport af 19. april 2010 om rockere og bander i 2009, fra justitsministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 12:49:24.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:26.060');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247287, 12, 15, 1, N'O', N'Kopi af svarbrev af 19/4-10 fra Vindmølleindustrien', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 12:55:14.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:25.780');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247288, 12, 15, 1, N'O', N'Kopi af svarbrev af 19/4-10 fra Vindmølleindustrien', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 12:56:07.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:25.840');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247289, 12, 53, 1, N'O', N'Henvendelse af 20/4-10 fra Dyreværnet', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 13:07:25.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:25.733');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247290, 12, 15, 1, N'O', N'Samlenotat vedr. menneskelige organer til transplantation forud for Europaudvalgets møde 23/4-10', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 13:09:46.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:25.920');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247291, 13, 36, 1, N'O', N'Spm. om kommentar til henvendelse af 20/4-10 fra Dyreværnet, til justitsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:07.577');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247292, 17, 22, 1, N'O', N'L 163 - svar på spm. 11, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:54:24.000', N'', N'', N'Ministeren bedes kommentere henvendelsen af 20. april 2010 fra Dyreværnet, jf. L 163 - bilag 17.', N'Spm. om kommentar til henvendelse af 20/4-10 fra Dyreværnet, til justitsministeren', 247291, N'', N'', null, N'2015-12-05 23:43:07.577');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247293, 12, 53, 1, N'O', N'Henvendelse af 20/4-10 fra Dansk Kennel Klubs Fællesklub for Hyrde- og Kvæghunde', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 13:27:30.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:34.387');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247294, 21, 19, 1, N'O', N'Stillet den 21. april 2010', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-23 15:13:21.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:34.623');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247295, 12, 15, 1, N'O', N'Evaluering af Vækstfonden', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 13:32:33.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:34.687');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247296, 12, 53, 1, N'O', N'Henvendelse af 20/4-10 fra Den Danske Dyrlægeforening', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 13:33:07.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:35.233');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247297, 21, 31, 1, N'O', N'Fremsat den 21. april 2010 af Henrik Dam Kristensen (S), Karen J. Klint (S), Maja Panduro (S), Karina Lorentzen Dehnhardt (SF), Astrid Krag (SF), Ole Sohn (SF), Marianne Jelved (RV), Margrethe Vestager (RV), Morten Østergaard (RV), Line Barfod (EL) og Johanne Schmidt‑Nielsen (EL)', N'2010-04-21 13:35:36.260', N'2010-04-21 13:35:35.000', null, N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:35.623');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247298, 21, 31, 1, N'O', N'Fremsat den 21. april 2010 af Marlene Harpsøe (DF), Liselott Blixt (DF), René Christensen (DF), Kim Christiansen (DF), Kristian Thulesen Dahl (DF), Pia Kjærsgaard (DF) og Peter Skaarup (DF)', N'2010-04-21 13:35:39.963', N'2010-04-21 13:35:39.000', null, N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:35.733');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247299, 21, 19, 1, N'O', N'Stillet den 21. april 2010', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-23 15:14:01.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:35.670');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247300, 12, 56, 1, N'O', N'Tilmelding til studietur til Norge 15.-17. juni 2010', N'2010-04-21 00:00:00.000', null, N'2010-04-21 14:24:09.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:35.450');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247301, 12, 53, 1, N'O', N'Henvendelse af 20/4-10 fra Gruppen bevar muskelhunden under ansvar', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 13:47:47.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:35.497');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247302, 12, 55, 1, N'O', N'2. udkast til betænkning', N'2010-04-21 00:00:00.000', null, N'2010-04-21 13:51:17.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:35.967');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247303, 5, 54, 1, N'O', N'Anmeldt den 20. april 2010 (omtryk)', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 13:56:51.000', N'', N'', null, null, null, N'', N'', null, N'2016-07-08 15:29:44.463');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247304, 12, 55, 1, N'O', N'2. udkast til betænkning', N'2010-04-21 00:00:00.000', null, N'2010-04-21 13:54:45.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:30.593');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247305, 12, 55, 1, N'O', N'1. udkast til tillægsbetænkning', N'2010-04-21 00:00:00.000', null, N'2010-04-21 14:05:56.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:31.047');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247306, 12, 51, 1, N'O', N'Kalender over arrangementer på Energiudvalgets område pr. 21. april 2010', N'2010-04-21 00:00:00.000', null, N'2010-04-21 14:09:52.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:31.420');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247307, 12, 15, 1, N'O', N'Planchemateriale fra statuskonferencen for de strategiske analyser den 12. april 2010', N'2010-04-20 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 14:15:18.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:31.670');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247308, 12, 15, 1, N'O', N'Notat om erhvervslivets forskning, udvikling og innovation, fra den økonomiske konsulent i Folketinget', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 14:13:38.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:31.547');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247309, 12, 15, 1, N'O', N'Oversigt over personer fordelt efter nationalitet', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 14:19:37.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:31.607');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247310, 16, 14, 1, N'O', N'Vil regeringen styrke de økonomiske og politiske forbindelser med irakisk Kurdistan?', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:46:27.800');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247311, 17, 22, 1, N'O', N'Svar på spm. nr. S 1952', N'2010-05-06 00:00:00.000', N'2010-05-06 00:00:00.000', N'2010-05-06 14:43:42.000', N'', N'', N'', N'Vil regeringen styrke de økonomiske og politiske forbindelser med irakisk Kurdistan?', 247310, N'', N'', null, N'2015-12-05 23:46:27.800');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247312, 13, 36, 1, N'O', N'Spm. om talepapir fra besvarelsen af TRU alm. del - samrådsspm. Æ, til transportministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:49:04.300');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247313, 17, 22, 1, N'O', N'TRU alm. del - svar på spm. 1094, fra transportministeren', N'2010-05-07 00:00:00.000', N'2010-05-10 00:00:00.000', N'2010-05-11 14:35:43.000', N'', N'', N'Ministeren bedes tilsende udvalget sit talepapir fra besvarelsen af TRU alm. del - samrådsspm. Æ om håndteringen af den trafikale situation efter vulkanudbruddet på Island og herunder fremsende kommissoriet for den task force, som ministeren orienterede om under samrådet.', N'Spm. om talepapir fra besvarelsen af TRU alm. del - samrådsspm. Æ, til transportministeren', 247312, N'', N'', null, N'2015-12-05 23:49:04.300');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247314, 13, 36, 1, N'O', N'Spm. om hvornår det udvidede frie skolevalg skal evalueres, til undervisningsministeren
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:44:03.987');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247315, 17, 22, 1, N'O', N'UDU alm. del - svar på spm. 310, fra undervisningsministeren', N'2010-05-03 00:00:00.000', N'2010-05-03 00:00:00.000', N'2010-05-03 16:06:59.000', N'', N'', N'Hvornår skal det udvidede frie skolevalg evalueres? 
+', N'Spm. om hvornår det udvidede frie skolevalg skal evalueres, til undervisningsministeren
+', 247314, N'', N'', null, N'2015-12-05 23:44:03.987');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247316, 13, 36, 1, N'O', N'Spm. om, hvornår ministeren konkret vil udbrede kendskabet til reglerne om forældrebetaling til forældre, skoler og kommuner, til undervisningsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:47:29.237');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247317, 17, 22, 1, N'O', N'B 126 - svar på spm. 1, fra undervisningsministeren', N'2010-05-07 00:00:00.000', N'2010-05-07 00:00:00.000', N'2010-05-07 14:37:05.000', N'', N'', N'Hvordan vil ministeren i fortsættelse af ministerens bemærkninger under 1. behandling konkret udbrede kendskabet til reglerne om forældrebetaling til forældre, skoler og kommuner, hvornår vil disse initiativer finde sted, og vil ministeren fremover følge, om reglerne bliver overholdt i praksis?
+', N'Spm. om, hvornår ministeren konkret vil udbrede kendskabet til reglerne om forældrebetaling til forældre, skoler og kommuner, til undervisningsministeren', 247316, N'', N'', null, N'2015-12-05 23:47:29.237');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247318, 13, 36, 1, N'O', N'Spm. om sponsorering af skoler, til undervisningsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:47:30.707');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247319, 17, 22, 1, N'O', N'B 126 - svar på spm. 2, fra undervisningsministeren', N'2010-05-07 00:00:00.000', N'2010-05-07 00:00:00.000', N'2010-05-07 14:40:07.000', N'', N'', N'Vil ministeren med henvisning til, at ministeren under 1. behandling tilkendegav, at ministeren synes, at det er en udmærket ide, at man redegøre for, hvor man har modtaget gaver fra, overveje i samarbejde med relevante organisationer at udsende en vejledning eller lignende, om hvordan kommunerne på en ensartet og ukompliceret måde kan offentliggøre sponsering af skolerne?
+', N'Spm. om sponsorering af skoler, til undervisningsministeren', 247318, N'', N'', null, N'2015-12-05 23:47:30.707');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247320, 13, 36, 1, N'O', N'Spm. om hvorfor lovforslagets anvendelsesområde ikke udstrækker sig til at omfatte lande, som ikke har tiltrådt konvention, men som f.eks. har en bilateral aftale med Danmark, sådan som Unescos Nationalkommission har foreslået det i sit høringssvar, til kulturministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:40:54.953');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247321, 17, 22, 1, N'O', N'KUU L 132 - svar på spm. 1, fra kulturministeren', N'2010-04-27 00:00:00.000', N'2010-04-27 00:00:00.000', N'2010-04-27 11:42:36.000', N'', N'', N'Ministeren bedes redegøre nærmere for, hvorfor lovforslagets anvendelsesområde ikke udstrækker sig til at omfatte lande, som ikke har tiltrådt konvention, men som har f.eks. en bilateral aftale med Danmark, sådan som Unescos Nationalkommission har foreslået det i sit høringssvar.', N'Spm. om hvorfor lovforslagets anvendelsesområde ikke udstrækker sig til at omfatte lande, som ikke har tiltrådt konvention, men som f.eks. har en bilateral aftale med Danmark, sådan som Unescos Nationalkommission har foreslået det i sit høringssvar, til kulturministeren', 247320, N'', N'', null, N'2015-12-05 23:40:54.953');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247322, 12, 56, 1, N'O', N'Udvalgsbehandlingen indtil videre
+', N'2010-04-21 00:00:00.000', null, N'2010-04-21 14:53:59.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:39.060');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247323, 12, 56, 1, N'O', N'Udvalgsbehandlingen indtil videre
+', N'2010-04-21 00:00:00.000', null, N'2010-04-21 14:56:09.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:39.107');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247324, 12, 56, 1, N'O', N'Udvalgsbehandlingen indtil videre
+', N'2010-04-21 00:00:00.000', null, N'2010-04-21 14:57:47.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:39.170');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247325, 12, 53, 1, N'O', N'Henvendelse af 21/4-10 fra Dansk Terrier Klub', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 14:58:20.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:39.403');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247326, 13, 36, 1, N'O', N'Spm. om kommentar til henvendelse af 21/4-10 fra Dansk Terrier Klub, til justitsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:28.267');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247327, 17, 22, 1, N'O', N'L 163 - svar på spm. 12, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 08:22:23.000', N'', N'', N'Ministeren bedes kommentere henvendelsen af 21. april 2010 fra Dansk Terrier Klub, jf. L 163 - bilag 21.', N'Spm. om kommentar til henvendelse af 21/4-10 fra Dansk Terrier Klub, til justitsministeren', 247326, N'', N'', null, N'2015-12-05 23:43:28.267');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247328, 12, 53, 1, N'O', N'Henvendelse af 20/4-10 fra Team Danmark om deres årsberetning 2009', N'2010-04-20 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 15:00:49.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:39.593');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247329, 12, 56, 1, N'O', N'Meddelelse om Statsrevisorernes beretning nr. 9', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 15:14:09.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:39.763');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247330, 17, 22, 1, N'O', N'SOU alm. del - svar på spm. 373, fra socialministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 15:19:20.000', N'', N'', N'Ministeren bedes kommentere henvendelsen af 21. januar 2010 fra Anne-marie Monrath vedrørende førtidspensionister og hjælp til bolig, jf. SOU alm. del - bilag 204.', N'Spm. om kommentar til henvendelse af 21/1-10 fra Anne-marie Monrath vedr. førtidspensionister og hjælp til bolig, til socialministeren', 247331, N'', N'', null, N'2015-12-05 23:38:41.123');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247331, 13, 36, 1, N'O', N'Spm. om kommentar til henvendelse af 21/1-10 fra Anne-marie Monrath vedr. førtidspensionister og hjælp til bolig, til socialministeren', N'2010-03-31 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:38:41.123');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247332, 12, 55, 1, N'O', N'1. udkast til betænkning', N'2010-04-21 00:00:00.000', null, N'2010-04-21 15:19:45.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:32.827');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247333, 12, 53, 1, N'O', N'Henvendelse af 21/4-10 fra Teatervidenskab og Dansk ITI og Teaterunion om invitation til paneldebat den 28/4-10 om rapport vedrørende teater og scenekunst', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 15:33:08.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:33.873');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247334, 13, 36, 1, N'O', N'Spm. om, under henvisning til ministerens svar på REU alm. del spm. 871, bedes ministeren indhente Statsforvaltningernes redegørelse for hvilke kriterier, der spiller ind i hver enkelt sag, når forvaltningen foretager en individuel og konkret vurdering af, på hvilken måde barnets perspektiv skal belyses, til indenrigs- og sundhedsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:54:00.803');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247335, 17, 22, 1, N'O', N'REU alm. del - svar på spm. 988, fra indenrigs- og sundhedsministeren', N'2010-05-20 00:00:00.000', N'2010-05-20 00:00:00.000', N'2010-05-20 11:29:21.000', N'', N'', N'Under henvisning til ministerens svar på Retsudvalgets alm. del spørgsmål 871, bedes ministeren indhente Statsforvaltningernes redegørelse for hvilke kriterier, der spiller ind i hver enkelt sag, når forvaltningen foretager en individuel og konkret vurdering af, på hvilken måde barnets perspektiv skal belyses. 
+
+', N'Spm. om, under henvisning til ministerens svar på REU alm. del spm. 871, bedes ministeren indhente Statsforvaltningernes redegørelse for hvilke kriterier, der spiller ind i hver enkelt sag, når forvaltningen foretager en individuel og konkret vurdering af, på hvilken måde barnets perspektiv skal belyses, til indenrigs- og sundhedsministeren
+
+', 247334, N'', N'', null, N'2015-12-05 23:54:00.803');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247336, 16, 14, 1, N'O', N'Hvordan synes ministeren, at det går med den infrastrukturbaserede konkurrence på området for faste bredbåndsforbindelser?', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:41.533');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247337, 17, 22, 1, N'O', N'Svar på spm. nr. S 1953', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 11:53:17.000', N'', N'', N'', N'Hvordan synes ministeren, at det går med den infrastrukturbaserede konkurrence på området for faste bredbåndsforbindelser?', 247336, N'', N'', null, N'2015-12-05 23:43:41.533');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247338, 16, 14, 1, N'O', N'Hvad vil ministeren gøre for at fremme den infrastrukturbaserede konkurrence på området for faste bredbåndsforbindelser, som i dag er gået helt i stå?', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:41.923');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247339, 17, 22, 1, N'O', N'Svar på spm. nr. S 1954', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 11:56:04.000', N'', N'', N'', N'Hvad vil ministeren gøre for at fremme den infrastrukturbaserede konkurrence på området for faste bredbåndsforbindelser, som i dag er gået helt i stå?', 247338, N'', N'', null, N'2015-12-05 23:43:41.923');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247340, 13, 36, 1, N'O', N'Spm. om redegørelse for hvordan barnet inddrages, når der foreligger beslutning herom, til indenrigs- og sundhedsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:54:01.770');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247341, 17, 22, 1, N'O', N'REU alm. del - svar på spm. 989, fra indenrigs- og sundhedsministeren', N'2010-05-20 00:00:00.000', N'2010-05-20 00:00:00.000', N'2010-05-20 11:32:00.000', N'', N'', N'I forlængelse heraf, bedes ministeren endvidere redegøre for hvordan barnet inddrages, når der foreligger beslutning herom. Ministeren bedes i den forbindelse komme med konkrete anonymiserede eksempler fra sagsbehandlingen af sager, hvor børn har været inddraget, herunder hvad der er blevet sagt og evt. skrevet fra Statsforvaltningens side til de børn, der er blevet inddraget. 
+
+', N'Spm. om redegørelse for hvordan barnet inddrages, når der foreligger beslutning herom, til indenrigs- og sundhedsministeren
+
+', 247340, N'', N'', null, N'2015-12-05 23:54:01.770');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247342, 13, 36, 1, N'O', N'Spm. om, hvorledes ministeriet holder sig overordnet set orienteret om udviklingen i statsforvaltningerne og er der på nuværende tidspunkt grund til at overveje ændringer i administationen, til indenrigs- og sundhedsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:54:01.973');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247343, 17, 22, 1, N'O', N'REU alm. del - svar på spm. 990, fra indenrigs- og sundhedsministeren', N'2010-05-20 00:00:00.000', N'2010-05-20 00:00:00.000', N'2010-05-20 11:33:40.000', N'', N'', N'Hvorledes holder ministeriet sig overordnet set orienteret om udviklingen i statsforvaltningerne og er der på nuværende tidspunkt grund til at overveje ændringer i administationen?
+
+', N'Spm. om, hvorledes ministeriet holder sig overordnet set orienteret om udviklingen i statsforvaltningerne og er der på nuværende tidspunkt grund til at overveje ændringer i administationen, til indenrigs- og sundhedsministeren
+
+', 247342, N'', N'', null, N'2015-12-05 23:54:01.973');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247344, 13, 36, 1, N'O', N'Spm. om oversendelse af Statsministeriets notat fra januar 2010 om evaluering af forløbet under COP15, til statsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:52:26.647');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247345, 17, 22, 1, N'O', N'MPU alm. del - svar på spm. 675, fra statsministeren', N'2010-05-18 00:00:00.000', N'2010-05-18 00:00:00.000', N'2010-05-18 13:59:07.000', N'', N'', N'Vil statsministeren oversende Statsministeriets notat fra januar 2010 om evaluering af forløbet under COP15, som blev refereret til i P1 Morgens udsendelse kl. 7.10 den 14. april 2010 – evt. i fortrolig form? Og vil statsministeren oplyse, hvorfor statsministeren ikke tidligere har oversendt dette notat til Folketinget, jf. MPU alm. del – spørgsmål 501?', N'Spm. om oversendelse af Statsministeriets notat fra januar 2010 om evaluering af forløbet under COP15, til statsministeren', 247344, N'', N'', null, N'2015-12-05 23:52:26.647');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247346, 16, 14, 1, N'O', N'Hvilke initiativer vil ministeren iværksætte for at sikre, at fibernet udbredes til så mange danskere som muligt?', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:41.720');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247347, 17, 22, 1, N'O', N'Svar på spm. nr. S 1955', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 11:58:28.000', N'', N'', N'', N'Hvilke initiativer vil ministeren iværksætte for at sikre, at fibernet udbredes til så mange danskere som muligt?', 247346, N'', N'', null, N'2015-12-05 23:43:41.720');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247348, 12, 15, 1, N'O', N'Rapport fra GLOBE-mødet "European Fisheries Policy Workshop", afholdt d. 23/3-10', N'2010-04-21 00:00:00.000', null, N'2010-04-21 15:52:35.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:37.843');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247349, 12, 56, 1, N'O', N'Power Point-slides fra miljøministerens tekniske gennemgang af lovforslaget d. 14/4-10', N'2010-04-21 00:00:00.000', null, N'2010-04-21 15:58:26.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:38.577');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247352, 12, 53, 1, N'O', N'Henvendelse modtaget den 20/4-10 fra Moesgård Museum om deres foretræde den 28/4-10 og om deres "Ny udstillingsbygning til Moesgård Museum"', N'2010-04-20 00:00:00.000', N'2010-04-20 00:00:00.000', N'2010-04-21 16:03:30.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:43.140');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247353, 13, 36, 1, N'O', N'Spm. om kommentar til henvendelse af 14/4-10 fra Vesthimmerland Kommune vedr. Løgstør Politistation, til justitsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:55:35.350');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247354, 17, 22, 1, N'O', N'REU alm. del - svar på spm. 991, fra justitsministeren', N'2010-05-25 00:00:00.000', N'2010-05-25 00:00:00.000', N'2010-05-25 12:09:19.000', N'', N'', N'Ministeren bedes kommentere henvendelsen af 14. april 201010 fra Vesthimmerland Kommune vedrørende Løgstør Politistation, jf. REU alm. del - bilag 471.', N'Spm. om kommentar til henvendelse af 14/4-10 fra Vesthimmerland Kommune vedr. Løgstør Politistation, til justitsministeren', 247353, N'', N'', null, N'2015-12-05 23:55:35.350');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247357, 13, 36, 1, N'O', N'Spm. om kommentar til henvendelsen modtaget den 20/4-10 fra Moesgård Museum, til kulturministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:40:13.157');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247358, 17, 22, 1, N'O', N'KUU alm. del - svar på spm. 104, fra kulturministeren', N'2010-04-26 00:00:00.000', N'2010-04-26 00:00:00.000', N'2010-04-26 09:49:15.000', N'', N'', N'Ministeren bedes kommentere henvendelsen modtaget den 20. april 2010 fra Moesgård Museum, jf. KUU alm. del - bilag 177.', N'Spm. om kommentar til henvendelsen modtaget den 20/4-10 fra Moesgård Museum, til kulturministeren', 247357, N'', N'', null, N'2015-12-05 23:40:13.157');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247359, 13, 36, 1, N'O', N'MFU spm. om ministerens redegørelse for ministeriets samlede omkostninger i forbindelse med, at ligestillingsområdet blev overført til Klima- og Energiministeriet, til klima- og energiministeren.', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:50:05.083');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247360, 17, 22, 1, N'O', N'EPU alm. del - svar på spm. 124, fra klima- og energiministeren', N'2010-05-12 00:00:00.000', N'2010-05-12 00:00:00.000', N'2010-05-12 17:26:25.000', N'', N'', N'Vil ministeren redegøre for ministeriets samlede omkostninger i forbindelse med, at ligestillingsområdet blev overført til Klima- og Energiministeriet; herunder alle omkostninger til eksempelvis flytning, brevpapir, logo og lign.?', N'MFU spm. om ministerens redegørelse for ministeriets samlede omkostninger i forbindelse med, at ligestillingsområdet blev overført til Klima- og Energiministeriet, til klima- og energiministeren.', 247359, N'', N'', null, N'2015-12-05 23:50:05.083');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247361, 16, 14, 1, N'O', N'Er ministeren enig med Karsten Lauritzen (V), når han i Information den 20. april 2010 udtaler, at »Det er ikke uhørt, at nogle kommuner har problemer med at få folk i beskæftigelse og for at slippe af med dem, tilkender man dem en førtidspension«?', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:55.033');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247362, 17, 22, 1, N'O', N'Svar på spm. nr. S 1956', N'2010-05-03 00:00:00.000', N'2010-05-03 00:00:00.000', N'2010-05-04 08:39:06.000', N'', N'', N'', N'Er ministeren enig med Karsten Lauritzen (V), når han i Information den 20. april 2010 udtaler, at »Det er ikke uhørt, at nogle kommuner har problemer med at få folk i beskæftigelse og for at slippe af med dem, tilkender man dem en førtidspension«?', 247361, N'', N'', null, N'2015-12-05 23:43:55.047');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247363, 13, 36, 1, N'O', N'Spm. om, hvilken efteruddannelse ministeren mener det er påkrævet, at fængselsbetjente får så de er i stand til at have med 14-årige indsatte at gøre, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:28.940');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247364, 17, 22, 1, N'O', N'L 164 - svar på spm. 23, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:58:39.000', N'', N'', N'Hvilken efteruddannelse mener ministeren det er påkrævet, at fængselsbetjente får så de er i stand til at have med 14-årige indsatte at gøre?
+
+', N'Spm. om, hvilken efteruddannelse ministeren mener det er påkrævet, at fængselsbetjente får så de er i stand til at have med 14-årige indsatte at gøre, til justitsministeren
+
+', 247363, N'', N'', null, N'2015-12-05 23:45:28.940');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247365, 13, 36, 1, N'O', N'Spm. om, hvorledes fængselsbetjente skal observere 14- årige indsatte efter indsættelse i et voksenfængsel med henblik på at kunne vurdere barnets trivsel og udvikling, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:24.563');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247366, 17, 22, 1, N'O', N'L 164 - svar på spm. 24, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:57:11.000', N'', N'', N'Hvorledes skal fængselsbetjente observere 14- årige indsatte efter indsættelse i et voksenfængsel med henblik på at kunne vurdere barnets trivsel og udvikling?
+
+
+', N'Spm. om, hvorledes fængselsbetjente skal observere 14- årige indsatte efter indsættelse i et voksenfængsel med henblik på at kunne vurdere barnets trivsel og udvikling, til justitsministeren
+
+', 247365, N'', N'', null, N'2015-12-05 23:45:24.563');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247367, 12, 15, 1, N'O', N'Grundnotat om komitésag om sundhedsanprisning - etablering af artikel 13 liste', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 16:28:11.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:36.403');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247368, 13, 36, 1, N'O', N'Spm. om, hvorledes fængselspersonalet skal reagere, hvis barnet der er indsat i et voksenfængsel er grædende eller depressiv, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:22.643');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247369, 17, 22, 1, N'O', N'L 164 - svar på spm. 25, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:55:42.000', N'', N'', N'Hvorledes skal fængselspersonalet reagere, hvis barnet der er indsat i et voksenfængsel er grædende eller depressiv? 
+
+
+
+', N'Spm. om, hvorledes fængselspersonalet skal reagere, hvis barnet der er indsat i et voksenfængsel er grædende eller depressiv, til justitsministeren
+
+', 247368, N'', N'', null, N'2015-12-05 23:45:22.643');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247370, 13, 36, 1, N'O', N'Spm. om indsatte børn i danske voksenfængsler kan få besøg af børnepsykologer, hvis de går i behandling, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:23.690');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247371, 17, 22, 1, N'O', N'L 164 - svar på spm. 26, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:54:17.000', N'', N'', N'Kan indsatte børn i danske voksenfængsler få besøg af børnepsykologer, hvis de går i behandling? 
+
+
+
+
+', N'Spm. om indsatte børn i danske voksenfængsler kan få besøg af børnepsykologer, hvis de går i behandling, til justitsministeren
+
+', 247370, N'', N'', null, N'2015-12-05 23:45:23.690');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247372, 13, 36, 1, N'O', N'Spm. om hvorledes ministeren vil sikre, at børn der er indsat i voksenfængsler får den fornødne undervisning som de lovpligtigt skal have, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:05.110');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247373, 17, 22, 1, N'O', N'L 164 - svar på spm. 27, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:52:50.000', N'', N'', N'Hvorledes vil ministeren sikre, at børn der er indsat i voksenfængsler får den fornødne undervisning som de lovpligtigt skal have?
+
+
+
+
+
+', N'Spm. om hvorledes ministeren vil sikre, at børn der er indsat i voksenfængsler får den fornødne undervisning som de lovpligtigt skal have, til justitsministeren
+
+', 247372, N'', N'', null, N'2015-12-05 23:45:05.110');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247374, 13, 36, 1, N'O', N'Spm. om, hvem skal undervise børn indsat i voksenfængsler, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:08.157');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247375, 17, 22, 1, N'O', N'L 164 - svar på spm. 28, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:51:21.000', N'', N'', N'Hvem skal undervise børn indsat i voksenfængsler? 
+
+
+
+
+
+
+', N'Spm. om, hvem skal undervise børn indsat i voksenfængsler, til justitsministeren
+
+', 247374, N'', N'', null, N'2015-12-05 23:45:08.157');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247376, 13, 36, 1, N'O', N'Spm. om hvordan ministeren vil sikre sig, at børn indsat i voksenfængsler kan modtage undervisning i fysik, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:07.157');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247377, 17, 22, 1, N'O', N'L 164 - svar på spm. 29, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:49:54.000', N'', N'', N'Hvordan vil ministeren sikre sig, at børn indsat i voksenfængsler kan modtage undervisning i fysik? 
+
+
+
+
+
+
+', N'Spm. om hvordan ministeren vil sikre sig, at børn indsat i voksenfængsler kan modtage undervisning i fysik, til justitsministeren
+
+', 247376, N'', N'', null, N'2015-12-05 23:45:07.157');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247378, 13, 36, 1, N'O', N'Spm. om hvordan ministeren vil sikre sig, at børn i voksenfængsler ikke tager psykisk skade af at være anbragt i netop voksenfængsler, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:06.703');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247379, 17, 22, 1, N'O', N'L 164 - svar på spm. 30, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:48:20.000', N'', N'', N'Hvordan vil ministeren sikre sig, at børn i voksenfængsler ikke tager psykisk skade af at være anbragt i netop voksenfængsler?
+
+
+
+
+
+
+
+', N'Spm. om hvordan ministeren vil sikre sig, at børn i voksenfængsler ikke tager psykisk skade af at være anbragt i netop voksenfængsler, til justitsministeren
+
+', 247378, N'', N'', null, N'2015-12-05 23:45:06.703');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247380, 13, 36, 1, N'O', N'Spm. om, hvor mange nye pladser på de sikrede institutioner ministeren har kendskab til, at der etableres frem mod 1. juli 2010, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:26.673');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247381, 17, 22, 1, N'O', N'L 164 - svar på spm. 31, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 09:07:55.000', N'', N'', N'Hvor mange nye pladser på de sikrede institutioner har ministeren kendskab til, at der etableres frem mod 1. juli 2010 hvor loven om sænkelse af den kriminelle lavalder skal gælde fra?
+
+
+
+
+
+
+
+', N'Spm. om, hvor mange nye pladser på de sikrede institutioner ministeren har kendskab til, at der etableres frem mod 1. juli 2010, til justitsministeren
+
+', 247380, N'', N'', null, N'2015-12-05 23:45:26.673');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247382, 13, 36, 1, N'O', N'Spm. om redegørelse for, hvordan en sænkning af den kriminelle lavalder kan siges at virke præventivt, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:44:57.080');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247383, 17, 22, 1, N'O', N'L 164 - svar på spm. 32, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 16:54:13.000', N'', N'', N'Ministeren bedes med baggrund i Ungdomskommissionens betænkning redegøre for, hvordan en sænkning af den kriminelle lavalder kan siges at virke præventivt?
+
+
+
+
+
+
+
+
+', N'Spm. om redegørelse for, hvordan en sænkning af den kriminelle lavalder kan siges at virke præventivt, til justitsministeren
+
+', 247382, N'', N'', null, N'2015-12-05 23:44:57.080');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247384, 13, 36, 1, N'O', N'Spm. om, hvad den mundtlige aftale som Dansk Folkepartis medlemmer Peter Skaarup og Malene Harpsøe siger partiet har med ministeren om at der pr. 1. juli 2010 vil være pladser nok på de sikrede institutioner helt præcist indeholder, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:44:57.750');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247385, 17, 22, 1, N'O', N'L 164 - svar på spm. 33, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 16:55:56.000', N'', N'', N'Hvad indeholder den mundtlige aftale som Dansk Folkepartis medlemmer Peter Skaarup og Malene Harpsøe siger partiet har med ministeren om at der pr. 1. juli 2010 vil være pladser nok på de sikrede institutioner helt præcist? 
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvad den mundtlige aftale som Dansk Folkepartis medlemmer Peter Skaarup og Malene Harpsøe siger partiet har med ministeren om at der pr. 1. juli 2010 vil være pladser nok på de sikrede institutioner helt præcist indeholder, til justitsministeren
+
+', 247384, N'', N'', null, N'2015-12-05 23:44:57.767');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247386, 13, 36, 1, N'O', N'Spm. om ministeren vil udskyde lovens ikræfttrædelsestidspunkt hvis ikke der er bygget nye pladser nok, således at vi ikke kommer til at opleve at 14-årige bliver indsat i voksenfængsler, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:24.860');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247387, 17, 22, 1, N'O', N'L 164 - svar på spm. 34, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 09:06:26.000', N'', N'', N'Vil ministeren udskyde lovens ikræfttrædelsestidspunkt hvis ikke der er bygget nye pladser nok, således at vi ikke kommer til at opleve at 14-årige bliver indsat i voksenfængsler?
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren vil udskyde lovens ikræfttrædelsestidspunkt hvis ikke der er bygget nye pladser nok, således at vi ikke kommer til at opleve at 14-årige bliver indsat i voksenfængsler, til justitsministeren
+
+', 247386, N'', N'', null, N'2015-12-05 23:45:24.860');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247388, 13, 36, 1, N'O', N'Spm. om ministeren vil garantere at ingen 14-årig vil blive indsat i et voksenfængsel, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:25.347');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247389, 17, 22, 1, N'O', N'L 164 - svar på spm. 35, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 09:05:01.000', N'', N'', N'Vil ministeren garantere at ingen 14-årig vil blive indsat i et voksenfængsel? 
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren vil garantere at ingen 14-årig vil blive indsat i et voksenfængsel, til justitsministeren
+
+', 247388, N'', N'', null, N'2015-12-05 23:45:25.347');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247390, 13, 36, 1, N'O', N'Spm. om to 14-årige i princippet kan dømmes for at have forbrudt sig mod loven hvis de har haft frivilligt samleje eller anden kønslig omgang med hinanden nu da de er ovre den kriminele lavalder, men under den seksuelle lavalder, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:46:33.970');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247391, 17, 22, 1, N'O', N'L 164 - svar på spm. 36, fra justitsministeren', N'2010-05-06 00:00:00.000', N'2010-05-06 00:00:00.000', N'2010-05-06 16:20:33.000', N'', N'', N'Kan to 14-årige i princippet dømmes for at have forbrudt sig mod loven hvis de har haft frivilligt samleje eller anden kønslig omgang med hinanden nu da de er ovre den kriminele lavalder, men under den seksuelle lavalder? 
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om to 14-årige i princippet kan dømmes for at have forbrudt sig mod loven hvis de har haft frivilligt samleje eller anden kønslig omgang med hinanden nu da de er ovre den kriminele lavalder, men under den seksuelle lavalder, til justitsministeren
+
+', 247390, N'', N'', null, N'2015-12-05 23:46:33.970');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247392, 13, 36, 1, N'O', N'Spm. om eksempler på ting der er ulovlige, men hvor det ikke er meningen at folk skal straffes for at have forbrudt sig mod loven, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:27.797');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247393, 17, 22, 1, N'O', N'L 164 - svar på spm. 37, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 09:00:16.000', N'', N'', N'Ministeren bedes oplyse om eksempler på ting der er ulovlige, men hvor det ikke er meningen at folk skal straffes for at have forbrudt sig mod loven. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om eksempler på ting der er ulovlige, men hvor det ikke er meningen at folk skal straffes for at have forbrudt sig mod loven, til justitsministeren
+
+', 247392, N'', N'', null, N'2015-12-05 23:45:27.797');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247394, 13, 36, 1, N'O', N'Spm. om, hvorfor ministeren ikke vil høre Straffelovrådet inden lovforslaget vedtages, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:44:57.407');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247395, 17, 22, 1, N'O', N'L 164 - svar på spm. 38, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 16:57:18.000', N'', N'', N'Hvorfor vil ministeren ikke høre Straffelovrådet inden lovforslaget vedtages? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvorfor ministeren ikke vil høre Straffelovrådet inden lovforslaget vedtages, til justitsministeren
+
+', 247394, N'', N'', null, N'2015-12-05 23:44:57.407');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247396, 13, 36, 1, N'O', N'Spm. om, hvorfor der ikke er sat penge af til Kriminalforsorgen, når vi må regne med at de får udgifter i forbindelse med, at de skal have 14-årige i deres fængsler, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:44:57.940');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247397, 17, 22, 1, N'O', N'L 164 - svar på spm. 39, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 16:59:04.000', N'', N'', N'Hvorfor er der ikke sat penge af til Kriminalforsorgen, når vi må regne med at de får udgifter i forbindelse med, at de skal have 14-årige i deres fængsler?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvorfor der ikke er sat penge af til Kriminalforsorgen, når vi må regne med at de får udgifter i forbindelse med, at de skal have 14-årige i deres fængsler, til justitsministeren
+
+', 247396, N'', N'', null, N'2015-12-05 23:44:57.940');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247398, 13, 36, 1, N'O', N'Spm. om det er alle fængselsbetjente, der kan komme til at arbejde med børn i voksenfængslerne, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:06.953');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247399, 17, 22, 1, N'O', N'L 164 - svar på spm. 40, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:46:29.000', N'', N'', N'Er det alle fængselsbetjente, der kan komme til at arbejde med børn i voksenfængslerne, eller vil ministeren sørge for at der kommer en særlig børneenhed med personale der er efteruddannet til at spotte faretegn i børns udvikling?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om det er alle fængselsbetjente, der kan komme til at arbejde med børn i voksenfængslerne, til justitsministeren
+
+', 247398, N'', N'', null, N'2015-12-05 23:45:06.970');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247400, 13, 36, 1, N'O', N'Spm. om, hvordan personalet i fængslerne er uddannet til at reagere, hvis børn under afsoning i et voksenfængsel bliver meget indadvendte, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:06.517');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247401, 17, 22, 1, N'O', N'L 164 - svar på spm. 41, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:45:02.000', N'', N'', N'Hvordan er personalet i fængslerne uddannet til at reagere, hvis børn under afsoning i et voksenfængsel bliver meget indadvendte?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan personalet i fængslerne er uddannet til at reagere, hvis børn under afsoning i et voksenfængsel bliver meget indadvendte, til justitsministeren
+
+', 247400, N'', N'', null, N'2015-12-05 23:45:06.517');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247402, 13, 36, 1, N'O', N'Spm. om, hvilken udenlandsk erfaring Justitsministeriet har gjort sig bekendt med i forhold til at undersøge, hvordan det er at have børn i fængsler, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:06.313');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247403, 17, 22, 1, N'O', N'L 164 - svar på spm. 42, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:43:33.000', N'', N'', N'Hvilken udenlandsk erfaring har Justitsministeriet gjort sig bekendt med i forhold til at undersøge, hvordan det er at have børn i fængsler og hvilken viden har ministeriet om hvilke særlige forholdsregler der skal foretages når et barn indsættes i et voksenfængsel?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvilken udenlandsk erfaring Justitsministeriet har gjort sig bekendt med i forhold til at undersøge, hvordan det er at have børn i fængsler, til justitsministeren
+
+', 247402, N'', N'', null, N'2015-12-05 23:45:06.330');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247404, 13, 36, 1, N'O', N'Spm., om ministeren vil være indstillet på at stille ændringsforslag, der indebærer, at lovforslaget deles, således at bestemmelserne om kontaktpersonordningen udskilles i et selvstændigt lovforslag, til indenrigs- og sundhedsministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:41:40.170');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247405, 17, 22, 1, N'O', N'L 129 - svar på spm. 8, fra indenrigs- og sundhedsministeren', N'2010-04-27 00:00:00.000', N'2010-04-27 00:00:00.000', N'2010-04-27 18:49:52.000', N'', N'', N'Vil ministeren være indstillet på at stille ændringsforslag, der indebærer at lovforslaget deles, således at bestemmelserne om kontaktpersonordningen udskilles i et selvstændigt lovforslag?', N'Spm., om ministeren vil være indstillet på at stille ændringsforslag, der indebærer, at lovforslaget deles, således at bestemmelserne om kontaktpersonordningen udskilles i et selvstændigt lovforslag, til indenrigs- og sundhedsministeren', 247404, N'', N'', null, N'2015-12-05 23:41:40.170');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247406, 13, 36, 1, N'O', N'Spm. om ministeren vil sørge for at Folketingets Retsudvalg på ugebasis kan få en oversigt over hvor mange børn og unge der afsoner i et voksenfængsel, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:44:59.487');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247407, 17, 22, 1, N'O', N'L 164 - svar på spm. 43, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 17:00:23.000', N'', N'', N'Vil ministeren sørge for at Folketingets Retsudvalg på ugebasis kan få en oversigt over hvor mange børn og unge der afsoner i et voksenfængsel?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren vil sørge for at Folketingets Retsudvalg på ugebasis kan få en oversigt over hvor mange børn og unge der afsoner i et voksenfængsel, til justitsministeren
+
+', 247406, N'', N'', null, N'2015-12-05 23:44:59.487');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247408, 13, 36, 1, N'O', N'Spm. om ministeren mener at 14-årige børn tager skade af at være i et voksenfængsel, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:05.907');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247409, 17, 22, 1, N'O', N'L 164 - svar på spm. 44, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:42:07.000', N'', N'', N'Mener ministeren at 14-årige børn tager skade af at være i et voksenfængsel? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren mener at 14-årige børn tager skade af at være i et voksenfængsel, til justitsministeren
+
+', 247408, N'', N'', null, N'2015-12-05 23:45:05.907');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247410, 13, 36, 1, N'O', N'Spm. om ministeren mener at nogle børn med fordel kan indsættes i voksenfængsler i stedet for at anbringes i sikrede institutioner, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:06.110');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247411, 17, 22, 1, N'O', N'L 164 - svar på spm. 45, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-05 08:40:03.000', N'', N'', N'Mener ministeren at nogle børn med fordel kan indsættes i voksenfængsler i stedet for at anbringes i sikrede institutioner?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren mener at nogle børn med fordel kan indsættes i voksenfængsler i stedet for at anbringes i sikrede institutioner, til justitsministeren
+
+', 247410, N'', N'', null, N'2015-12-05 23:45:06.110');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247412, 13, 36, 1, N'O', N'Spm. om, hvorledes forslaget om at sænke den kriminelle lavalder hænger sammen med ministerens udmeldinger om at ville satse på forebyggelse, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:02.220');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247413, 17, 22, 1, N'O', N'L 164 - svar på spm. 46, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 17:01:54.000', N'', N'', N'Ministeren bedes svare på, hvorledes forslaget om at sænke den kriminelle lavalder hænger sammen med ministerens udmeldinger om at ville satse på forebyggelse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvorledes forslaget om at sænke den kriminelle lavalder hænger sammen med ministerens udmeldinger om at ville satse på forebyggelse, til justitsministeren
+
+', 247412, N'', N'', null, N'2015-12-05 23:45:02.220');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247414, 13, 36, 1, N'O', N'Spm. om ministeren kan garantere, at den kriminelle lavalder ikke sænkes yderligere uanset om Dansk Folkeparti ville finde på at kræve det i en kommende finanslovsforhandling mellem regeringen og Dansk Folkeparti, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:44:59.847');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247415, 17, 22, 1, N'O', N'L 164 - svar på spm. 47, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 17:03:11.000', N'', N'', N'Kan ministeren garantere, at den kriminelle lavalder ikke sænkes yderligere uanset om Dansk Folkeparti ville finde på at kræve det i en kommende finanslovsforhandling mellem regeringen og Dansk Folkeparti?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren kan garantere, at den kriminelle lavalder ikke sænkes yderligere uanset om Dansk Folkeparti ville finde på at kræve det i en kommende finanslovsforhandling mellem regeringen og Dansk Folkeparti, til justitsministeren
+
+', 247414, N'', N'', null, N'2015-12-05 23:44:59.847');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247416, 13, 36, 1, N'O', N'Spm. om ministeren synes det er rimeligt, at den kriminelle lavalder i Danmark ikke fastsættes efter hvad der virker mest præventivt i forhold til at holde børn væk fra kriminalitet, men at den alene sænkes på grund af et finanslovskrav, til justitsministeren
+
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:02.783');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247417, 17, 22, 1, N'O', N'L 164 - svar på spm. 48, fra justitsministeren', N'2010-05-04 00:00:00.000', N'2010-05-04 00:00:00.000', N'2010-05-04 17:04:31.000', N'', N'', N'Synes ministeren det er rimeligt, at den kriminelle lavalder i Danmark ikke fastsættes efter hvad der virker mest præventivt i forhold til at holde børn væk fra kriminalitet, men at den alene sænkes på grund af et finanslovskrav?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren synes det er rimeligt, at den kriminelle lavalder i Danmark ikke fastsættes efter hvad der virker mest præventivt i forhold til at holde børn væk fra kriminalitet, men at den alene sænkes på grund af et finanslovskrav, til justitsministeren
+
+', 247416, N'', N'', null, N'2015-12-05 23:45:02.783');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247418, 13, 36, 1, N'O', N'MFU spm. om, hvad ministeren vil gøre for at patienter i det nordvestjyske kan få en hospitalsbehandling som før regionsdannelsen m.v., til indenrigs- og sundhedsministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:55:02.130');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247419, 17, 22, 1, N'O', N'SUU alm. del - svar på spm. 518, fra indenrigs- og sundhedsministeren', N'2010-05-21 00:00:00.000', N'2010-05-21 00:00:00.000', N'2010-05-21 15:44:08.000', N'', N'', N'Ifølge Dagbladet Holstebro den 17. april 2010, side 5 brækkede en ung mand der var ude at spille fodbold sit ben den 12. april 2010. Skaden kunne ikke behandles på Holstebro hospital på grund af personalemangel. Drengen blev kørt til Herning der meddelte, at man ikke havde tid til behandlingen, og først kunne klare behandlingen torsdag den 17. april.
+Finder ministeren en sådan behandling af en tilskadekommet borger acceptabel, og hvad vil ministeren gøre for at patienter i det nordvestjyske kan få en hospitalsbehandling som før regionsdannelsen?', N'MFU spm. om, hvad ministeren vil gøre for at patienter i det nordvestjyske kan få en hospitalsbehandling som før regionsdannelsen m.v., til indenrigs- og sundhedsministeren', 247418, N'', N'', null, N'2015-12-05 23:55:02.130');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247420, 13, 36, 1, N'O', N'Spm. om, hvor mange udlændinge der i perioden fra 2000-2009 har fået tildelt humanitær opholdstilladelse, fordi de opfylder sygdomskriteriet, og fordi de pågældende ikke har en reel mulighed for at betale den nødvendige sygdomsbehandling i hjemlandet, til integrationsministeren', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:45:28.627');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247421, 17, 22, 1, N'O', N'L 188 - svar på spm. 33, fra integrationsministeren', N'2010-05-05 00:00:00.000', N'2010-05-05 00:00:00.000', N'2010-05-05 09:33:37.000', N'', N'', N'Ministeren bedes redegøre for, hvor mange udlændinge der i perioden fra 2000-2009 har fået tildelt humanitær opholdstilladelse, fordi de opfylder sygdomskriteriet, og fordi det er blevet vurderet, at de pågældende ikke har en reel mulighed for at betale og dermed få den nødvendige sygdomsbehandling i hjemlandet. Tallene bedes angivet for hvert enkelt år i perioden og i forhold til det samlede antal tildelte humanitære opholdstilladelser pr. år. Spørgsmålet stilles i lyset af den foreslåede praksisændring for vurderingen af mulighederne for behandling i hjemlandet i forbindelse med ansøgninger om humanitær opholdstilladelse.', N'Spm. om, hvor mange udlændinge der i perioden fra 2000-2009 har fået tildelt humanitær opholdstilladelse, fordi de opfylder sygdomskriteriet, og fordi de pågældende ikke har en reel mulighed for at betale den nødvendige sygdomsbehandling i hjemlandet, til integrationsministeren', 247420, N'', N'', null, N'2015-12-05 23:45:28.627');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247422, 13, 36, 1, N'O', N'Spm. om, hvordan Alarmcentralen på Vestegnen reagerede på en telefonisk henvendelse til 112 onsdag den 31. marts  2010  kl. 21.18 vedrørende en igangværende personforfølgelse med kniv i Vadgårdskvarteret i Søborg, til justitsministeren
+', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:50:51.597');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247423, 17, 22, 1, N'O', N'REU alm. del - svar på spm. 992, fra justitsministeren', N'2010-05-17 00:00:00.000', N'2010-05-17 00:00:00.000', N'2010-05-17 10:31:24.000', N'', N'', N'Ministeren bedes indhente oplysninger om, hvordan Alarmcentralen på Vestegnen reagerede på en telefonisk henvendelse til 112 onsdag den 31. marts  2010  kl. 21.18 vedrørende en igangværende personforfølgelse med kniv i Vadgårdskvarteret i Søborg  og oversende dem til Folketingets Retsudvalg.
+', N'Spm. om, hvordan Alarmcentralen på Vestegnen reagerede på en telefonisk henvendelse til 112 onsdag den 31. marts  2010  kl. 21.18 vedrørende en igangværende personforfølgelse med kniv i Vadgårdskvarteret i Søborg, til justitsministeren
+', 247422, N'', N'', null, N'2015-12-05 23:50:51.597');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247424, 13, 36, 1, N'O', N'Spm. om at oplyse effekterne af de dele af finansieringen af Forårspakke 2.0, som bliver implementeret senere end antaget i den oprindelige aftale, til skatteministeren', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', null, null, null, null, null, null, null, null, null, N'2015-12-05 23:57:36.040');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247425, 17, 22, 1, N'O', N'SAU alm. del - svar på spm. 396, fra skatteministeren', N'2010-05-26 00:00:00.000', N'2010-05-26 00:00:00.000', N'2010-05-27 10:24:30.000', N'', N'', N'Vil ministeren oplyse effekterne af de dele af finansieringen af Forårspakke 2.0, som bliver implementeret senere end antaget i den oprindelige aftale? Og vil ministeren opdatere oversigten over alle finansieringskilderne og deres bidrag år for år frem til 2019 samt den varige effekt, så den er korrekt dags dato?', N'Spm. om at oplyse effekterne af de dele af finansieringen af Forårspakke 2.0, som bliver implementeret senere end antaget i den oprindelige aftale, til skatteministeren', 247424, N'', N'', null, N'2015-12-05 23:57:36.040');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247426, 12, 56, 1, N'O', N'Møde med ATP den 12. maj', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 17:05:08.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:29.013');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247427, 21, 55, 1, N'O', N'Tillægsbetænkning afgivet af Arbejdsmarkedsudvalget den 21. april 2010', N'2010-04-21 17:20:22.450', N'2010-04-21 17:20:21.000', null, N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:40.153');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247428, 12, 55, 1, N'O', N'Tillægsbetænkning afgivet 21. april 2010', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 17:22:13.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:40.200');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247429, 12, 53, 1, N'O', N'Henvendelse af 21/4-10 fra Danske Mediers Forum', N'2010-04-21 00:00:00.000', N'2010-04-21 00:00:00.000', N'2010-04-21 17:52:46.000', N'', N'', null, null, null, N'', N'', null, N'2015-12-05 23:38:40.653');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247431, 13, 36, 1, N'O', N'Spm. om, hvilke konkrete beviser en hundeejer skal have for at bevise, at  vedkommenes hund ikke er af en forbudt race, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:42:59.327');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247432, 17, 22, 1, N'O', N'L 163 - svar på spm. 13, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 08:54:04.000', N'', N'', N'Hvilke konkrete beviser skal en hundeejer have for at bevise, at  vedkommenes hund ikke er af en forbudt race?
+
+', N'Spm. om, hvilke konkrete beviser en hundeejer skal have for at bevise, at  vedkommenes hund ikke er af en forbudt race, til justitsministeren
+
+', 247431, N'', N'', null, N'2015-12-05 23:42:59.327');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247433, 13, 36, 1, N'O', N'Spm. om, hvordan man vil sikre sig imod urigtige beviser, f.eks. en falsk eller urigtig stamtavle, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:42:58.750');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247434, 17, 22, 1, N'O', N'L 163 - svar på spm. 14, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 08:55:20.000', N'', N'', N'Hvordan vil man sikre sig imod urigtige beviser, f.eks. en falsk eller urigtig stamtavle?
+
+
+
+', N'Spm. om, hvordan man vil sikre sig imod urigtige beviser, f.eks. en falsk eller urigtig stamtavle, til justitsministeren
+
+', 247433, N'', N'', null, N'2015-12-05 23:42:58.750');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247435, 13, 36, 1, N'O', N'Spm. om, hvem der skal vurdere bevisets gyldighed og rigtighed, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:42:59.627');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247436, 17, 22, 1, N'O', N'L 163 - svar på spm. 15, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 08:59:38.000', N'', N'', N'Hvem skal vurdere bevisets gyldighed og rigtighed?
+
+
+
+
+', N'Spm. om, hvem der skal vurdere bevisets gyldighed og rigtighed, til justitsministeren
+
+', 247435, N'', N'', null, N'2015-12-05 23:42:59.627');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247437, 13, 36, 1, N'O', N'Spm. om bevisets gyldighed og rigtighed kan afprøves ved domstolene, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:42:59.140');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247438, 17, 22, 1, N'O', N'L 163 - svar på spm. 16, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 08:56:44.000', N'', N'', N'Kan bevisets gyldighed og rigtighed afprøves ved domstolene?
+
+
+
+
+
+', N'Spm. om bevisets gyldighed og rigtighed kan afprøves ved domstolene, til justitsministeren
+
+', 247437, N'', N'', null, N'2015-12-05 23:42:59.140');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247439, 13, 36, 1, N'O', N'Spm. om, hvilken vejledning ministeren vil give landets hundeejere i korrekt bevisførelse for en hunds raceforhold, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:42:59.813');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247440, 17, 22, 1, N'O', N'L 163 - svar på spm. 17, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 08:58:18.000', N'', N'', N'Hvilken vejledning vil ministeren give landets hundeejere i korrekt bevisførelse for en hunds raceforhold?
+
+
+
+
+
+
+', N'Spm. om, hvilken vejledning ministeren vil give landets hundeejere i korrekt bevisførelse for en hunds raceforhold, til justitsministeren
+
+', 247439, N'', N'', null, N'2015-12-05 23:42:59.813');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247441, 13, 36, 1, N'O', N'Spm. om, hvilke forholdsregler nuværende ejere af de kommende forbudte racer skal tage, og hvordan forventer ministeren at kommunikere dette ud til alle, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:00.000');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247442, 17, 22, 1, N'O', N'L 163 - svar på spm. 18, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:01:01.000', N'', N'', N'Hvilke forholdsregler skal nuværende ejere af de kommende forbudte racer tage, og hvordan forventer ministeren at kommunikere dette ud til alle?
+
+
+
+
+
+
+
+
+', N'Spm. om, hvilke forholdsregler nuværende ejere af de kommende forbudte racer skal tage, og hvordan forventer ministeren at kommunikere dette ud til alle, til justitsministeren
+
+', 247441, N'', N'', null, N'2015-12-05 23:43:00.017');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247443, 13, 36, 1, N'O', N'Spm. om ministeren vil stille krav om sterilisation og kastration af de forbudte hunderacer og hvis ikke bedes ministren begrunde dette, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:00.733');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247444, 17, 22, 1, N'O', N'L 163 - svar på spm. 19, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:02:29.000', N'', N'', N'Vil ministeren stille krav om sterilisation og kastration af de forbudte hunderacer og hvis ikke bedes ministren begrunde dette?
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren vil stille krav om sterilisation og kastration af de forbudte hunderacer og hvis ikke bedes ministren begrunde dette, til justitsministeren
+
+', 247443, N'', N'', null, N'2015-12-05 23:43:00.733');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247445, 13, 36, 1, N'O', N'Spm. om ministeren kan bekræfte, at politiets fremgangsmetode i forhold til aflivning af en hund efter lovforslaget er forskellig alt efter om det er en hund/et menneske eller en kat/kanin/hest som hunden bider, og vil ministeren opridse disse forskelle, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:01.233');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247446, 17, 22, 1, N'O', N'L 163 - svar på spm. 20, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:06:41.000', N'', N'', N'Kan ministeren bekræfte, at politiets fremgangsmetode i forhold til aflivning af en hund efter lovforslaget er forskellig alt efter om det er en hund/et menneske eller en kat/kanin/hest som hunden bider, og vil ministeren opridse disse forskelle?
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren kan bekræfte, at politiets fremgangsmetode i forhold til aflivning af en hund efter lovforslaget er forskellig alt efter om det er en hund/et menneske eller en kat/kanin/hest som hunden bider, og vil ministeren opridse disse forskelle, til justitsministeren
+
+', 247445, N'', N'', null, N'2015-12-05 23:43:01.233');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247447, 13, 36, 1, N'O', N'Spm. om eksempler på, hvornår hunde ifølge nyreguleringen kan aflives, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:00.220');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247448, 17, 22, 1, N'O', N'L 163 - svar på spm. 21, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:03:55.000', N'', N'', N'Vil ministeren give eksempler på, hvornår hunde ifølge nyreguleringen kan aflives?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om eksempler på, hvornår hunde ifølge nyreguleringen kan aflives, til justitsministeren
+
+', 247447, N'', N'', null, N'2015-12-05 23:43:00.220');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247449, 13, 36, 1, N'O', N'Spm. om ministeren vil medvirke til at ændre loven, således at personer, der arrangerer eller lader sin hund deltage i hundekampe, ved dom automatisk mister retten til at have hund igen, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:00.923');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247450, 17, 22, 1, N'O', N'L 163 - svar på spm. 22, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:05:14.000', N'', N'', N'Vil ministeren medvirke til at ændre loven, således at personer, der arrangerer eller lader sin hund deltage i hundekampe, ved dom automatisk mister retten til at have hund igen?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren vil medvirke til at ændre loven, således at personer, der arrangerer eller lader sin hund deltage i hundekampe, ved dom automatisk mister retten til at have hund igen, til justitsministeren
+
+', 247449, N'', N'', null, N'2015-12-05 23:43:00.923');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247451, 13, 36, 1, N'O', N'Spm. om, hvordan ministeren er kommet frem til niveauet af de bøder, som ministeren vil forhøje, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:01.970');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247452, 17, 22, 1, N'O', N'L 163 - svar på spm. 23, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:08:05.000', N'', N'', N'Hvordan er ministeren kommet frem til niveauet af de bøder, som ministeren vil forhøje?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan ministeren er kommet frem til niveauet af de bøder, som ministeren vil forhøje, til justitsministeren
+
+', 247451, N'', N'', null, N'2015-12-05 23:43:01.983');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247453, 13, 36, 1, N'O', N'Spm. om justitsministeren via socialministeren vil medvirke til et nationalt forbud for offentligt ansatte som f.eks. dagplejere, der passer andres børn i eget hjem, mod at have de forbudte hunde i hjemmet, idet disse hunde udgør en trussel for de børn, som de passer, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:47:05.097');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247454, 17, 22, 1, N'O', N'L 163 - svar på spm. 24, fra justitsministeren', N'2010-05-06 00:00:00.000', N'2010-05-06 00:00:00.000', N'2010-05-07 10:20:11.000', N'', N'', N'Vil justitsministeren via socialministeren medvirke til et nationalt forbud for offentligt ansatte som f.eks. dagplejere, der passer andres børn i eget hjem, mod at have de forbudte hunde i hjemmet, idet disse hunde udgør en trussel for de børn, som de passer?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om justitsministeren via socialministeren vil medvirke til et nationalt forbud for offentligt ansatte som f.eks. dagplejere, der passer andres børn i eget hjem, mod at have de forbudte hunde i hjemmet, idet disse hunde udgør en trussel for de børn, som de passer, til justitsministeren
+
+', 247453, N'', N'', null, N'2015-12-05 23:47:05.097');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247455, 13, 36, 1, N'O', N'Spm. om redegørelse for status i Odsherred kommune om at forbyde dagplejere at have kamphunde i samme hjem, hvori dagplejeren passer børn, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:47:04.690');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247456, 17, 22, 1, N'O', N'L 163 - svar på spm. 25, fra justitsministeren', N'2010-05-06 00:00:00.000', N'2010-05-06 00:00:00.000', N'2010-05-07 10:17:43.000', N'', N'', N'Vil ministeren redegøre for status i Odsherred kommune om at forbyde dagplejere at have kamphunde i samme hjem, hvori dagplejeren passer børn?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om redegørelse for status i Odsherred kommune om at forbyde dagplejere at have kamphunde i samme hjem, hvori dagplejeren passer børn, til justitsministeren
+
+', 247455, N'', N'', null, N'2015-12-05 23:47:04.690');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247458, 13, 36, 1, N'O', N'Spm. om hvordan ministeren vil sikre, at politiet arbejder for, at loven bliver opretholdt, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:01.547');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247459, 17, 22, 1, N'O', N'L 163 - svar på spm. 26, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:09:28.000', N'', N'', N'Hvordan vil ministeren sikre, at politiet arbejder for, at loven bliver opretholdt?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om hvordan ministeren vil sikre, at politiet arbejder for, at loven bliver opretholdt, til justitsministeren
+
+', 247458, N'', N'', null, N'2015-12-05 23:43:01.547');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247460, 13, 36, 1, N'O', N'Spm. om, hvad ministeren vil gøre for at stoppe import af forbudte hunde, hvor hunde importeres til Danmark under falsk racenavne, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:01.780');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247461, 17, 22, 1, N'O', N'L 163 - svar på spm. 27, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:10:53.000', N'', N'', N'Hvad vil ministeren gøre for at stoppe import af forbudte hunde, hvor hunde importeres til Danmark under falsk racenavne?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvad ministeren vil gøre for at stoppe import af forbudte hunde, hvor hunde importeres til Danmark under falsk racenavne, til justitsministeren
+
+', 247460, N'', N'', null, N'2015-12-05 23:43:01.780');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247462, 13, 36, 1, N'O', N'Spm. om avlere af de forbudte hunderacer kan omgå forbudet ved at sælge de pågældende racer under andre racenavne og med falske stamtavler, inden forbuddet træder i kraft, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:29.577');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247463, 17, 22, 1, N'O', N'L 163 - svar på spm. 28, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 08:48:27.000', N'', N'', N'Kan avlere af de forbudte hunderacer omgå forbudet ved at sælge de pågældende racer under andre racenavne og med falske stamtavler, inden forbuddet træder i kraft?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om avlere af de forbudte hunderacer kan omgå forbudet ved at sælge de pågældende racer under andre racenavne og med falske stamtavler, inden forbuddet træder i kraft, til justitsministeren
+
+', 247462, N'', N'', null, N'2015-12-05 23:43:29.577');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247464, 13, 36, 1, N'O', N'Spm. om kravet om, at ens forbudte hund skal have mundkurv på og i snor kan omgås ved, at man i overgangsperioden ikke behøver at bevise, at ens hund ikke er af en af de forbudte racer, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:02.220');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247465, 17, 22, 1, N'O', N'L 163 - svar på spm. 29, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:13:25.000', N'', N'', N'Kan kravet om, at ens forbudte hund skal have mundkurv på og i snor omgås ved, at man i overgangsperioden ikke behøver at bevise, at ens hund ikke er af en af de forbudte racer?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om kravet om, at ens forbudte hund skal have mundkurv på og i snor kan omgås ved, at man i overgangsperioden ikke behøver at bevise, at ens hund ikke er af en af de forbudte racer, til justitsministeren
+
+', 247464, N'', N'', null, N'2015-12-05 23:43:02.220');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247466, 13, 36, 1, N'O', N'Spm. om ministeren er enig i, at ”red nose” og ”blue nose” er andre navne for pitt bull terrieren, og hvad vil ministeren gøre for at stoppe den pågældende omgåelse af forbudet mod pitt bull terrieren, til justitsministeren
+
+', N'2010-04-22 00:00:00.000', null, null, null, null, null, null, null, null, null, null, N'2015-12-05 23:43:02.407');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (247467, 17, 22, 1, N'O', N'L 163 - svar på spm. 30, fra justitsministeren', N'2010-04-29 00:00:00.000', N'2010-04-29 00:00:00.000', N'2010-05-03 09:14:54.000', N'', N'', N'Er ministeren enig i, at ”red nose” og ”blue nose” er andre navne for pitt bull terrieren, og hvad vil ministeren gøre for at stoppe den pågældende omgåelse af forbudet mod pitt bull terrieren?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om ministeren er enig i, at ”red nose” og ”blue nose” er andre navne for pitt bull terrieren, og hvad vil ministeren gøre for at stoppe den pågældende omgåelse af forbudet mod pitt bull terrieren, til justitsministeren
+
+', 247466, N'', N'', null, N'2015-12-05 23:43:02.407');

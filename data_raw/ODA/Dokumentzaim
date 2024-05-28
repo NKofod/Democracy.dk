@@ -1,0 +1,1000 @@
+
+
+
+
+
+
+
+
+', N'Spm. om, hvad kontakten mellem skoler og elever består i, til børne- og undervisningsministeren
+
+
+
+
+', 823370, N'', N'', null, N'2020-03-17 19:32:32.533');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823536, 17, 22, 1, N'O', N'L 140 - svar på spm. 64 om, hvordan en hjemmel, der regulerer omfang af og krav til nødundervisning, udfærdigelse af beviser m.v., skal indrettes, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:49:01.000', N'', N'', N'Vil ministeren oplyse hvilke planer ministeriet har for, hvordan en hjemmel, der regulerer nødundervisning, udfærdigelse af beviser, omfang af nødundervisning, krav til nødundervisning m.v. skal indrettes, jf. pkt. 2.3 om sikring af elever, kursister og deltageres fortsatte undervisning i lovudkast af 15. marts 2020?? ', N'Spm. om, hvordan en hjemmel, der regulerer omfang af og krav til nødundervisning, udfærdigelse af beviser m.v., skal indrettes, til børne- og undervisningsministeren
+
+
+
+
+', 823384, N'', N'', null, N'2020-07-20 12:20:56.173');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823537, 17, 22, 1, N'O', N'L 140 - svar på spm. 37 om at sikre, at Børne- og Undervisningsudvalgets medlemmer holdes orienteret, fra børne- og undervisningsministeren
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:41:27.000', N'', N'', N'Vil ministeren sikre, at Børne- og Undervisningsudvalgets medlemmer holdes orienteret, når ministeren fastsætter nærmere regler om gennemførelse af nødundervisning?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om at sikre, at Børne- og Undervisningsudvalgets medlemmer holdes orienteret, til børne- og undervisningsministeren
+
+
+', 823350, N'', N'', null, N'2020-03-17 19:47:44.063');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823538, 17, 22, 1, N'O', N'L 140 - svar på spm. 21 om, hvem der fører tilsyn med kvaliteten af nødundervisningen, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:36:15.000', N'', N'', N'Vil ministeren redegøre for, hvem der fører tilsyn med kvaliteten af nødundervisningen?
+
+
+
+
+
+
+
+', N'Spm. om, hvem der fører tilsyn med kvaliteten af nødundervisningen, til børne- og undervisningsministeren
+', 823331, N'', N'', null, N'2020-03-17 19:37:40.147');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823539, 17, 22, 1, N'O', N'L 140 - svar på spm. 20, om § 8, stk. 2, jf. udkast af 15. marts 2020, også vil kunne finde anvendelse for institutioner og skoler, der ikke sikrer nødundervisning af tilstrækkelig høj kvalitet, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:34:26.000', N'', N'', N'Vil ministeren redegøre for, om § 8, stk. 2, jf. udkast af 15. marts 2020, også vil kunne finde anvendelse for institutioner og skoler, der ikke sikrer nødundervisning af tilstrækkelig høj kvalitet?
+
+
+
+
+
+', N'Spm., om § 8, stk. 2, jf. udkast af 15. marts 2020, også vil kunne finde anvendelse for institutioner og skoler, der ikke sikrer nødundervisning af tilstrækkelig høj kvalitet, til børne- og undervisningsministeren
+', 823330, N'', N'', null, N'2020-07-20 12:22:01.367');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823540, 17, 22, 1, N'O', N'L 140 - svar på spm. 8 om, hvad der forstås ved praktisk orienteret undervisning, fra børne- og undervisningsministeren', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:33:26.000', N'', N'', N'Vil ministeren oplyse, hvad der forstås ved ’praktisk orienteret undervisning’, som ifølge udkast til bekendtgørelse om nødundervisning godt kan gennemføres, og vil ministeren give nogle eksempler på, hvad det er, som både er så nødvendigt og samtidigt sikkert at gennemføre i forhold til smitterisikoen?
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvad der forstås ved praktisk orienteret undervisning, til børne- og undervisningsministeren', 823316, N'', N'', null, N'2020-03-17 19:33:39.473');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823541, 17, 22, 1, N'O', N'L 140 - svar på spm. 4 om, hvor lang tid loven skal gælde, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:52:56.000', N'', N'', N'Vil ministeren oplyse, hvorfor der er lagt op til, at loven skal gælde frem til 1. marts 2021, herunder oplyse om ikke det er tilstrækkeligt, at loven kun gælder frem til 1. september 2020?
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvor lang tid loven skal gælde, til børne- og undervisningsministeren
+', 823312, N'', N'', null, N'2020-03-17 19:53:07.387');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823542, 17, 30, 1, N'O', N'L 140 - svar på spm. 19 om at oversende de refleksioner m.v., som ministeren forventes at have modtaget fra aktører på henholdsvis børne- og undervisningsområdet, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:53:49.000', N'', N'', N'Vil ministeren redegøre for og oversende de refleksioner og/eller input m.v., som ministeren forventes at have modtaget fra aktører på hhv. børne- og undervisningsområdet set i lyset af, at der ikke har været tid til en ekstern høring af lovforslaget?
+
+
+
+', N'Spm. om at oversende de refleksioner m.v., som ministeren forventes at have modtaget fra aktører på henholdsvis børne- og undervisningsområdet, til børne- og undervisningsministeren
+', 823329, N'', N'', null, N'2020-09-21 10:40:24.157');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823543, 17, 22, 1, N'O', N'L 140 - svar på spm. 74, om behovet for erstatningsundervisning kan stige, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:49:57.000', N'', N'', N'Har ministeren gjort sig overvejelser om, at behovet for erstatningsundervisning kan stige, hvis lukningen af skoler bliver forlænget ud over de to uger?', N'Spm., om behovet for erstatningsundervisning kan stige, til børne- og undervisningsministeren
+
+
+
+
+', 823395, N'', N'', null, N'2020-03-17 19:50:08.737');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823544, 17, 22, 1, N'O', N'L 140 - svar på spm. 77 om fysisk undervisning, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:51:57.000', N'', N'', N'Handelsgymnasiet (HHX) på Campus Vejle har en ASF klasse. Det er elever med autisme-spektrum-forstyrrelse. De har gjort opmærksomhed på, at det disse elever vil have behov for fysiskundervisning, idet de i modsat fald ikke vil kunne gennemføre deres studieområdeprojekt, som de skal aflevere fredag uge 14. Kan ministeren bekræfte at disse elever fortsat vil kunne modtage almindelig undervisning, og kan ministeren bekræfte, at andre børn og unge i en lignende situation vil kunne modtage almindelig undervisning?', N'Spm. om fysisk undervisning, til børne- og undervisningsministeren
+
+
+
+
+', 823399, N'', N'', null, N'2020-07-20 12:22:28.660');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823545, 17, 22, 1, N'O', N'L 140 - svar på spm. 51 om, hvordan begrebet ”kan”, skal forstås, jf. § 3, stk. 2, i udkast til bekendtgørelse fra den 15. marts 2020, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:55:42.000', N'', N'', N'Vil ministeren redegøre for, hvordan begrebet ”kan”, skal forstås, jf. § 3, stk. 2, i udkast til bekendtgørelse fra den 15. marts 2020?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan begrebet ”kan”, skal forstås, jf. § 3, stk. 2, i udkast til bekendtgørelse fra den 15. marts 2020, til børne- og undervisningsministeren
+
+
+
+
+', 823366, N'', N'', null, N'2020-03-17 19:55:53.343');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823546, 17, 22, 1, N'O', N'L 140 - svar på spm. 12, om det er den enkelte uddannelsesinstitution, som selv træffer beslutning om, hvorvidt de vil opkræve fortsat deltagerbetaling for kurser, uddannelsesaktiviteter, kostskoler m.v., fra børne- og undervisningsministeren', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:59:26.000', N'', N'', N'Vil ministeren oplyse, om det er den enkelte uddannelsesinstitution, som selv træffer beslutning om, hvorvidt de vil opkræve betaling eller ej (fortsat deltagerbetaling) for kurser, uddannelsesaktiviteter, kostskoler m.v., idet der henvises til pkt. 2.5.3, side 15 i udkast til lovforslag af den 15. marts 2020?
+
+
+
+
+
+
+
+
+', N'Spm., om det er den enkelte uddannelsesinstitution, som selv træffer beslutning om, hvorvidt de vil opkræve fortsat deltagerbetaling for kurser, uddannelsesaktiviteter, kostskoler m.v., til børne- og undervisningsministeren', 823321, N'', N'', null, N'2020-07-20 12:23:44.843');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823547, 17, 22, 1, N'O', N'L 140 - svar på spm. 52 om, hvordan § 5, stk. 2, i udkast til lovforslag og udkast til bekendtgørelse fra den 15. marts 2020 skal forstås, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:54:40.000', N'', N'', N'Vil ministeren redegøre for, hvordan § 5, stk. 2, i udkast til lovforslag og udkast til bekendtgørelse fra den 15. marts 2020 skal forstås?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan § 5, stk. 2, i udkast til lovforslag og udkast til bekendtgørelse fra den 15. marts 2020 skal forstås, til børne- og undervisningsministeren
+
+
+
+
+', 823367, N'', N'', null, N'2020-03-17 19:54:51.787');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823549, 17, 22, 1, N'O', N'L 140 - svar på spm. 5 om den fortsatte betaling for ydelser (børnepasning), fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:58:29.000', N'', N'', N'Set i lyset af, at den fortsatte betaling for ydelser (børnepasning), som forældrene ikke får, kan blive vanskelig, vil ministeren da oplyse, om der kan tages højde for det i lovforslaget?
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om den fortsatte betaling for ydelser (børnepasning), til børne- og undervisningsministeren
+', 823313, N'', N'', null, N'2020-03-17 19:58:41.013');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823550, 17, 22, 1, N'O', N'L 140 - svar på spm. 31 om, hvad der med § 7 i lovudkastet af 15. marts 2020 vil blive opkrævet, fra børne- og undervisningsministeren
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:57:35.000', N'', N'', N'Vil ministeren redegøre for, hvad der med § 7 i lovudkastet af 15. marts 2020 vil blive opkrævet af samlet betaling fra forældrene eller kursisterne på de forskellige typer af institutioner? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvad der med § 7 i lovudkastet af 15. marts 2020 vil blive opkrævet, til børne- og undervisningsministeren
+
+', 823344, N'', N'', null, N'2020-03-17 19:57:47.393');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823551, 17, 22, 1, N'O', N'L 140 - svar på spm. 22 om, hvor meget egenbetalingen/forældrebetalingen er på henholdsvis de frie grundskoler og på landets efterskoler, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 19:56:44.000', N'', N'', N'Vil ministeren redegøre for, hvor meget egenbetalingen/ forældrebetalingen er på hhv. de frie grundskoler og på landets efterskoler? Tallene bedes opgjort på månedsbasis.  
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvor meget egenbetalingen/forældrebetalingen er på henholdsvis de frie grundskoler og på landets efterskoler, til børne- og undervisningsministeren
+', 823332, N'', N'', null, N'2020-07-16 10:06:38.687');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823552, 17, 22, 1, N'O', N'L 140 - svar på spm. 81 om perioden for opkrævning af forældrebetaling, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:04:19.000', N'', N'', N'Vil ministeren redegøre for den længde af perioden for opkrævning af forældrebetaling, som ministeren finder det rimeligt at fastsætte, og vil ministeren endvidere oplyse begrundelsen herfor, idet der henvises til § 1, stk. 3, i lovudkast af 15. marts 2020? 
+', N'Spm. om perioden for opkrævning af forældrebetaling, til børne- og undervisningsministeren
+
+
+
+
+', 823403, N'', N'', null, N'2020-03-17 20:04:43.407');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823553, 17, 22, 1, N'O', N'L 140 - svar på spm. 15 om, hvorfor det er rimeligt, at forældrene, også ud over de netop 2 ugers udmeldte lukning af landets daginstitutioner, fortsat skal betale for pasning, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:01:24.000', N'', N'', N'Vil ministeren redegøre for, hvorfor regeringen finder det rimeligt, at forældrene, også udover de netop to ugers udmeldte lukning af landets daginstitutioner, fortsat skal betale forældrebetaling for pasning, uden de får noget retur for betalingen? Spørgsmålet skal ses i lyset af, at familiernes økonomi mange steder allerede er pressede pga. COVID-19-situationen, hvor nogle forældre mister deres arbejde, deres virksomhed går konkurs, eller de som selvstændige pludselig står uden et indtægtsgrundlag.
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvorfor det er rimeligt, at forældrene, også ud over de netop 2 ugers udmeldte lukning af landets daginstitutioner, fortsat skal betale for pasning, til børne- og undervisningsministeren
+', 823324, N'', N'', null, N'2020-07-20 13:03:05.423');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823554, 17, 22, 1, N'O', N'L 140 - svar på spm. 18 om, hvad det koster at tilbagebetale forældrene de penge, de har indbetalt i forældrebetaling, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:02:17.000', N'', N'', N'Vil ministeren redegøre for, hvad det koster at tilbagebetale forældrene de penge, de har indbetalt i forældrebetaling? Beløbet bedes både opgjort som et samlet beløb for forældrebetalingen samt med information om, hvad de administrative byrder forbundet med tilbagebetalingen vil løbe op i.
+
+', N'Spm. om, hvad det koster at tilbagebetale forældrene de penge, de har indbetalt i forældrebetaling, til børne- og undervisningsministeren
+', 823328, N'', N'', null, N'2020-03-17 20:02:28.410');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823555, 17, 22, 1, N'O', N'L 140 - svar på spm. 33, om ministeren er villig til at finde en kompensationsmulighed til efterskoler, fra børne- og undervisningsministeren
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:03:13.000', N'', N'', N'Er ministeren villig til at finde en kompensationsmulighed til efterskoler, så forældre, hvis børn er hjemme fra efterskole grundet COVID-19, ikke skal betale ’dobbelt’ for barnets kost og logi derhjemme også? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm., om ministeren er villig til at finde en kompensationsmulighed til efterskoler, til børne- og undervisningsministeren
+
+
+', 823346, N'', N'', null, N'2020-03-17 20:03:24.943');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823556, 17, 22, 1, N'O', N'L 140 - svar på spm. 14 om, hvordan tilbagebetalingen af forældrebetalingen foregik i forbindelse med lærerlockouten, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:00:24.000', N'', N'', N'Vil ministeren redegøre for, om og hvordan tilbagebetalingen af forældrebetalingen foregik i forbindelse med i forbindelse med lærerlockouten i 2013?
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan tilbagebetalingen af forældrebetalingen foregik i forbindelse med lærerlockouten, til børne- og undervisningsministeren
+', 823323, N'', N'', null, N'2020-07-16 10:09:14.603');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823557, 17, 22, 1, N'O', N'L 140 - svar på spm. 63 om selvstændige børnepassere, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:14:29.000', N'', N'', N'Vil ministeren sikre, at selvstændige børnepassere, som har måttet holde deres pasningsordning lukket og kun må tilbyde nødpasning, fordi deres private pasningsordning er eller har været omfattet af foranstaltninger iværksat efter regler fastsat i henhold til § 22, stk. 1, i lov om foranstaltninger mod smitsomme og andre overførbare sygdomme, kan opkræve den betaling fra forældre til de børn, som passes i den private pasningsordning, som disse efter den godkendte pasningsaftale er forpligtet til at betale for pasning, selvom de ikke kan modtage pasning af deres barn som følge af de nævnte foranstaltninger, jf. pkt. 2.2 om forældrebetaling, side 7 i lovudkast af 15. marts 2020?', N'Spm. om selvstændige børnepassere, til børne- og undervisningsministeren
+
+
+
+
+', 823383, N'', N'', null, N'2020-03-17 20:14:40.277');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823558, 17, 22, 1, N'O', N'L 140 - svar på spm. 48, om det er rimeligt, at lovudkastet giver efterskoler hjemmel til ikke bare at opkræve forældrebetaling, men også betaling for kost, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:08:53.000', N'', N'', N'Mener ministeren, det er rimeligt, at lovudkastet giver efterskoler hjemmel til ikke bare at opkræve forældrebetaling, men også betaling for kost?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm., om det er rimeligt, at lovudkastet giver efterskoler hjemmel til ikke bare at opkræve forældrebetaling, men også betaling for kost, til børne- og undervisningsministeren
+
+
+
+
+', 823361, N'', N'', null, N'2020-03-17 20:09:05.160');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823559, 17, 22, 1, N'O', N'L 140 - svar på spm. 62, om forældre, der har valgt pasning i en privat pasningsordning, har ret til tilskud, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:06:56.000', N'', N'', N'Vil ministeren sikre, at forældre, der har valgt pasning i en privat pasningsordning har ret til tilskud, selvom deres private pasningsordning er eller har været omfattet af foranstaltninger iværksat efter regler fastsat i henhold til § 22, stk. 1, i lov om foranstaltninger mod smitsomme og andre overførbare sygdomme, jf. pkt. 2.2 om forældrebetaling, side 7 i lovudkast af 15. marts 2020?', N'Spm., om forældre, der har valgt pasning i en privat pasningsordning, har ret til tilskud, til børne- og undervisningsministeren
+
+
+
+
+', 823382, N'', N'', null, N'2020-07-16 10:13:02.923');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823560, 17, 22, 1, N'O', N'L 140 - svar på spm. 61 om, hvordan lovforslaget stiller de private institutioner og de private fritidshjem, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:07:51.000', N'', N'', N'Vil ministeren oplyse, hvordan lovforslaget stiller de private institutioner og de private fritidshjem herunder forældrene og eleverne, jf. pkt. 2.2 om forældrebetaling fra side 7 i lovudkast af 15. marts 2020? ', N'Spm. om, hvordan lovforslaget stiller de private institutioner og de private fritidshjem, til børne- og undervisningsministeren
+
+
+
+
+', 823379, N'', N'', null, N'2020-03-17 20:08:02.370');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823561, 17, 22, 1, N'O', N'L 140 - svar på spm. 47, om der er indsat en hjemmel i lov om midlertidige foranstaltninger på børne- og undervisningsområdet til forebyggelse og afhjælpning i forbindelse med covid-19, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:05:39.000', N'', N'', N'Vil ministeren redegøre for, om, og i givet fald hvor, der er indsat en hjemmel i lov om midlertidige foranstaltninger på børne- og undervisningsområdet til forebyggelse og afhjælpning i forbindelse med COVID-19 for de private pasningsordninger til at opkræve forældrebetaling i denne situation, hvor de private pasningsordninger midlertidigt skal holde lukket pga. risikoen for spredning af COVID-19, og i fald, at der ikke er indsat en hjemmel, vil ministeren da begrunde hvorfor?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm., om der er indsat en hjemmel i lov om midlertidige foranstaltninger på børne- og undervisningsområdet til forebyggelse og afhjælpning i forbindelse med covid-19, til børne- og undervisningsministeren
+
+
+
+
+', 823360, N'', N'', null, N'2021-01-27 12:17:20.837');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823562, 17, 22, 1, N'O', N'L 140 - svar på spm. 32 om, hvad ministeriet har lagt til grund for på hjemmesiden at oplyse, at det er for en yderligere håndsrækning til skolerne, fra børne- og undervisningsministeren
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:16:42.000', N'', N'', N'Vil ministeren uddybe de overvejelser, ministeriet har lagt til grund for på hjemmesiden at oplyse, at for en ”yderligere håndsrækning til skolerne, arbejdes der på at kunne udskyde fristen for årsrapporterne, som organisationerne har bedt om”, og vil ministeren endvidere oplyse, hvori lovudkast og/eller udkast til bekendtgørelser fra 15. marts 2020 dette konkret oplyses? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvad ministeriet har lagt til grund for på hjemmesiden at oplyse, at det er "for en yderligere håndsrækning til skolerne", til børne- og undervisningsministeren
+
+
+', 823345, N'', N'', null, N'2020-07-16 10:21:27.503');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823563, 17, 22, 1, N'O', N'L 140 - svar på spm. 49 om, hvorfor nedlukningen på grund af covid-19 ifølge udkast til bekendtgørelse ikke omfatter tamu, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:15:34.000', N'', N'', N'Vil ministeren redegøre for, hvorfor nedlukningen pga covid-19 ifølge udkast til bekendtgørelse ikke omfatter TAMU?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvorfor nedlukningen på grund af covid-19 ifølge udkast til bekendtgørelse ikke omfatter tamu, til børne- og undervisningsministeren
+
+
+
+
+', 823364, N'', N'', null, N'2021-01-27 12:17:21.763');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823564, 17, 22, 1, N'O', N'L 140 - svar på spm. 78 om, hvilke konsekvenser det vil have for dagtilbuds- og undervisningsområdet, hvis det bliver nødvendigt at forlænge lukningen, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:22:01.000', N'', N'', N'Kan ministeren redegøre for, hvilke konsekvenser det vil have for dagtilbuds- og undervisningsområdet, hvis det bliver nødvendigt at forlænge lukningen?
+', N'Spm. om, hvilke konsekvenser det vil have for dagtilbuds- og undervisningsområdet, hvis det bliver nødvendigt at forlænge lukningen, til børne- og undervisningsministeren
+
+
+
+
+', 823400, N'', N'', null, N'2020-03-17 20:22:12.663');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823565, 17, 22, 1, N'O', N'L 140 - svar på spm. 59 om, hvordan det sikres, at kommunen overholder pasningsgarantien og forsyningsforpligtelsen, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:19:59.000', N'', N'', N'Vil ministeren oplyse, hvordan det sikres, at kommunen overholder pasningsgarantien og forsyningsforpligtelsen, så snart institutionerne overgår til normal drift igen, jf. pkt. 2.1 om at fravige visse regler i dagtilbudsloven, side 6 i lovudkast af 15. marts 2020? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan det sikres, at kommunen overholder pasningsgarantien og forsyningsforpligtelsen, til børne- og undervisningsministeren
+
+
+
+
+', 823377, N'', N'', null, N'2020-03-17 20:20:10.830');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823566, 17, 22, 1, N'O', N'L 140 - svar på spm. 76 om undervisningskompetence blandt lærere, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:21:01.000', N'', N'', N'Vil ministeren oplyse, hvor lang tid de gældende bestemmelser om undervisningskompetence blandt lærere vil kunne afviges idet det er bekymrende, at kravet om undervisningskompetence risikerer at komme under pres, jf. bemærkningerne, side 23 af 32 i udkast til lovforslag af den 15. marts 2020? ', N'Spm. om undervisningskompetence blandt lærere, til børne- og undervisningsministeren
+
+
+
+
+', 823396, N'', N'', null, N'2020-03-17 20:21:15.040');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823567, 17, 22, 1, N'O', N'L 140 - svar på spm. 58 om, hvordan det sikres, at alle børn med behov bliver sprogtestet, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:18:56.000', N'', N'', N'Vil ministeren oplyse, hvordan det sikres, at alle børn med behov bliver sprogtestet, når børnene atter begynder i daginstitution igen, jf. pkt. 2.1 om at fravige visse regler i dagtilbudsloven, side 6 i lovudkast af 15. marts 2020? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan det sikres, at alle børn med behov bliver sprogtestet, til børne- og undervisningsministeren
+
+
+
+
+', 823373, N'', N'', null, N'2020-03-17 20:19:07.870');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823568, 17, 22, 1, N'O', N'L 140 - svar på spm. 50 om, hvor mange elever fra Færøerne og Grønland, som har forældre, der bor i udlandet, som forventes fortsat at skulle opholde sig på en efterskole eller lignende, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:17:48.000', N'', N'', N'Vil ministeren redegøre for, hvor mange elever fra hhv. Færøerne og Grønland, som har forældre, der bor i udlandet, der forventes fortsat at skulle opholde sig på en efterskole, skolehjem eller anden form for kostskole, jf. § 2, stk. 3, i udkast til bekendtgørelse, og vil ministeren oplyse, hvordan skolerne rent praktisk skal håndtere det?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvor mange elever fra Færøerne og Grønland, som har forældre, der bor i udlandet, som forventes fortsat at skulle opholde sig på en efterskole eller lignende, til børne- og undervisningsministeren
+
+
+
+
+', 823365, N'', N'', null, N'2020-10-27 16:23:52.677');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823569, 17, 22, 1, N'O', N'L 140 - svar på spm. 39 om, hvilken betydning lovforslaget har for svendeprøver, fra børne- og undervisningsministeren
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:23:00.000', N'', N'', N'Vil ministeren redegøre for, hvilken betydning lovforslaget har for svendeprøver, idet elever på erhvervsskoler, inden svendeprøven, er ansat i virksomheder på elevløn, og hvis de ikke kommer til svendeprøve, vil de således forblive på elevløn, og vil ministeren oplyse, om der kan opstå et erstatningskrav med tilbagevirkende kraft i denne sammenhæng? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvilken betydning lovforslaget har for svendeprøver, til børne- og undervisningsministeren
+
+
+
+', 823352, N'', N'', null, N'2020-03-17 20:23:11.763');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823570, 17, 22, 1, N'O', N'L 140 - svar på spm. 92 om talepapir fra det lukkede samråd om L 140 om midlertidige foranstaltninger på børne- og undervisningsområdet til forebyggelse og afhjælpning i forbindelse med covid-19, fra børne. og undervisningsministeren', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:24:01.000', N'', N'', N'Vin ministeren sende udvalget sit talepapir fra det lukket samråd om L 140 om midlertidige foranstaltninger på børne- og undervisningsområdet til forebyggelse og afhjælpning i forbindelse med COVID-19, jf. L 140 - samrådsspm. A.', N'Spm. om talepapir fra det lukkede samråd om L 140 om midlertidige foranstaltninger på børne- og undervisningsområdet til forebyggelse og afhjælpning i forbindelse med covid-19, til børne. og undervisningsministeren', 823507, N'', N'', null, N'2021-01-27 12:17:17.497');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823571, 17, 22, 1, N'O', N'UFU alm. del - svar på spm. 61 om, hvordan det går med at inddrive misvedligeholdt SU-gæld for udlændinge, fra skatteministeren', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:42:59.000', N'', N'', N'Vil ministeren redegøre for, hvordan det går med at inddrive misvedligeholdt SU-gæld for udlændinge, herunder om gældsstyrelsen har vundet de retssager der er rejst, og hvad de seneste tal for misvedligeholdt SU-gæld blandt udlændinge viser fordelt på hhv. EU-lande og lande uden for EU? 
+Der henvises til: https://www.dr.dk/nyheder/penge/staten-bruger-nyt-vaaben-koerer-retssager-kradse-udlaendinges-su-gaeld-ind', N'Spm. om, hvordan det går med at inddrive misvedligeholdt SU-gæld for udlændinge, til skatteministeren', 817435, N'', N'', null, N'2020-03-17 20:43:10.457');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823572, 17, 22, 1, N'O', N'L 140 - svar på spm. 38 om, hvad ministeren vil gøre for at fjerne de barrierer, der er i amu-systemet, fra børne- og undervisningsministeren
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:43:14.000', N'', N'', N'Hvad vil ministeren vil gøre for at fjerne de barrierer, der er i AMU-systemet, hvor fjernundervisningen maksimalt må udgøre 75 pct. mod 25 pct. tilstedeværelsestimer, såfremt man skal benytte sig af VEU-godtgørelsen, og vil ministeren oplyse, hvad der sker, hvis alle skoler benytter sig af en dispensation grundet COVID-19-situationen, idet der henvises til, at der i trepartsaftalen er en dispensation på 100 pct. af godtgørelsen, hvis prøven i kurset også kan tages online?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvad ministeren vil gøre for at fjerne de barrierer, der er i amu-systemet, til børne- og undervisningsministeren
+
+
+
+', 823351, N'', N'', null, N'2020-07-16 10:44:01.653');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823573, 17, 22, 1, N'O', N'L 140 - svar på spm. 40 om, hvordan erhvervsskolerne skal tilrettelægge fjernundervisning, fra børne- og undervisningsministeren
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:44:22.000', N'', N'', N'Vil ministeren oplyse, hvordan erhvervsskolerne skal tilrettelægge fjernundervisning, idet nogle, særligt små erhvervsskoler, ikke har råd til at stille IT-udstyr til rådighed for eleverne i denne midlertidige lukning? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan erhvervsskolerne skal tilrettelægge fjernundervisning, til børne- og undervisningsministeren
+
+
+
+', 823353, N'', N'', null, N'2020-03-17 20:44:33.290');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823574, 17, 22, 1, N'O', N'L 140 - svar på spm. 41 om, hvordan ministeriet forestiller sig at erhvervsskolerne skal gennemføre nødundervisning, fra børne- og undervisningsministeren
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:47:13.000', N'', N'', N'Vil ministeren oplyse, hvordan ministeriet forestiller sig, at erhvervsskolerne skal gennemføre nødundervisning på områder, der er praksisfaglige og indbefatter arbejde i fx værksteder med større maskiner etc.?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan ministeriet forestiller sig at erhvervsskolerne skal gennemføre nødundervisning, til børne- og undervisningsministeren
+
+
+
+', 823354, N'', N'', null, N'2020-07-16 10:53:46.023');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823575, 17, 22, 1, N'O', N'L 140 - svar på spm. 16 om, hvordan ministeren definerer grænserne for, hvem der er berettiget til nødpasning, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:57:34.000', N'', N'', N'Vil ministeren i detaljer redegøre for, hvordan ministeren definerer grænserne for, hvem der er berettiget til nødpasning, herunder, 
+
+a) hvordan det vurderes, om de pågældende børn har særlige behov, der kræver faglig pasning, sprogstimulering såvel som andre elementer, der indgår i det obligatoriske læringstilbud for 1-årige børn i udsatte boligområder, 
+b) om der er forskel på børn, hvis forældre varetager kritiske funktioner i henholdsvis det offentlige eller private, og om man betragter ikke-hjemsendte i den private sektor for værende (samfunds)kritisk-varetagende stillinger?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan ministeren definerer grænserne for, hvem der er berettiget til nødpasning, til børne- og undervisningsministeren
+', 823325, N'', N'', null, N'2020-03-17 20:57:45.903');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823576, 17, 22, 1, N'O', N'L 140 - svar på spm. 23 om, hvem der er kvalificeret til nødpasning af børn, fra børne- og undervisningsministeren
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:58:28.000', N'', N'', N'Vil ministeren redegøre for, om man er kvalificeret til nødpasning af børn, hvis man som forældrepar eller eneforsørger begge varetager væsentlige/kritiske jobfunktioner i det private, hvor der ikke kan arbejdes hjemmefra? 
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvem der er kvalificeret til nødpasning af børn, til børne- og undervisningsministeren
+', 823333, N'', N'', null, N'2020-07-16 10:54:51.613');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823577, 17, 22, 1, N'O', N'L 140 - svar på spm. 54 om, hvordan der følges op på udsatte elever og elever med særlige behov, fra børne- og undervisningsministeren
+
+
+
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:56:50.000', N'', N'', N'Vil ministeren oplyse, hvordan der følges op på udsatte elever og elever med særlige behov, og hvad der ligger i udtrykket “særdeleshed”, herunder om det er defineret, hvilken forventning der knytter sig til de grupper, jf. side 4 i lovudkast af 15. marts 2020?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+', N'Spm. om, hvordan der følges op på udsatte elever og elever med særlige behov, til børne- og undervisningsministeren
+
+
+
+
+', 823369, N'', N'', null, N'2020-03-17 20:57:01.073');
+INSERT INTO ODA.dbo.Dokument (id, typeid, kategoriid, statusid, offentlighedskode, titel, dato, modtagelsesdato, frigivelsesdato, paragraf, paragrafnummer, spørgsmålsordlyd, spørgsmålstitel, spørgsmålsid, procedurenummer, grundnotatstatus, dagsordenudgavenummer, opdateringsdato) VALUES (823578, 17, 22, 1, N'O', N'L 140 - svar på spm. 34 om at sikre, at barnet deltager i nødpasning, fra børne- og undervisningsministeren
+
+', N'2020-03-17 00:00:00.000', N'2020-03-17 00:00:00.000', N'2020-03-17 20:56:12.000', N'', N'', N'Vil ministeren redegøre for, hvorledes den opsøgende indsats, nævnt i § 1, stk. 3, i lovudkast fra den 15. marts 2020 kommer til at ske mhp. at sikre, at barnet deltager i nødpasning?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

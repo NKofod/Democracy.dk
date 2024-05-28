@@ -1,0 +1,13 @@
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (1, N'Ministerområde', N'2015-08-13 11:22:10.490');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (2, N'Ministertitel', N'2015-08-13 10:47:17.533');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (3, N'Udvalg', N'2015-07-03 12:30:41.907');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (4, N'Folketingsgruppe', N'2015-05-11 13:25:06.573');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (5, N'Person', N'2015-07-23 14:08:13.347');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (6, N'Gruppe', N'2014-08-06 14:43:17.187');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (7, N'Anden gruppe', N'2014-08-06 14:43:17.187');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (8, N'Ministerium', N'2014-08-06 14:43:17.187');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (9, N'Kommission', N'2015-06-02 14:57:33.623');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (10, N'Organisation', N'2015-07-15 13:11:55.147');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (11, N'Parlamentarisk forsamling', N'2015-06-03 13:28:02.543');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (12, N'Privatperson', N'2015-07-09 13:39:05.050');
+INSERT INTO ODA.dbo.Aktørtype (id, type, opdateringsdato) VALUES (13, N'Tværpolitisk netværk', N'2020-10-05 16:15:21.907');

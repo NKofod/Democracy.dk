@@ -1,0 +1,13 @@
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (1, N'UMF-del', N'2014-06-24 15:16:55.227');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (2, N'Forespørgsel', N'2015-03-20 10:01:13.277');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (3, N'Lovforslag', N'2015-05-27 13:49:30.737');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (4, N'Alm. del', N'2015-08-13 10:24:56.373');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (5, N'Beslutningsforslag', N'2015-05-29 16:06:51.047');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (6, N'Rådsmøde', N'2015-05-27 15:04:46.557');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (7, N'Kommissionsforslag', N'2014-12-17 10:51:32.770');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (8, N'Aktstykke', N'2015-07-15 13:11:55.147');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (9, N'Forslag til vedtagelse', N'2015-05-22 13:12:13.420');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (10, N'§ 20-spørgsmål', N'2015-05-22 16:22:09.413');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (11, N'Redegørelse', N'2015-04-29 13:44:46.833');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (12, N'Indkaldelse af stedfortræder', N'2014-06-24 15:16:55.227');
+INSERT INTO ODA.dbo.Sagstype (id, type, opdateringsdato) VALUES (13, N'Statsrevisorerne', N'2014-06-24 15:16:55.227');

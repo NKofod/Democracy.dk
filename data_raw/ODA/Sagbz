@@ -1,0 +1,1000 @@
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20728, 10, 11, 20, N'Mener ministeren, at der kan sikres adgang til bredbåndsforbindelser med 100 Mbit til alle beboere på de små øer, hvis udbygningen af internetforbindelser udelukkende overlades til markedskræfterne?', N'Om bredbåndsforbindelser til beboere på små øer.', N'O', N'S 2627', N'S', N'2627', N'', N'', null, 27, null, null, N'2017-12-05 21:46:59.817', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20729, 10, 11, 20, N'Er ministeren enig i, at det er en fælles samfundsmæssig forpligtelse at sikre adgang til bredbåndsforbindelser med 100 Mbit til alle beboere på de små øer?', N'Om bredbåndsforbindelser til beboere på små øer.', N'O', N'S 2628', N'S', N'2628', N'', N'', null, 27, null, null, N'2017-12-05 21:47:00.017', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20730, 10, 11, 20, N'Vil ministeren tilkendegive, hvorvidt han finder det rimeligt, at DONG Energy fra marts 2011 opkræver betaling for deres varer, to måneder før kunden har fået leveret varerne?', N'Om DONG Energy.', N'O', N'S 2629', N'S', N'2629', N'', N'', null, 27, null, null, N'2017-12-05 21:47:00.237', 0, N'Spørgeren har fået henvendelser fra flere borgere, som har modtaget varsling fra DONG Energy om, at de fra marts 2011 vil blive afkrævet betaling for de ydelser, DONG Energy leverer, to måneder tidligere end i dag. I varslingen er det beskrevet som »Nye tidspunkter for betaling af dine elregninger«. Oversat til klart sprog betyder det, at forbrugerne ikke længere skal betale, når de har fået hele ydelsen leveret, men to måneder før.
+Årsagen til ændringen beskrives som, at »…vi ønsker at mindske de omkostninger, vi har ved først at få betaling, efter at elforbruget har fundet sted«. 
+Ifølge spørgerens opfattelse er der udelukkende tale om en lyssky og underlødig måde at opskrue DONG Energys indtjening. Ændringen medfører, at DONG Energy vil kunne hæve renter af et anseeligt millionbeløb, som hvert kvartal vil tilflyde firmaets konti to måneder tidligere end hidtil. Disse renter tilhører rettelig den enkelte forbruger, som nu tvinges til at betale for en vare, to måneder før han eller hun har fået den leveret.
+Spørgeren finder det helt uacceptabelt, at et statsejet firma på denne måde forsøger at liste større forbrugerudgifter ind ad bagvejen. Det er uværdigt for et statsejet firma at benytte sig af metoder, som rettelig hører hjemme i Forbrugerklagenævnet.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20731, 10, 11, 20, N'Vil ministeren garantere, at DONG Energys nye opkrævningspraksis, som ifølge firmaet selv vil medføre et lavere omkostningsniveau, vil komme forbrugerne til gode i form af sænkede priser?', N'Om DONG Energy.', N'O', N'S 2630', N'S', N'2630', N'', N'', null, 27, null, null, N'2017-12-05 21:47:00.517', 0, N'Spørgeren har fået henvendelser fra flere borgere, som har modtaget varsling fra DONG Energy om, at de fra marts 2011 vil blive afkrævet betaling for de ydelser, DONG Energy leverer, to måneder tidligere end i dag. I varslingen er det beskrevet som »Nye tidspunkter for betaling af dine elregninger«. Oversat til mundret dansk betyder det, at forbrugerne ikke længere skal betale, når de har fået hele ydelsen leveret, men to måneder før.
+Ifølge spørgerens opfattelse er der udelukkende tale om en lyssky og underlødig måde at opskrue DONG Energys indtjening. Ændringen medfører, at DONG Energy vil kunne hæve renter af et anseeligt millionbeløb, som hvert kvartal vil tilflyde firmaets konti to måneder tidligere end hidtil. Disse renter tilhører rettelig den enkelte forbruger, som nu tvinges til at betale for en vare, to måneder før han eller hun har fået den leveret.
+Årsagen til ændringen beskrives som, at »…vi ønsker at mindske de omkostninger, vi har ved først at få betaling, efter at elforbruget har fundet sted«. Når et statsejet firma således formår at sænke omkostningerne, må det ifølge spørgerens opfattelse som en selvfølge komme forbrugerne til gode i form af prisnedsættelser, der nøje svarer til det lavere omkostningsniveau. Der ønskes derfor ministerens garanti herfor.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20732, 10, 11, 20, N'Kan ministeren forklare, hvorledes DONG Energys nye opkrævningspraksis, som betyder, at elregninger m.m. fremover udsendes to måneder før forbrugerne har fået leveret hele den bestilte vare, kan medføre et lavere omkostningsniveau for DONG Energy?', N'Om DONG Energy.', N'O', N'S 2631', N'S', N'2631', N'', N'', null, 27, null, null, N'2017-12-05 21:47:00.700', 0, N'Spørgeren har fået henvendelser fra flere borgere, som har modtaget varsling fra DONG Energy om, at de fra marts 2011 vil blive afkrævet betaling for de ydelser, DONG Energy leverer, to måneder tidligere end i dag. I varslingen er det beskrevet som »Nye tidspunkter for betaling af dine elregninger«. Oversat til mere klart sprog betyder det, at forbrugerne ikke længere skal betale, når de har fået hele varen leveret, men to måneder før.
+Årsagen til ændringen beskrives som, at »…vi ønsker at mindske de omkostninger, vi har ved først at få betaling, efter at elforbruget har fundet sted«. 
+Spørgeren ønsker en forklaring på, hvorledes det kan være mindre bekosteligt at udsende fakturaer to måneder før varen er leveret, end i forhold til nu, hvor forbrugeren først betaler, når han eller hun har modtaget alle de bestilte ydelser. Som spørgeren ser det, må personale-, porto- og it-omkostninger være nøjagtigt de samme, uanset hvornår fakturaerne udskrives.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20733, 10, 11, 20, N'Vil ministeren garantere, at der på danske minkfarme ikke forekommer samme vanrøgt af dyrene, som åbenbart finder sted i Sverige?', N'Om minkfarme.', N'O', N'S 2632', N'S', N'2632', N'', N'', null, 27, null, null, N'2017-12-05 21:47:00.917', 0, N'Af TV-Avisen 9. august fremgik det, at dyrene på svenske minkfarme lever under stærkt kritisable forhold. Tv-billederne viste svenske minkfarme, hvor dyrene led af omfattende bidskader, og hvor forrådnende kadavere lå i burene side om side med de levende dyr:
+Efter spørgerens mening var tv-billederne direkte modbydelige at se på. Desværre gav de mindelser om, at der tidligere er blevet vist tv-indslag, der dokumenterede, at der også findes brådne kar i dansk pelsdyravl. Spørgeren ønsker derfor ministerens garanti for, at forholdene på de danske minkfarme er i orden, og at den skandaløse behandling af dyrene, som åbenbart forekommer i Sverige, ikke finder sted i Danmark. 
+Spørgeren så allerhelst, at minkavl ligesom rævefarme helt blev forbudt i Danmark, men indtil der kan samles flertal for det, må der i det mindste tilvejebringes sikkerhed for, at danske minkavlere lever op til den gældende lovgivning.
+I fald ministeren ikke ser sig i stand til at udstede en sådan garanti, ønsker spørgeren en tilbundsgående undersøgelse af den danske pelsdyrbranche, så der kan skabes klarhed om, hvorvidt danske mink behandles anstændigt.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20734, 2, null, 14, N'Vil regeringen redegøre for status for krigen mod terror, og herunder om verden og Danmark er blevet et mere trygt sted at leve?', N'Om krigen mod terror', N'O', N'F 1', N'F', N'1', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 23. Af Line Barfod (EL), Mogens Lykketoft (S), Morten Helveg Petersen (RV) og Holger K. Nielsen (SF).
+ 
+Fremsat 05-12-06 ...... FF 1916 
+Bortfaldet 05-12-06 ...... FF 1950 
+
+V 24. Af Troels Lund Poulsen (V), Peter Skaarup (DF) og Pia Christmas-Møller (KF).
+ 
+Fremsat 05-12-06 ....... FF 1927 
+Vedtaget 05-12-06 ....... FF 1950
+
+Fuld tekst:
+ 
+V 23:
+
+»Folketinget konstaterer, at »krigen mod terror« ikke har skabt en mere tryg og sikker verden, at den globale kamp mod terrorisme behøver langt større fokus på forebyggelse, og stadig flere rekrutteres til de terroristiske netværk.
+ 
+Folketinget opfordrer derfor regeringen til at
+ 
+- yde en ekstra indsats for konfliktløsninger samt arbejde for større lighed og social retfærdighed globalt,
+ 
+- tilvejebringe det bedst mulige vidensgrundlag for at bekæmpe og forebygge terrorisme gennem nedsættelse af en bredt sammensat kommission,
+ 
+- skærpe opmærksomheden over for lande, hvor magthaverne bruger »krigen mod terror« som dække for undertrykkelse af mindretal og politiske modstandere,
+ 
+- bekæmpelsen af terrorisme altid skal ske under respekt for demokrati, retssikkerhed og menneskerettigheder,
+ 
+- trække de danske tropper ud af Irak og presse på for en fredsproces mellem de stridende parter, inkluderende Iraks nabolande,
+ 
+- presse på for en fredsproces, der kan føre fremad mod dannelsen af en levedygtig palæstinensisk stat.« 
+
+V 24:
+
+»Folketinget konstaterer, at truslen fra international terrorisme er vor tids største sikkerhedspolitiske udfordring. Forebyggelse og bekæmpelse af terrorisme foregår både nationalt og internationalt og kræver en bredspektret indsats. Folketinget understreger, at indsatsen mod terror skal ske med fuld respekt for de grundlæggende frihedsrettigheder.« 
+
+Afstemning:
+ 
+V 24 vedtaget med 59 stemmer (V, DF og KF) mod 49 (S, RV, SF og EL). 
+
+V 23 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:30:09.207', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20735, 2, null, 14, N'Hvad vil regeringen gøre for at sikre voldsramte børn og familier anstændige vilkår, herunder at kommunerne giver de voldsramte børn og familier den nødvendige støtte?', N'Om voldsramte børn og familier', N'O', N'F 2', N'F', N'2', N'', N'Minister: Socialministeren (Eva Kjer Hansen). 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 3. Af Lotte Thiim Bertelsen (SF), Hans Andersen (V), Kirsten Brosbøl (S), Pia Kristensen (DF), Tom Behnke (KF), Martin Lidegaard (RV) og Line Barfod (EL). 
+
+Fremsat 09-11-06 ........ FF 933
+Vedtaget 09-11-06 ....... FF 951 
+
+Fuld tekst: 
+
+V 3:
+
+»Folketinget udtrykker bekymring over, at 30.000 børn vokser op i familier med vold. Folketinget konstaterer, at det er nødvendigt at intensivere indsatsen over for voldsramte børn og kvinder yderligere, og opfordrer regeringen til at:
+
+1. opkvalificere fagpersoner til at kunne aflæse signaler om mistrivsel hos børn - såvel på grunduddannelserne som via efteruddannelse,
+
+2. sikre, at kommunerne får de rette underretninger og følger op på disse, samt at kommunerne har de nødvendige forudsætninger for en kvalificeret og effektiv håndtering af alle underretninger om vold mod børn, 
+
+3. følge op på kommunernes børnepolitikker med henblik på formidling af best practice mellem kommunerne, 
+
+4. gennemføre en undersøgelse af kommunernes praksis, for så vidt angår indberetninger om børns mistrivsel, 
+
+5. sikre voldsramte kvinder og børn adgang til krisecentre med kompetent personale i hele landet samt sikre effektivt efterværn, og 
+
+6. evaluere regeringens handlingsplan mod børnemishandling samt handlingsplan til bekæmpelse af mænds vold mod kvinder og børn.« 
+
+Afstemning:
+
+V 3 vedtaget enstemmigt med 107 stemmer.', null, 23, null, null, N'2018-12-03 10:30:09.797', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20736, 2, null, 14, N'Vil ministeren redegøre for regeringens forslag til nyt danmarkskort for universiteterne og for, hvordan dette vil højne kvaliteten af forskning og undervisning på de danske universiteter, samt hvilke konsekvenser det vil have for sektorforskningsinstitutionernes løsning af opgaver for ministerierne og den frie forskning på universiteterne?', N'Om sammenlægning af universiteter', N'O', N'F 3', N'F', N'3', N'', N'Behandlet sammen: F 3 og F 21. 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 8. Af Per Clausen (EL), Charlotte Fischer (RV) og Morten Homann (SF).
+
+Fremsat 16-11-06 ...... FF 1214 
+Bortfaldet 16-11-06 ...... FF 1247 
+
+V 9. Af Torsten Schack Pedersen (V), Rasmus Prehn (S) og Carina Christensen (KF).
+ 
+Fremsat 16-11-06 ...... FF 1215 
+Vedtaget 16-11-06 ....... FF 1246 
+
+Fuld tekst: 
+
+V 8:
+
+»Idet Folketinget konstaterer: 
+
+- at den nye universitetslov af universitetsansatte og studerende er kritiseret for, at den har svækket forskningsfriheden, den frie forskningsdebat og deres medindflydelse og engagement, og 
+
+- at de kommende universitetsfusioner, hvor universiteterne fremover også lægges sammen med sektorforskningsinstitutionerne, ikke er sket på et oplyst og gennemtænkt grundlag,
+ 
+pålægger Folketinget regeringen at sikre:
+ 
+- at der senest i 2007 gennemføres en uafhængig og gennemgribende evaluering af konsekvenserne af universitetsloven, hvor medarbejderne og de studerende inddrages med hensyn til:
+ 
+- organisation, herunder beslutningsstruktur, medarbejderes og studerendes deltagelse/inddragelse og det almindelige klima,
+ 
+- forskning, herunder kvaliteten og arten af forskningen samt forskningsfriheden,
+
+- uddannelserne, herunder udbuddet og kvaliteten af uddannelserne,
+ 
+- formidling af viden, og
+ 
+- at der snarest skabes et overblik over, hvilke omkostninger fusionerne vil medføre for universiteterne med henblik på at sikre finansieringen af disse ekstra omkostninger.« 
+
+V 9:
+
+»Folketinget tager videnskabsministerens besvarelse til efterretning, idet Folketinget:
+ 
+- konstaterer, at formålet med sammenlægningerne er mere uddannelse, større international gennemslagskraft på forskningsområdet, mere innovation og erhvervssamarbejde, tiltrækning af flere EU-midler samt en fortsat kompetent myndighedsbetjening,
+ 
+- konstaterer, at frivillighed har været det bærende princip for sammenlægningerne af de universiteter og sektorforskningsinstitutioner, der etableres pr. 1. januar 2007,
+ 
+- understreger vigtigheden af universitetslovens bestemmelser om forskningsfrihed og medarbejdernes frihed til at deltage i den offentlige debat,
+ 
+- konstaterer, at videnskabsministeren i 2009 gennemfører en evaluering af, hvor langt man er nået med opfyldelsen af formålene med universitetssammenlægningerne, og
+
+- konstaterer, at videnskabsministeren ligeledes i 2009 gennemfører en evaluering, der belyser medarbejdernes og de studerendes medbestemmelse på universiteterne, den frie akademiske debat og forskningsfriheden under den nuværende universitetslov.« 
+
+Afstemning:
+ 
+V 9 vedtaget med 69 stemmer (V, S og KF) mod 18 (RV, SF og EL); 15 (DF) stemte hverken for eller imod.
+ 
+V 8 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:31:16.967', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20737, 2, null, 14, N'Hvad kan regeringen oplyse om gennemførelsen af målene og visionerne i den danske strategi for bæredygtig udvikling – »Fælles fremtid – udvikling i balance« fra 2002 – og hvilke overordnede principper agter regeringen at lægge til grund for en revideret strategi for de næste 5 år? ', N'Om bæredygtig udvikling', N'O', N'F 4', N'F', N'4', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 16. Af Christian Wedell-Neergaard (KF), Eyvind Vesselbo (V) og Jørn Dohrmann (DF).
+ 
+Fremsat 23-11-06 ....... FF 1493 
+Vedtaget 23-11-06 ....... FF 1511 
+
+V 17. Af Steen Gade (SF), Torben Hansen (S), Johs. Poulsen (RV) og Per Clausen (EL).
+ 
+Fremsat 23-11-06 ....... FF 1490 
+Bortfaldet 23-11-06 ..... FF 1511 
+
+Fuld tekst:
+ 
+V 16:
+
+»Folketinget bekræfter de otte mål og principper, som ligger til grund for regeringens vision om bæredygtig udvikling fra 2002: Fortsat udvikling af velfærdssamfundet, sundt miljø og højt beskyttelsesniveau, beskyttelse af økosystemer og høj biologisk mangfoldighed, bedre udnyttelse af ressourcer, miljøhensyn i alle sektorer, udnyttelse af markedet og fælles ansvar for en bæredygtig udvikling og en aktiv international indsats.
+ 
+Og imødeser, at regeringen på det grundlag i indeværende folketingssamling fremlægger en redegørelse og efterfølgende indgår i dialog med virksomheder, kommuner, organisationer og borgere om en fornyet bæredygtighedsstrategi.
+ 
+Folketinget opfordrer heri regeringen til at: 
+
+- styrke varetagelse af miljøhensyn i andre sektorer,
+ 
+- arbejde aktivt med nye globale udfordringer på miljøområdet,
+ 
+- udnytte de teknologiske muligheder for at løse nationale og globale miljøproblemer, 
+
+- styrke ansvarlighed over for ressourcer, over for naturen og over for det globale miljø.
+
+Og ser frem til en folketingsdebat om redegørelsen.« 
+
+V 17:
+
+»Folketinget konstaterer, at regeringens strategi for bæredygtig udvikling fra 2002 ikke lever op til de fremtidige udfordringer for at skabe en reel bæredygtig udvikling.
+ 
+Derfor opfordrer Folketinget regeringen til for en ny periode fra 2008 til 2012 at udarbejde en ny strategi, 
+
+- der bygger på bindende målsætninger, delmål, tidsfrister og effektive virkemidler,
+ 
+- der indeholder årlig afrapportering om delmål og mål med angivelse af, hvorvidt man er på vej til at nå de opstillede mål,
+ 
+- der inddrager de globale miljø- og ressourceeffekter - danskernes fodaftryk - af vores samlede aktiviteter, herunder forbrug,
+ 
+- hvor indsatsen mod klimaændringer og nødvendige tilpasninger indarbejdes overalt, og 
+
+- hvor forpligtelsen til at udarbejde en strategi for »FN''s 10-år for uddannelse for bæredygtig udvikling« indarbejdes.« 
+
+Afstemning: 
+
+V 16 vedtaget med 53 stemmer (V, DF og KF) mod 45 (S, RV, SF og EL). 
+
+V 17 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:32:06.157', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20738, 2, null, 14, N'Hvad kan statsministeren oplyse om regeringens langsigtede planer for forholdet mellem den private og den offentlige sektor, for så vidt angår forbrug af økonomiske ressourcer og opgavefordeling, og hvad betyder disse planer for udviklingen i den sociale velfærd, herunder øget brugerbetaling og forsikringsordninger?', N'Om forholdet mellem den private og den offentlige sektor.', N'O', N'F 5', N'F', N'5', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 42. Af Jørgen Arbo-Bæhr (EL), Jan Petersen (S), Marianne Jelved (RV) og Ole Sohn (SF).
+ 
+Fremsat 25-01-07 ...... FF 3365 
+Bortfaldet 30-01-07 ...... FF 3563 
+
+V 43. Af Troels Lund Poulsen (V), Pia Christmas-Møller (KF) og Peter Skaarup (DF). 
+
+Fremsat 25-01-07 ...... FF 3375 
+Vedtaget 30-01-07 ...... FF 3563 
+
+Fuld tekst:
+ 
+V 42:
+
+»Folketinget konstaterer, at det ikke på de nuværende vilkår er muligt for den offentlige sektor at indfri dokumenterede udgiftsbehov og de forventninger, befolkningen har til velfærdsydelserne og til bedre kvalitet i den offentlige service. Det gælder særligt i forhold til børn, folkeskole, syge og ældre.
+ 
+På den baggrund pålægges regeringen 
+
+- at sikre kommuner og regioner tilstrækkelige midler, der kan give dem mulighed for at leve op til regeringens løfter om velfærdsforbedringer,
+ 
+- at fremlægge en plan, der sikrer, at behovet for kvalificeret arbejdskraft kan imødekommes,
+ 
+- at iværksætte en målrettet uddannelsesindsats for at sikre tilstrækkelig kvalificeret arbejdskraft i den sociale service,
+ 
+- at gøre det mere attraktivt at arbejde i den sociale service gennem et systematisk arbejde for ordentlige løn- og arbejdsforhold og
+ 
+- at modarbejde nedslidning af ansatte i den sociale service, bl.a. gennem et generelt bedre arbejdsmiljø og gennem tilstrækkelig arbejdskraft, der har medindflydelse på eget arbejde.« 
+
+V 43:
+
+»Folketinget konstaterer, at der inden for de seneste år er tilført betydelige ressourcer til de offentlige serviceområder og gennemført målrettede forbedringer for udsatte grupper i det danske samfund. I 2007 vil der blive brugt flere penge på offentlig velfærd end nogen sinde før.
+ 
+Folketinget konstaterer endvidere, at der med velfærdsaftalen fra juni 2006 er skabt finansiering, dels til de fremtidige udgifter til pleje og sundhed, når der bliver flere ældre, dels til markante og nødvendige investeringer i Danmarks fremtid for at ruste det danske samfund til den stadig stigende internationale konkurrence. Høj aktivitet i den private sektor er en forudsætning for høj velfærd og velstand i hele det danske samfund.« 
+
+Afstemning: 
+
+V 43 vedtaget med 62 stemmer (V, DF og KF) mod 47 (S, RV, SF og EL). 
+
+V 42 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:32:48.033', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20739, 2, null, 14, N'Hvad kan ministeren oplyse om velfærdsforligets indhold vedrørende tilbagetrækning fra arbejdsmarkedet set i relation til ulighederne i sundhed og levealder?', N'Om tilbagetrækning fra arbejdsmarkedet.', N'O', N'F 6', N'F', N'6', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 4. Af Jørgen Arbo-Bæhr (EL) og Ole Sohn (SF).
+ 
+Fremsat 10-11-06 ...... FF 1029 
+Bortfaldet 14-11-06 ...... FF 1064 
+
+V 5. Af Jens Vibjerg (V), Thomas Adelskov (S), Bent Bøgsted (DF), Jakob Axel Nielsen (KF) og Morten Østergaard (RV).
+ 
+Fremsat 10-11-06 ...... FF 1029 
+Vedtaget 14-11-06 ....... FF 1064 
+
+Fuld tekst:
+ 
+V 4:
+
+»Folketinget erkender, at den sociale ulighed i sundhed og levealder medfører store forskelle på, hvor mange år en ufaglært arbejder og en højtuddannet overordnet funktionær har til at nyde deres otium på efterløn og pension.
+ 
+Idet Folketinget konstaterer, at efterlønnen i særlig grad bruges af ufaglærte og andre med en relativt lav levealder, pålægger Folketinget regeringen at sikre, at de, der i dag især har glæde af efterlønsordningen (ufaglærte og andre med nedslidende arbejde), ikke bliver relativt dårligere stillet ved at regulere efterlønsalderen i takt med den generelle restlevetid for 60-årige.« 
+
+V 5:
+
+»Folketinget konstaterer, at der med velfærdsaftalen er skabt balance mellem den gradvise forhøjelse af efterløns- og folkepensionsalderen fra 2019 og den længere levetid.
+ 
+Der etableres en forebyggelsesfond på 3 mia. kr. til at forebygge og forhindre nedslidning på arbejdsmarkedet. Der afsættes ydermere 70 mio. kr. årligt fra 2007-2010 til særlige arbejdsmiljøindsatser.
+ 
+Velfærdsaftalen sikrer dermed, at der i god tid inden forhøjelsen af efterløns- og folkepensionsalderen - allerede fra 2007 - gennemføres initiativer med sigte på at forebygge og reducere nedslidning og styrke arbejdsmiljøet. Disse initiativer målrettes blandt andet brancher, hvor mange er truet af fysisk og psykisk nedslidning.« 
+
+Afstemning:
+ 
+V 5 vedtaget med 104 stemmer (V, S, DF, KF og RV) mod 10 (SF og EL).
+ 
+V 4 var dermed bortfaldet.
+', null, 23, null, null, N'2018-12-03 10:33:47.007', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20740, 2, null, 14, N'Hvad kan regeringen oplyse om udviklingen i Irak, herunder om antallet af dræbte soldater og civile, antallet af flygtninge, genopbygningsindsatsen, den sundhedsmæssige og sociale udvikling, udviklingen i demokrati i forhold til religiøse, sekteriske og etniske grupperinger og udviklingen i terror samt risikoen for en eskalering af borgerkrigen?', N'Om udviklingen i Irak.', N'O', N'F 7', N'F', N'7', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 25. Af Villy Søvndal (SF), Mogens Lykketoft (S), Niels Helveg Petersen (RV) og Rune Lund (EL).
+ 
+Fremsat 05-12-06 ..... FF 1955 
+Bortfaldet 07-12-06 ..... FF 2054 
+
+V 26. Af Jens Hald Madsen (S), Hans Kristian Skibby (DF) og Pia Christmas-Møller (KF). 
+
+Fremsat 05-12-06 ..... FF 1963 
+Vedtaget 07-12-06 ....... FF 2054 
+
+Fuld tekst:
+ 
+V 25: »Idet Folketinget konstaterer,
+ 
+- at Irakinvasionen blev startet i strid med folkeretten, 
+
+- at begrundelserne for krigen har vist sig uholdbare,
+ 
+- at de sidste 3 år har medført ufattelige lidelser for det irakiske folk,
+ 
+- at situationen i Irak dagligt forværres,
+
+opfordrer Folketinget regeringen til
+ 
+- straks at trække det danske troppebidrag ud af Irak,
+ 
+- at bidrage til en freds- og forsoningsproces i Irak,
+ 
+- at støtte opbygning af irakiske statsinstitutioner og civil genopbygning og
+ 
+- at iværksætte en kulegravning af beslutningsforslaget for krigen.« 
+
+V 26:
+
+»Idet Folketinget noterer sig regeringens redegørelse for situationen i Irak, herunder den vanskelige sikkerhedssituation i forskellige dele af landet, opfordrer Folketinget regeringen til yderligere at fokusere på kapacitetsopbygning og god regeringsførelse, herunder i gennemførelsen af den danske genopbygningsbistand med henblik på at bistå den irakiske regerings bestræbelser på at skabe fred og forsoning i Irak.« 
+
+Afstemning:
+ 
+V 26 vedtaget med 64 stemmer (V, DF og KF) mod 50 (S, RV, SF og EL). 
+
+V 25 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:34:38.123', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20741, 2, null, 14, N'Hvad vil beskæftigelsesministeren gøre for at sikre, at midlerne fra den planlagte forebyggelsesfond bliver brugt til effektivt at forebygge alle former for nedslidning som følge af ikke blot ergonomiske og kemiske belastninger, men også belastninger i det psykiske arbejdsmiljø, herunder bl.a. stress, mobning, vold og trusler om vold, for høje krav og manglende indflydelse på arbejdet samt dårlig ledelse?', N'Om den planlagte forebyggelsesfond og arbejdsmiljø', N'O', N'F 8', N'F', N'8', N'', N'', null, 23, null, null, N'2017-12-05 22:50:14.177', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20742, 2, null, 14, N'Hvad kan ministeren oplyse om konsekvenserne af den samlede lovgivning angående familiesammenføringer samt om, hvilke planer regeringen har for at sikre, at denne lovgivning kommer i overensstemmelse med statsministerens erklæring i sin åbningstale om, at Danmark er et åbent samfund?', N'Om familiesammenføringer', N'O', N'F 9', N'F', N'9', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 6. Af Steen Gade (SF), Simon Emil Ammitzbøll (RV) og Jørgen Arbo-Bæhr (EL). 
+
+Fremsat 15-11-06 ...... FF 1158 
+Bortfaldet 16-11-06 ...... FF 1210 
+
+V 7. Af Irene Simonsen (V), Jesper Langballe (DF) og Henriette Kjær (KF). 
+
+Fremsat 15-11-06 ...... FF 1163 
+Vedtaget 16-11-06 ....... FF 1210 
+
+Fuld tekst:
+ 
+V 6:
+
+»Folketinget opfordrer regeringen til at iværksætte en grundig undersøgelse, der skal belyse samtlige konsekvenser af lovgivningen om familiesammenføring for at sikre et grundigere grundlag for den danske politik på familiesammenføringsområdet.
+ 
+Undersøgelsen skal bl.a. 
+
+- undersøge, hvilken virkning reglerne har fået på antallet af tvangsægteskaber og arrangerede ægteskaber,
+ 
+- undersøge, hvor mange der på grund af reglerne har bosat sig i udlandet med fokus på Sverige og Tyskland, og
+ 
+- analysere reglernes betydning i forhold til vore nabolandes lovgivning, herunder de langsigtede virkninger.
+ 
+Undersøgelsen skal foretages af et uafhængigt organ og færdiggøres inden næste folketingsår.« 
+
+V 7:
+
+»Folketinget tager integrationsministerens redegørelse til efterretning. Folketinget konstaterer med stor tilfredshed, at regeringen for at styrke grundlaget for en vellykket integration har nået de fastsatte mål om at begrænse antallet af familiesammenføringer, og at regeringen fremmer indvandringen af kvalificeret arbejdskraft og studerende.« 
+
+Afstemning: 
+
+V 7 vedtaget med 62 stemmer (V, DF og KF) mod 18 (RV, SF og EL); 26 (S) stemte hverken for eller imod. 
+
+V 6 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:35:18.793', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20743, 2, null, 14, N'Hvad kan ministeren oplyse om forsvarets indkøb af nye kampfly?', N'Om forsvarets indkøb af nye kampfly', N'O', N'F 10', N'F', N'10', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 10. Af Holger K. Nielsen (SF) og Rune Lund (EL). 
+
+Fremsat 16-11-06 ..... FF 1252 
+Bortfaldet 16-11-06 ..... FF 1278 
+
+V 11. Af Kristian Pihl Lorentzen (V), Per Kaalund (S), Hans Kristian Skibby (DF), Allan Niebuhr (KF) og Morten Helveg Petersen (RV). 
+
+Fremsat 16-11-06 ..... FF 1258 
+Vedtaget 16-11-06 ....... FF 1278 
+
+Fuld tekst:
+ 
+V 10:
+
+»Idet Folketinget konstaterer, at der er brug for en åben demokratisk diskussion, før der træffes beslutning om indkøb af nye kampfly, opfordrer Folketinget regeringen til at udsætte underskrivelsen af et Memorandum of Understanding om en fortsættelse af JSF-projektet, indtil 
+
+- der er foretaget en uafhængig revisionsundersøgelse af projektets økonomi, og
+ 
+- der er gennemført en analyse af behovet for nye kampfly i forhold til fremtidens sikkerhedspolitiske udfordringer.« 
+
+V 11:
+
+»Folketinget tager forsvarsministerens redegørelse vedrørende den fremtidige anskaffelse af kampfly til efterretning. 
+
+Folketinget opfordrer forsvarsministeren til at sikre en åben proces med henblik på at tilvejebringe et gennemskueligt og uvildigt beslutningsgrundlag.« 
+
+Afstemning: 
+
+V 11 vedtaget med 95 stemmer (V, S, DF, KF og RV) mod 7 (SF og EL). 
+
+V 10 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:35:54.567', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20744, 2, null, 14, N'Har regeringen en strategi, der sikrer en udvikling, der fremmer bosætning og erhvervsudvikling samt bevarer servicetilbud i landdistrikterne, hvad mener regeringen, er en hensigtsmæssig strukturudvikling i landbruget, og i hvilket omfang mener regeringen, at der i fremtiden skal være færre mindre landbrug, deltidslandbrug og fritidslandbrug i Danmark?', N'Om landdistrikterne og udviklingen i landbruget', N'O', N'F 11', N'F', N'11', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 18. Af Jens Kirk (V), Christian H. Hansen (DF) og Allan Niebuhr (KF).
+ 
+Fremsat 29-11-06 ....... FF 1754 
+Vedtaget 30-11-06 ....... FF 1779 
+
+V 19. Af Ole Glahn (RV), Jens Peter Vernersen (S), Kristen Touborg (SF) og Per Clausen (EL). 
+
+Fremsat 29-11-06 ....... FF 1755 
+Bortfaldet 30-11-06 ...... FF 1779 
+
+Fuld tekst:
+ 
+V 18:
+
+»Folketinget anerkender, at regeringen inden for landdistriktspolitikken har igangsat en række relevante og ambitiøse initiativer, som vil styrke vækst og beskæftigelse i landdistrikterne.
+ 
+Folketinget finder, at den aftale, som regeringen har indgået med Dansk Folkeparti om den overordnede finansielle fordeling af landdistriktsprogrammets midler, vil sikre vækst og udvikling og fremme bosætning og erhvervsudvikling i landdistrikterne, samtidig med at regeringens ambitiøse målsætninger på miljøområdet fastholdes. Folketinget bifalder, at regeringen vil sikre fuld hjemtagning af EU-midlerne i programperioden.
+ 
+Folketinget konstaterer med tilfredshed, at der med regeringens aftale med Dansk Folkeparti om en økologipakke er sket en markant styrkelse af rammerne for økologien helt frem til 2013.
+ 
+Folketinget bifalder, at nærdemokrati i forvaltningen styrkes ved etablering af de lokale aktionsgrupper. 
+
+Folketinget finder, at landdistriktsprogrammet kan bidrage til en balanceret strukturudvikling, hvor der fortsat vil være stor variation med såvel større som mindre landbrugsbedrifter, herunder deltids- og fritidsbedrifter.« 
+
+V 19:
+
+»Folketinget konstaterer, at landdistriktsudvikling i dag er fordelt mellem flere ministerielle ressortområder, hvilket medfører en usammenhængende indsats. Folketinget pålægger regeringen inden udgangen af 2007 at fremlægge en samlet strategi for udvikling af landdistrikterne under maksimalt hensyn til natur og miljø. Strategien skal give svar på følgende spørgsmål: 
+
+- Hvordan skabes der positiv erhvervsudvikling i landdistrikterne?
+ 
+- Hvordan sikres der let tilgængelighed af dagligvarer, herunder sunde fødevarer i landdistrikterne?
+ 
+- Hvordan opretholdes og udvikles der kulturelle samlingspunkter i landdistrikterne som f.eks. skoler, idrætsklubber, forsamlingshuse, kulturhuse, ældrecentre og kirker? 
+
+- Hvordan skabes der lokale rammer i landdistrikterne for demokratisk dialog efter kommunesammenlægningerne? 
+
+- Hvordan sikres gode muligheder for offentlig transport i landdistrikterne?« 
+
+Afstemning:
+ 
+V 18 vedtaget med 64 stemmer (V, DF og KF) mod 48 (S, RV, SF og EL). 
+
+V 19 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:36:45.373', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20745, 2, null, 14, N'Vil regeringen redegøre for Danmarks og EU''s handelspolitik efter sammenbruddet af Dohaforhandlingerne, herunder for hvordan regeringen vil sikre, at handelspolitikken ikke modvirker ulandenes mulighed for udvikling og fattigdomsbekæmpelse?', N'Om Danmarks og EU''s handelspolitik efter sammenbruddet af Dohaforhandlingerne', N'O', N'F 12', N'F', N'12', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 14. Af Rune Lund (EL). A
+
+Fremsat 22-11-06 ..... FF 1454 
+Bortfaldet 23-11-06 ..... FF 1485 
+
+V 15. Af Kurt Kirkegaard (V), Mogens Lykketoft (S), Morten Messerschmidt (DF), Helle Sjelle (KF), Naser Khader (RV) og Steen Gade (SF).
+ 
+Fremsat 22-11-06 ..... FF 1455 
+Vedtaget 23-11-06 ....... FF 1485 
+
+Fuld tekst:
+ 
+V 14:
+
+»Da EU''s handelspolitiske linje, ikke mindst med vedtagelsen af Kommissionens udspil Global Europe, strider mod hensynet til ulandenes udvikling, opfordres regeringen til at arbejde for, at EU''s politik i forhold til bilaterale og multilaterale aftaler ændres, således at 
+
+- sociale og miljømæssige hensyn ikke underordnes hensynet til de europæiske erhvervslivs interesser,
+ 
+- EU gennemfører en hurtig og betingelsesløs afvikling af al handelsforvridende landbrugsstøtte,
+
+- EU anerkender alle ulandes ret til at beskytte smålandbrugere og svage industrier, herunder gennem at opretholde høje toldsatser på følsomme områder, 
+
+- EU anerkender alle landes ret til at regulere serviceydelser i offentlighedens interesser,
+ 
+- offentlig service og offentlige indkøb holdes ude af forhandlingerne, 
+
+- ulandes ret til at regulere udenlandske investeringer respekteres,
+ 
+- EU respekterer ulandenes rettigheder til at bestemme over deres naturressourcer, og
+ 
+- aftaler om intellektuel ejendomsret sker under hensyntagen til ulandenes rettigheder til adgang til viden og teknologi og beskyttelse af traditionel viden og folkesundhed.« 
+
+V 15: »Folketinget beklager på det kraftigste, at WTO-forhandlingerne er blevet suspenderet, og opfordrer regeringen til at arbejde for at 
+
+- forhandlingerne i Dohaudviklingsrunden snarest muligt genoptages, og at EU og andre væsentlige forhandlingspartnere fremsætter nye, konstruktive udspil - bl.a. om lavere told på landbrugsprodukter - og medvirker aktivt til, at runden afsluttes med et udviklingsvenligt resultat,
+ 
+- EU overholder løfterne til de fattige udviklingslande som fremsat i WTO-forhandlingerne, herunder væsentlig mere handelsrelateret bistand, samt arbejder for, at andre ilande gør tilsvarende,
+ 
+- alt undtagen våben-initiativet forbedres og udstrækkes til flere af verdens fattige lande samt snarest muligt tilbydes af alle ilande, og 
+
+- udviklingshensyn sikres førsteprioritet i forhandlingerne med en række af verdens fattige lande om økonomiske partnerskabsaftaler, herunder med henblik på at fremme syd-syd-handelen.« 
+
+Afstemning: 
+
+V 15 vedtaget med 106 stemmer (V, S, DF, KF, RV og SF) mod 3 (EL).
+ 
+V 14 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:37:29.090', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20746, 2, null, 14, N'Vil regeringen redegøre for den økonomiske situation i kommunerne efter indførelse af kommunalreformen og budgetlægningen for 2007, hvor det i mange kommuner har været nødvendigt at foretage større besparelser på centrale velfærdsområder, som er i direkte modstrid med de forventninger, regeringen har skabt hos befolkningen på kommunernes vegne om velfærdsforbedringer, og for hvordan regeringen vil sikre kommunerne reel mulighed for økonomisk at leve op til sine egne løfter om bedre og mere velfærd?', N'Om kommunernes økonomi efter indførelse af kommunalreformen og budgetlægningen for 2007', N'O', N'F 13', N'F', N'13', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 12. Af Pia Gjellerup (S), Margrethe Vestager (RV), Ole Sohn (SF) og Line Barfod (EL).
+ 
+Fremsat 16-11-06 ...... FF 1282 
+Bortfaldet 21-11 06 ...... FF 1388 
+
+V 13. Af Peter Christensen (V), Kristian Thulesen Dahl (DF) og Allan Niebuhr (KF). 
+
+Fremsat 16-11-06 ...... FF 1285 
+Vedtaget 21-11-06 ....... FF 1388 
+
+Fuld tekst:
+ 
+V 12:
+
+»Folketinget konstaterer, at kommunerne ikke har penge og råderum til at indfri dokumenterede udgiftsbehov og de forventninger, som regeringen har skabt hos befolkningen med løfter om bedre og mere velfærd i forhold til børn, folkeskole og ældre. 
+
+På den baggrund pålægges regeringen at sørge for, at kommunerne får tilstrækkelige midler og rammer til at sikre kommunerne mulighed for at leve op til regeringens løfter om velfærdsforbedringer,
+ 
+- som tager højde for ændringer i befolkningssammensætningen,
+ 
+- som sikrer varetagelse af de nye opgaver som følge af kommunalreformen, og
+ 
+- som sikrer finansieringen af engangsudgifter ved indførelse af kommunalreformen.« 
+
+V 13:
+
+»Folketinget konstaterer, at kommunerne med den nye kommunale struktur og sommerens økonomiaftale samt de ekstra 424 mio. kr. til merudgifter til det sociale område kan fastholde serviceniveauet i 2007.
+ 
+Der er heri taget højde for ændringer i befolkningssammensætningen. Det kan endvidere konstateres, at kommunerne under et øger serviceniveauet for centrale områder. 
+
+Kommunalreformen betyder, at der med de lokale prioriteringer sker en tilpasning til et nyt fælles serviceniveau. Hertil kommer udligningsreformen, som flytter ressourcer fra nogle kommuner til andre kommuner. 
+
+Folketinget konstaterer på den baggrund, at kommunalreformen skaber et solidt fundament for fortsat udvikling af kvaliteten i den offentlige service til gavn for den enkelte borger, og ser frem til den bebudede opfølgning med den såkaldte kvalitetsreform af den offentlige sektor.« 
+
+Afstemning:
+ 
+V 13 vedtaget med 66 stemmer (V, DF og KF) mod 50 (S, RV, SF og EL).
+ 
+V 12 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:37:58.920', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20747, 2, null, 14, N'Vil udenrigsministeren redegøre for udviklingen i The Euro-Mediterranean Partnership, herunder for konklusionerne ved den seneste konference, der afholdtes den 2.-3. december 2003 i Napoli?', N'Om The Euro-Mediterranean Partnership', N'O', N'F 14', N'F', N'14', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 36. Af Morten Messerschmidt (DF). 
+
+Fremsat 16-01-07 ...... FF 2917 
+Bortfaldet 16-01-07 ...... FF 2933 
+
+V 37. Af Birgitte Josefsen (V) og Helle Sjelle (KF). 
+
+Fremsat 16-01-07 ........ FF 2918 
+Vedtaget 16-01-07 ...... FF 2933 
+
+V 38. Af Rune Lund (EL).
+ 
+Fremsat 16-01-07 ...... FF 2929 
+Bortfaldet 16-01-07 ..... FF 2933 
+
+Fuld tekst:
+ 
+V 36:
+
+»Folketinget udtrykker bekymring over, at samarbejdet mellem EU og de sydlige middelhavslande i The Euro-Mediterranean Partnership ifølge hensigtserklæringerne bl.a. fra ministerkonferencen 2003 i Napoli sigter mod fri bevægelighed af indbyggere. De vestlige lande bør beskytte sig imod indvandringen fra Nordafrika, hvorfor Folketinget vender sig imod, at EU arbejder på at give disse landes indbyggere fri adgang til EU''s område.
+
+Endvidere erklærer Folketinget sig skeptisk over for ideen om en EU-Middelhavsfond, der skal fremme dialog mellem kulturer. EU skal ikke på medlemsstaternes vegne føre dialog med den islamiske kultur, men derimod anerkende, at ethvert anliggende i denne henseende hører hjemme i medlemsstaterne, ligesom tanken om, at EU skal give fondsmidler til de nordafrikanske lande, må afvises, så længe landene afholder sig fra at gennemføre de nødvendige reformer til at sikre demokrati, kvinders ligestilling og ytringsfrihed.« 
+
+V 37:
+
+»Folketinget noterer sig regeringens redegørelse for udviklingen i Euro-Middelhavs-partnerskabet de seneste år, herunder vedrørende etablering af et frihandelsområde mellem EU-landene og partnerlandene.
+ 
+Folketinget opfordrer regeringen til aktivt at bidrage til en styrkelse af Euro-Middelhavs-partnerskabet med særligt fokus på etablering af et frihandelsområde, samarbejde om migration samt gennemførelse af politiske, økonomiske og sociale reformer i partnerlandene.« 
+
+V 38: »Folketinget pålægger regeringen at arbejde ud fra følgende retningslinjer i forbindelse med Euromed-samarbejdet:
+ 
+- Handelssamarbejdet skal tage udgangspunkt i de fattigere landes udviklingsbehov frem for EU''s store selskabers ønsker om øgede markedsandele. 
+
+- Når mennesker fra andre dele af verden arbejder i Danmark, skal dette arbejde foregå på danske løn- og arbejdsvilkår.
+ 
+Folketinget udtrykker sin positive holdning til kulturel og social udveksling mellem lande i EU og lande i Middelhavsområdet.« 
+
+Afstemning:
+ 
+V 37 vedtaget med 83 stemmer (V, S, KF, RV og SF) mod 15 (DF og EL).
+ 
+V 36 og V 38 var herefter bortfaldet.', null, 23, null, null, N'2018-12-03 10:41:01.977', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20748, 2, null, 14, N'Hvad kan regeringen oplyse om erfaringerne med handlingsplanen til bekæmpelse af kvindehandel, og hvorledes agter regeringen at styrke og forankre indsatsen mod kvindehandel fremover?', N'Om kvindehandel', N'O', N'F 15', N'F', N'15', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 27. Af Kirsten Brosbøl (S), Lone Dybkjær (RV), Pernille Vigsø Bagge (SF) og Line Barfod (EL). 
+
+Fremsat 12-12 06 ...... FF 2282 
+Bortfaldet 14-12 06 ...... FF 2445 
+
+V 28. Af Anne-Mette Winther Christiansen (V), Louise Frevert (DF) og Tom Behnke (KF).
+ 
+Fremsat 12-12-06 ...... FF 2284 
+Vedtaget 14-12-06 ....... FF 2445 
+
+Fuld tekst:
+ 
+V 27:
+
+»Folketinget anerkender, at regeringen med opbakning fra satspuljepartierne har iværksat en handlingsplan om bekæmpelse af kvindehandel, hvoraf alle elementer nu er gennemført, men konstaterer, at den samlede indsats har været mangelfuld. 
+
+Folketinget opfordrer derfor regeringen til en markant styrkelse af bekæmpelsen af alle former for menneskehandel i en ny handlingsplan, der bl.a. indeholder følgende: 
+
+- Styrket indsats over for bagmændene.
+ 
+- Justitsministeren skal aflægge rapport til Folketinget om effekterne af politiindsatsen senest den 1. juni 2008.
+ 
+- Styrket social indsats, herunder landsdækkende opsøgende arbejde, ubetinget udvidelse af refleksionsperioden til minimum 90 dage med mulighed for meningsfyldte aktiviteter samt hjælp til rehabilitering i hjemlandet. 
+
+- Øremærkede midler til oplysningskampagner, særlig med henblik på at nedbringe efterspørgslen. 
+
+- Styrket indsats for handlede bøm med klarere lovregler, ansvarsfordeling og procedurer.
+ 
+- Udpegning af en uafhængig national rapportør, der årligt aflægger rapport til Folketinget.
+ 
+- Øget internationalt samarbejde med fokus på forebyggelse og hjælp til ofrene.« 
+
+V 28: »Folketinget anerkender, at regeringen med opbakning fra satspuljepartierne har udarbejdet en handlingsplan om bekæmpelse af kvindehandel, herunder etableret:
+ 
+- opsøgende arbejde blandt udenlandske kvinder i prostitution,
+ 
+- et beskyttet hus for ofrene, 
+
+- mulighed for ophold på to af landets krisecentre, 
+
+- netværk af internationale ngo''er i hjemlandene, 
+
+- informationsmateriale på 11 sprog og
+ 
+- hotline for både ofre og kunder.
+ 
+Folketinget noterer sig, at justitsministeren med strategien mod prostitutionens bagmænd har taget initiativ til at styrke den politimæssige indsats mod kvindehandel. 
+
+Folketinget bemærker med tilfredshed, at regeringen agter at styrke indsatsen mod alle typer af menneskehandel med særligt fokus på at 
+
+- give ofre for menneskehandel, der samarbejder med myndighederne om forberedt hjemsendelse, en udrejsefrist på op til 100 dage, 
+
+- støtte ofrene ved at forbedre de sociale tilbud i Danmark, 
+
+- forebygge menneskehandel ved øget internationalt samarbejde og øge befolkningens viden og 
+
+- oprette et Videns- og Koordinationscenter for Menneskehandel.« 
+
+Afstemning: 
+
+V 28 vedtaget med 61 stemmer (V, DF og KF) mod 10 (RV og EL); 38 (S og SF) stemte hverken for eller imod. 
+
+V 27 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 10:41:02.217', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20749, 2, null, 14, N'Hvad kan regeringen oplyse om situationen for landets biblioteker efter de nylig overståede budgetaftaler i kommunerne, og agter regeringen at udvikle en national strategi for biblioteksvæsenets placering i informationssamfundet?', N'Om landets biblioteker', N'O', N'F 16', N'F', N'16', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 34. Af Ole Sohn (SF), Vibeke Grave (S), Elsebeth Gerner Nielsen (RV) og Per Clausen (EL) 
+
+Fremsat 11-01-07 ..... FF 2794 
+Bortfaldet 11-01-07 ..... FF 2811 
+
+V 35. Af Troels Christensen (V), Louise Frevert (DF) og Jakob Axel Nielsen (KF). 
+
+Fremsat 11-01-07 ..... FF 2796 
+Vedtaget 11-01-07 ....... FF 2811 
+
+Fuld tekst:
+ 
+V 34:
+
+»Folketinget udtrykker bekymring for de mange bibliotekslukninger, der skyldes regeringens alt for stramme styring af kommunernes økonomi. Folketinget lægger vægt på, at der fremover sikres et biblioteksudbud af høj kvalitet i Danmark, der aktivt kan medvirke til at bringe Danmark og borgerne ind i vidensamfundet.
+ 
+På den baggrund opfordrer Folketinget regeringen til at formulere og etablere en overordnet og samlende dansk national strategi for vidensamfundet i lighed med anbefalingerne fra FN''s verdenstopmøde om informationssamfundet.
+ 
+Strategien skal beskrive de forskellige offentlige aktørers opgaver, ansvar og samspil med borgerne og identificere de nødvendige udviklingsområder, herunder bibliotekernes rolle og opgaver i vidensamfundet, samt give anvisning på, hvordan alle borgere sikres tilgængelighed til bibliotekernes tilbud. Endvidere skal strategien indeholde anvisning af, hvordan der sikres de nødvendige ressourcer til bibliotekernes udvikling.
+ 
+I arbejdet med strategiplanen inddrages alle relevante aktører.
+ 
+Strategiplanen fremlægges for Folketinget i næste folketingsår.« 
+
+V 35:
+
+»Folketinget lægger vægt på, at der fremover sikres et biblioteksudbud af høj kvalitet i Danmark.
+ 
+Folketinget konstaterer, at det er et kommunalt ansvar, hvorledes folkebibliotekernes virksomhed nærmere udformes inden for rammerne af biblioteksloven og i samspil med de statslige overbygningsfunktioner på folkebiblioteksområdet.
+ 
+Folketinget noterer til sin tilfredshed, at Kulturministeriet gennem Biblioteksstyrelsen nøje følger udviklingen i det generelle biblioteksudbud, herunder kommunalreformens konsekvenser for borgernes lige adgang til folkebibliotekernes ydelser. 
+
+Endelig bemærker Folketinget, at Kulturministeriet gennem Biblioteksstyrelsen allerede er i gang med at gennemføre en generel strategi for udviklingen af bibliotekernes rolle i vidensamfundet under hensyntagen til de udfordringer, der ligger i brugernes adfærd, den teknologiske udvikling og de strukturelle ændringer på det kommunale område og inden for uddannelses- og forskningssektoren.« 
+
+Afstemning:
+ 
+V 35 vedtaget med 59 stemmer (V, DF og KF) mod 2 (EL); 42 (S, RV og SF) stemte hverken for eller imod.', null, 23, null, null, N'2018-12-03 10:51:59.007', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20750, 2, null, 14, N'Vil regeringen redegøre for evakueringen fra Libanon i sommeren 2006, herunder redegøre nærmere for styringen af selve evakueringen, for politiets rolle i forhold til håndteringen af eventuelle kriminelle blandt de evakuerede samt for personer, der er udvist af Danmark, for registreringen af de evakuerede i forhold til deres opholdsgrundlag i Danmark, herunder for, i hvilket omfang det har givet anledning til genovervejelser af opholdsgrundlaget i Danmark (f.eks. såkaldte »ferieflygtninge«), samt redegøre for, i hvilket omfang de evakuerede har stået til rådighed for arbejdsmarkedet i Danmark på det tidspunkt, de befandt sig i Libanon?', N'Om evakueringen fra Libanon', N'O', N'F 17', N'F', N'17', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 31. Af Eyvind Vesselbo (V), Morten Bødskov (S), Søren Espersen (DF) og Lars Barfoed (KF).
+ 
+Fremsat 09-01-07 ....... FF 2647 
+Vedtaget 11-01-07 ....... FF 2739 
+
+Fuld tekst:
+ 
+V 31:
+
+»Folketinget
+
+- anerkender myndighedernes hurtige evakuering og understreger betydningen af tæt koordination og samarbejde i Den Internationale Operative Stab,
+
+- understreger, at den danske katastrofeindsats kan forstærkes, herunder vedrørende genopbygning og initiativer til øget internationalt samarbejde med fælles koordinerede beredskabsplaner og -indsatser i katastrofeområder,
+ 
+- beklager, at evakueringen forløb på en måde, der medførte, at nogle få personer, der ikke burde have været omfattet, kom til Danmark,
+
+- opfordrer regeringen til at udarbejde en procedure med henblik på at imødegå ulovlig indrejse under evakueringer bl.a. ved udsendelse af politi, således at kun danske statsborgere og personer med opholdsgrundlag i Danmark er omfattet,
+ 
+- noterer sig beskæftigelsesministerens lovforslag, der for at hindre misbrug sikrer kommunerne samme muligheder for at kontrollere modtagere af kontanthjælp m.v., som Arbejdsdirektoratet har for medlemmer af arbejdsløshedskasser, og
+
+- noterer sig integrationsministerens lovgivningsinitiativ, der for at hindre misbrug muliggør samkøring mellem udlændingemyndighedernes registre og andre myndigheders registre.« 
+
+Afstemning:
+ 
+V 31 vedtaget med 90 stemmer (V, S, DF og KF) mod 3 (EL); 17 (RV og SF) stemte hverken for eller imod.', null, 23, null, null, N'2018-12-03 10:52:36.450', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20751, 2, null, 14, N'Vil ministeren redegøre for reglerne om dyretransporter, herunder om, hvordan det sikres, at de danske særregler overholdes også ved grænseoverskridende transporter?', N'Om dyretransporter', N'O', N'F 18', N'F', N'18', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 39. Af Christian H. Hansen (DF), Michael Aastrup Jensen (V), Mette Gjerskov (S), Allan Niebuhr (KF), Ole Glahn (RV), Kristen Touborg (SF) og Per Clausen (EL). 
+
+Fremsat 23-01-07 ..... FF 3207 
+Vedtaget 23-01-07 ..... FF 3229 
+
+Fuld tekst:
+ 
+V 39:
+
+»Folketinget konstaterer, at resultaterne af Rigspolitiets kontrol af dyretransporter viser, at der fortsat er væsentlige problemer med at overholde reglerne om transport af dyr. I ca. hver fjerde transport, der kontrolleres, konstateres således overtrædelser af direkte betydning for dyrenes velfærd. 
+
+På baggrund af justitsministerens redegørelse opfordrer Folketinget regeringen til: 
+
+- at fremsætte lovforslag inden udgangen af marts måned 2007 om en klippekortsordning for dyretransporter, som effektivt sikrer, at såvel chauffører som vognmænd lever op til lovens krav, og 
+
+- at arbejde aktivt for, at der internationalt, herunder i EU-regi, iværksættes de fomødne initiativer til en væsentlig forbedring af dyrs velfærd under transport.« 
+
+Afstemning:
+
+V 39 vedtaget enstemmigt med 110 stemmer.', null, 23, null, null, N'2019-01-03 12:00:55.827', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20752, 2, null, 14, N'Hvilke konsekvenser vil regeringen drage af, at adskillige rapporter om kontanthjælpssystemet konkluderer, at kontanthjælpsloftet ikke bringer kontanthjælpsmodtagere i arbejde?', N'Om kontanthjælpsloftet', N'O', N'F 19', N'F', N'19', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 32. Af Elisabeth Geday (RV), Jørgen Arbo-Bæhr (EL), Ole Sohn (SF) og Thomas Adelskov (S).
+ 
+Fremsat 11-01-07 ..... FF 2743 
+Bortfaldet 11-01-07 ..... FF 2778 
+
+V 33. Af Jens Vibjerg (V), Bent Bøgsted (DF) og Lars Barfoed (KF). 
+
+Fremsat 11-01-07 ..... FF 2744 
+Vedtaget 11-01-07 ....... FF 2778 
+
+Fuld tekst: 
+
+V 32:
+
+»Folketinget konstaterer, at en række undersøgelser - herunder regeringens egen kulegravning - dokumenterer, at kontanthjælpsloftet ikke virker og øger fattigdommen i Danmark. Folketinget opfordrer regeringen til hurtigst muligt at fremsætte lovforslag, der afskaffer kontanthjælpsloftet.« 
+
+V 33:
+
+»Folketinget konstaterer, at kulegravningsrapporten viser, at kontanthjælpsloftet har givet de fleste en gevinst ved at arbejde. Rapporten viser endvidere, at økonomiske incitamenter er nødvendige, men ikke tilstrækkelige betingelser for at få flere i arbejde. Folketinget støtter op om, at der altid skal være en gevinst ved at arbejde frem for at være på passiv forsørgelse. Folketinget er særlig opmærksom på, at også lavtlønnede familier skal have en gevinst ved at arbejde.
+ 
+Folketinget konstaterer med tilfredshed, at de mange andre initiativer på beskæftigelsesområdet også medvirker til at skabe et mere velfungerende arbejdsmarked, og at der er særlig fokus på beskæftigelsen af svage grupper.« 
+
+Afstemning:
+ 
+V 33 vedtaget med 61 stemmer (V, DF og KF) mod 46 (S, RV, SF og EL).
+ 
+V 32 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:02:54.940', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20753, 2, null, 14, N'Hvad vil regeringen foretage sig for at sikre sig, at der set i lyset af den demografiske udvikling er tilstrækkeligt sundhedsfagligt personale, og samtidig sikre, at der er et højt fagligt uddannelsesniveau, der som minimum svarer til det eksisterende?', N'Om personalet inden for sundhedssektoren', N'O', N'F 20', N'F', N'20', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 44. Af Bjarne Laustsen (S).
+ 
+Fremsat 26-01-07 ...... FF 3505 
+Bortfaldet 30-01-07 ...... FF 3563 
+
+V 45. Af Charlotte Dyremose (KF), Martin Henriksen (DF) og Torsten Schack Pedersen (V). 
+
+Fremsat 26-01-07 ...... FF 3511 
+Vedtaget 30-01-07 ....... FF 3563 
+
+Fuld tekst: 
+
+V 44:
+
+»Idet Folketinget konstaterer, at der på en række områder er og vil opstå personalemangel i sundhedssektoren, pålægger Folketinget regeringen inden 1. oktober 2007 at afgive en redegørelse for det samlede fremtidige personalebehov i sundhedssektoren samt at fremlægge en handlingsplan bl.a. om uddannelse til afhjælpning af behovet i de områder, hvor der er eller vil opstå mangel på sundhedspersonale.« 
+
+V 45:
+
+»Folketinget konstaterer, at der i de seneste år bl.a. med finanslovaftalen mellem regeringen og Dansk Folkeparti for 2007 er taget en række initiativer med henblik på at styrke sundhedsområdet. 
+
+Folketinget er opmærksom på de personalemæssige udfordringer, den offentlige sektor - herunder sundhedsvæsenet - står over for i de kommende år. 
+
+Folketinget ønsker at sikre en høj standard i det danske sundhedsvæsen. Uddannelsesområdet spiller en væsentlig rolle for at opfylde dette mål både på kort og på lang sigt. 
+
+På uddannelsesområdet er det derfor centralt, at der er fokus på:
+ 
+- rekruttering,
+ 
+- frafald, 
+
+- gennemførelse, 
+
+- fastholdelse og 
+
+- voksen- og efteruddannelse
+
+inden for det sundhedsfaglige område.
+ 
+Fordelingen af globaliseringspuljen og de fremtidige drøftelser om kvalitetsreformen er blandt de offensive svar på disse udfordringer, ligesom Folketinget finder det afgørende, at uddannelsesområdet løbende tilrettelægges således, at det bedst muligt bidrager til at opfylde de krav, som stilles til personalets kvalifikationer.« 
+
+Afstemning:
+
+V 45 vedtaget med 63 stemmer (V, DF og KF); 48 (S, RV, SF og EL) stemte hverken for eller imod. 
+
+V 44 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:04:27.970', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20754, 2, null, 14, N'Vil ministeren redegøre for, hvilke konsekvenser den nye universitetslov har haft for medarbejdernes og de studerendes medbestemmelse på universiteterne samt for konsekvenserne for den frie akademiske debat og den frie forskning?', N'Om medbestemmelse på universiteterne', N'O', N'F 21', N'F', N'21', N'', N'Behandlet sammen: F 3 og F 21. 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 8. Af Per Clausen (EL), Charlotte Fischer (RV) og Morten Homann (SF).
+
+Fremsat 16-11-06 ...... FF 1214 
+Bortfaldet 16-11-06 ...... FF 1247 
+
+V 9. Af Torsten Schack Pedersen (V), Rasmus Prehn (S) og Carina Christensen (KF).
+ 
+Fremsat 16-11-06 ...... FF 1215 
+Vedtaget 16-11-06 ....... FF 1246 
+
+Fuld tekst: 
+
+V 8:
+
+»Idet Folketinget konstaterer: 
+
+- at den nye universitetslov af universitetsansatte og studerende er kritiseret for, at den har svækket forskningsfriheden, den frie forskningsdebat og deres medindflydelse og engagement, og 
+
+- at de kommende universitetsfusioner, hvor universiteterne fremover også lægges sammen med sektorforskningsinstitutionerne, ikke er sket på et oplyst og gennemtænkt grundlag,
+ 
+pålægger Folketinget regeringen at sikre:
+ 
+- at der senest i 2007 gennemføres en uafhængig og gennemgribende evaluering af konsekvenserne af universitetsloven, hvor medarbejderne og de studerende inddrages med hensyn til:
+ 
+- organisation, herunder beslutningsstruktur, medarbejderes og studerendes deltagelse/inddragelse og det almindelige klima,
+ 
+- forskning, herunder kvaliteten og arten af forskningen samt forskningsfriheden,
+
+- uddannelserne, herunder udbuddet og kvaliteten af uddannelserne,
+ 
+- formidling af viden, og
+ 
+- at der snarest skabes et overblik over, hvilke omkostninger fusionerne vil medføre for universiteterne med henblik på at sikre finansieringen af disse ekstra omkostninger.« 
+
+V 9:
+
+»Folketinget tager videnskabsministerens besvarelse til efterretning, idet Folketinget:
+ 
+- konstaterer, at formålet med sammenlægningerne er mere uddannelse, større international gennemslagskraft på forskningsområdet, mere innovation og erhvervssamarbejde, tiltrækning af flere EU-midler samt en fortsat kompetent myndighedsbetjening,
+ 
+- konstaterer, at frivillighed har været det bærende princip for sammenlægningerne af de universiteter og sektorforskningsinstitutioner, der etableres pr. 1. januar 2007,
+ 
+- understreger vigtigheden af universitetslovens bestemmelser om forskningsfrihed og medarbejdernes frihed til at deltage i den offentlige debat,
+ 
+- konstaterer, at videnskabsministeren i 2009 gennemfører en evaluering af, hvor langt man er nået med opfyldelsen af formålene med universitetssammenlægningerne, og
+
+- konstaterer, at videnskabsministeren ligeledes i 2009 gennemfører en evaluering, der belyser medarbejdernes og de studerendes medbestemmelse på universiteterne, den frie akademiske debat og forskningsfriheden under den nuværende universitetslov.« 
+
+Afstemning:
+ 
+V 9 vedtaget med 69 stemmer (V, S og KF) mod 18 (RV, SF og EL); 15 (DF) stemte hverken for eller imod.
+ 
+V 8 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:05:21.303', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20755, 2, null, 14, N'Hvordan vil regeringen sikre et højt niveau for fødevaresikkerhed, en velfungerende fødevarekontrol og en langsigtet fødevarestrategi, som aktivt medvirker til øget sundhed i befolkningen?
+ 
+', N'Om fødevaresikkerhed, -kontrol og -strategi.', N'O', N'F 22', N'F', N'22', N'', N'Behandlet sammen: F 22 og R 4. 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 20. Af Kristen Touborg (SF) og Per Clausen (EL).
+ 
+Fremsat 01-12-06 ...... FF 1844 
+Bortfaldet 05-12-06 ...... FF 1911 
+
+V 21. Af Inger Beinov Støjberg (V), Christian H. Hansen (DF) og Per Ørum Jørgensen (KF). 
+
+Fremsat 01-12-06 ...... FF 1846 
+Vedtaget 05-12-06 ....... FF 1911 
+
+V 22. Af Elisabeth Geday (RV) og Jens Peter Vernersen (S).
+ 
+Fremsat 01-12-06 ...... FF 1869 
+Bortfaldet 05-12-06 ...... FF 1911 
+
+Fuld tekst:
+ 
+V 20:
+
+»Idet Folketinget udtrykker stor bekymring over den stigende fedme i den danske befolkning, den svigtende danske fødevarekontrol og den manglende sammenhæng i den fødevarepolitiske helhedstænkning, pålægges regeringen
+ 
+- at sikre en massiv oprustning af fødevarekontrol på ikke under 2001-niveau,
+ 
+- at momsfritage økologisk mad,
+ 
+- at reducere momsen på frugt og grønt,
+ 
+- at lægge afgift på sukker og fedt,
+ 
+- at fremme mærkningsordning mod fede, meget sukkerholdige og sygdomsfremmende fødevarer til forbrugernes fordel, 
+
+- at fremlægge handlingsplan mod tilsætningsstoffer og kemikalier i fødevarer,
+ 
+- at modvirke indførelsen af berigede fødevarer og
+ 
+- at forske i alternativer til gmo-produkter, hvor der fokuseres på udviklingen af miljøvenlige og sunde produkter.« 
+
+V 21:
+
+»Folketinget tager regeringens redegørelse til efterretning, idet Folketinget konstaterer, at 
+
+- Venstre, Det Konservative Folkeparti og Dansk Folkeparti gennemfører nultoleranceplanen i 2006, herunder ændring af fødevareloven (L 28), der indebærer en række forbedringer og skærpelser på fødevareområdet,
+ 
+- Venstre, Det Konservative Folkeparti og Dansk Folkeparti har afsat 30,9 mio. kr. i 2006 og 26 mio. kr. i 2007 for at videreføre initiativer i nultoleranceplanen, til bekæmpelse af fugleinfluenza samt for generelt at sikre opgavevaretagelsen i fødevarekontrollen,
+ 
+- Venstre, Det Konservative Folkeparti og Dansk Folkeparti yderligere har aftalt, at der i perioden 2007-2010 afsættes 57 mio. kr. til initiativer mod salmonella og kampylobakter,
+ 
+- i december foreligger Rigsrevisionens beretning om fødevarekontrollen samt en uafhængig ekspertgruppes anbefalinger til, hvordan styringen af fødevarekontrollen kan indrettes mest hensigtsmæssigt. Herefter drøfter parterne resultaterne af undersøgelsen og i den forbindelse også, om der er behov for at tilføre fødevarekontrollen flere ressourcer.« 
+
+V 22:
+
+»Idet Folketinget udtrykker stor bekymring over den tiltagende overvægt blandt danskere, den svigtende danske fødevarekontrol og den manglende sammenhæng i den fødevarepolitiske helhedstænkning, pålægges regeringen:
+ 
+- at afsætte en pulje på 200 mio. kr. årligt over 3 år til at starte sunde - gerne økologiske - måltidsordninger på landets skoler og daginstitutioner,
+ 
+- at styrke fødevarekontrollen markant med flere ressourcer, i første omgang 60 mio. kr. til bl.a. flere fødevarekontrollanter,
+ 
+- at arbejde for en obligatorisk EU-ernæringsmærkning på alle fødevarer,
+ 
+- at styrke dansk forskning i fødevarer, herunder i negative konsekvenser af tilsætningsstoffer og berigelser,
+ 
+- at ministeren forholder sig restriktivt til ansøgninger om og markedsføring af berigede fødevarer i Danmark og
+ 
+- at arbejde for en strammere kemikalielovgivning i EU, hvor alle kemikalier registreres og virksomhederne forpligtes til at undersøge risici ved dem, så forsigtighedsprincippet overholdes.« 
+
+Afstemning:
+ 
+V 21 vedtaget med 60 stemmer (V, DF og KF) mod 51 (S, RV, SF og EL).
+ 
+V 20 og V 22 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:06:13.360', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20756, 2, null, 14, N'Ministeren bedes redegøre for, hvordan han i over 3 år har siddet alle klager og problemer vedrørende ventetid for kræftpatienter overhørig, herunder hvorfor han ikke gennem dialog med Sundhedsstyrelsen og amterne har sikret, at lovfæstede ventetider er blevet overholdt?
+', N'Om ventetid for kræftpatienter.', N'O', N'F 23', N'F', N'23', N'', N'Behandlet sammen: F 23 og F 25. 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 29. Af Per Clausen (EL), Lone Møller (S), Charlotte Fischer (RV) og Anne Baastrup (SF).
+ 
+Fremsat 14-12-06 ..... FF 2481 
+Bortfaldet 14-12-06 ..... FF 2519 
+
+V 30. Af Birthe Skaarup (DF), Jørgen Winther (V) og Helle Sjelle (KF).
+ 
+Fremsat 14-12-06 ..... FF 2482 
+Vedtaget 14-12-06 ...... FF 2519 
+
+Fuld tekst:
+ 
+V 29: »Idet Folketinget konstaterer,
+ 
+- at regeringen i regeringsgrundlaget fra 2001 lovede, at »Borgerne skal have en reel og konkret garanti for behandling for alle sygdomme inden for en fastsat periode«,
+ 
+- at denne behandlingsgaranti aldrig er ført ud i livet - hverken for patienterne i almindelighed eller for kræftpatienter i særdeleshed, og
+ 
+- at der ifølge ministeren er sket lovbrud i forbindelse med den manglende opfyldelse af den lovede behandlingsgaranti for kræftramte mennesker,
+ 
+pålægger Folketinget regeringen
+ 
+- regelmæssigt at gøre status for og offentliggøre såvel de interne som eksterne ventetider på kræftområdet, og
+ 
+- at gennemføre en uvildig undersøgelse med henblik på at placere ansvaret for de lovbrud, der er sket i forbindelse med den manglende opfyldelse af regeringens behandlingsgaranti for kræftpatienter.« 
+
+V 30:
+
+»Med de seneste års betydelige investeringer - herunder løftet på 1,1 mia. kr. i 2006 i forbindelse med udmøntning af Kræftplan II - og andre nye tiltag som f.eks. indførelse af »second opinion-ordningen« er der sket en tiltrængt udbygning af dansk kræftbehandling, så stadig flere patienter modtager en stadig bedre behandling.
+ 
+Folketinget noterer sig, at disse investeringer følges op med en målrettet meraktivitetspulje til flere strålebehandlinger i ind- og udland, så de maksimale ventetider også på strålebehandling kan overholdes.
+ 
+Folketinget tager på den baggrund indenrigs- og sundhedsministerens redegørelse om det seneste forløb og status vedrørende kræftbehandlingen til efterretning og noterer sig med tilfredshed ministerens initiativer til en tæt opfølgning på området og hans tilsagn om at holde Tinget grundigt informeret herom.« 
+
+Afstemning:
+ 
+V 30 vedtaget med 61 stemmer (V, DF og KF) mod 47 (S, RV, SF og EL).
+ 
+V 29 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:06:46.327', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20757, 2, null, 14, N'Hvad kan ministeren oplyse om status på dansk kræftbehandling?', N'Om status på dansk kræftbehandling.', N'O', N'F 25', N'F', N'25', N'', N'Behandlet sammen: F 23 og F 25. 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 29. Af Per Clausen (EL), Lone Møller (S), Charlotte Fischer (RV) og Anne Baastrup (SF).
+ 
+Fremsat 14-12-06 ..... FF 2481 
+Bortfaldet 14-12-06 ..... FF 2519 
+
+V 30. Af Birthe Skaarup (DF), Jørgen Winther (V) og Helle Sjelle (KF).
+ 
+Fremsat 14-12-06 ..... FF 2482 
+Vedtaget 14-12-06 ...... FF 2519 
+
+Fuld tekst:
+ 
+V 29: »Idet Folketinget konstaterer,
+ 
+- at regeringen i regeringsgrundlaget fra 2001 lovede, at »Borgerne skal have en reel og konkret garanti for behandling for alle sygdomme inden for en fastsat periode«,
+ 
+- at denne behandlingsgaranti aldrig er ført ud i livet - hverken for patienterne i almindelighed eller for kræftpatienter i særdeleshed, og
+ 
+- at der ifølge ministeren er sket lovbrud i forbindelse med den manglende opfyldelse af den lovede behandlingsgaranti for kræftramte mennesker,
+ 
+pålægger Folketinget regeringen
+ 
+- regelmæssigt at gøre status for og offentliggøre såvel de interne som eksterne ventetider på kræftområdet, og
+ 

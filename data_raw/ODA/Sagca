@@ -1,0 +1,1000 @@
+- at gennemføre en uvildig undersøgelse med henblik på at placere ansvaret for de lovbrud, der er sket i forbindelse med den manglende opfyldelse af regeringens behandlingsgaranti for kræftpatienter.« 
+
+V 30:
+
+»Med de seneste års betydelige investeringer - herunder løftet på 1,1 mia. kr. i 2006 i forbindelse med udmøntning af Kræftplan II - og andre nye tiltag som f.eks. indførelse af »second opinion-ordningen« er der sket en tiltrængt udbygning af dansk kræftbehandling, så stadig flere patienter modtager en stadig bedre behandling.
+ 
+Folketinget noterer sig, at disse investeringer følges op med en målrettet meraktivitetspulje til flere strålebehandlinger i ind- og udland, så de maksimale ventetider også på strålebehandling kan overholdes.
+ 
+Folketinget tager på den baggrund indenrigs- og sundhedsministerens redegørelse om det seneste forløb og status vedrørende kræftbehandlingen til efterretning og noterer sig med tilfredshed ministerens initiativer til en tæt opfølgning på området og hans tilsagn om at holde Tinget grundigt informeret herom.« 
+
+Afstemning:
+ 
+V 30 vedtaget med 61 stemmer (V, DF og KF) mod 47 (S, RV, SF og EL).
+ 
+V 29 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:24:25.457', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20758, 2, null, 14, N'Vil regeringen redegøre for situationen i Tjetjenien samt, hvilke initiativer regeringen har tænkt sig at iværksætte for at få Rusland til at stoppe folkedrabet i Tjetjenien herunder undertrykkelsen af og drabene på den russiske regerings politiske modstandere?', N'Om Tjetjenien', N'O', N'F 26', N'F', N'26', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 53. Af Rune Lund (EL) og Holger K. Nielsen (SF).
+ 
+Fremsat 28-03-07 ..... FF 5102 
+Bortfaldet 29-03-07 ..... FF 5141 
+
+V 54. Af Søren Pind (V), Jan Petersen (S), Morten Messerschmidt (DF), Lars Barfoed (KF) og Naser Khader (RV).
+
+Fremsat 28-03-07 ..... FF 5103 
+Vedtaget 29-03-07 ....... FF 5141 
+
+Fuld tekst:
+ 
+V 53:
+
+»Idet Folketinget konstaterer, at 
+
+- demokratiet i Rusland oplever væsentlige tilbageskridt, 
+
+- Rusland fortsat ikke overholder menneskerettighederne i Tjetjenien, og at 
+
+- enhver form for terrorisme er forbryderisk, 
+
+opfordrer Folketinget regeringen til at 
+
+- støtte demokratiske kræfter - herunder menneskerettighedsorganisationerne Memorial og Soldatermødrenes Komité - i Rusland politisk og økonomisk, 
+
+- arbejde for, at Rusland ekskluderes af Europarådet, hvis ikke de betingelser, hvorpå man oprindelig optog Rusland, nu opfyldes, 
+
+- rejse en sag mod Rusland ved Den Europæiske Menneskerettighedsdomstol, 
+
+- arbejde for, at den internationale krigsforbryderdomstol (ICC) inddrages med henblik på at rejse sager mod personer, der har begået krigsforbrydelser i Tjetjenien siden 1994, 
+
+- tage kontakt til repræsentanter for den i 1997 lovligt valgte tjetjenske regering med henblik på at inddrage denne i fredsforhandlingerne, og 
+
+- opfordre alle parter i konflikten til at afstå fra og tage afstand fra enhver form for terrorisme.« 
+
+V 54:
+
+»Folketinget opfordrer regeringen til gennem EU og andre internationale fora at fortsætte dialogen med Rusland med henblik på at fremme en demokratisk og fredelig udvikling samt sikre adgang for internationale organisationer og nødhjælp til Tjetjenien og det øvrige nordlige Kaukasus. 
+
+Folketinget udtrykker sin bekymring over de fortsatte krænkelser på menneskerettighedsområdet, ikke mindst i det nordlige Kaukasus, og opfordrer alle parter til at respektere menneskerettighederne, herunder sikre retsforfølgelse af personer, der har begået overgreb. Folketinget tager på det skarpeste afstand fra brugen af terror. 
+
+Regeringen opfordres til fortsat engagement, også på bistandsområdet.« 
+
+Afstemning: 
+
+V 54 vedtaget med 104 stemmer (V, S, DF, KF og RV); 9 (SF og EL) stemte hverken for eller imod. 
+
+V 53 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:25:37.870', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20759, 2, null, 14, N'Vil ministeren redegøre for den hidtidige indsats for at forbedre såvel behandling af som den forebyggende indsats mod gigt, og hvilke planer om nye initiativer regeringen har?', N'Om behandling af og forebyggende indsats mod gigt', N'O', N'F 27', N'F', N'27', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 51. Af Per Clausen (EL), Bjørn Medom Nielsen (S) og Kamal Qureshi (SF).
+ 
+Fremsat 27-03-07 ...... FF 5022 
+Bortfaldet 27-03-07 ...... FF 5039 
+
+V 52. Af Preben Rudiengaard (V), Birthe Skaarup (DF) og Helle Sjelle (KF). 
+
+Fremsat 27-03-07 ...... FF 5025 
+Vedtaget 27-03-07 ....... FF 5039 
+
+Fuld tekst: 
+
+V 51: »Idet Folketinget konstaterer 
+
+- at gigt er en folkesygdom i vækst, som over 700.000 danskere lider af i dag,
+ 
+- at gigtområdet har været forsømt, og at indsatsen har manglet helhed,
+ 
+opfordrer Folketinget regeringen til at fremlægge en national handlingsplan på gigtområdet. Denne handlingsplan bør fokusere på følgende områder: 
+
+1. En udbygning af den forebyggende og sundhedsfremmende indsats med inddragelse af arbejdsmiljøet. 
+
+2. Tilbud om gratis fysioterapi, der kan forebygge/forhale varige skader (tilbageføring til niveauet fra før 2005). 
+
+3. Reducerede ventetider gennem indførelse af standardiserede udredningsforløb og en strategi for diagnosticering og behandling af kroniske gigtpatienter i almen praksis. 
+
+4. Patientuddannelse til patienter med gigt. 
+
+5. En øget forskningsindsats inden for slidgigt. 
+
+6. Uddannelse af flere speciallæger i reumatologi og øget efteruddannelse til de praktiserende læger. 
+
+7. Ensartet brug af biologisk medicin i hele landet. 
+
+8. Bedre patientinformation, sikkerhed for genoptræning efter hospitalsindlæggelse og øget kapacitet i smertebehandlingen.« 
+
+V 52:
+
+»Folketinget konstaterer, at der med kommunalreformen er skabt en god ramme for udvikling af indsatsen over for patienter med kroniske sygdomme, herunder gigtpatienter. Kommunerne har nu ansvaret for genoptrænings- og forebyggelsesområdet, herunder at der sættes fokus på tidlig opsporing og behandling i samarbejde med region og almen praksis for at bevare patienternes tilknytning til arbejdsmarkedet længst muligt. Sundhedsstyrelsen understøtter indsatsen med en generel model for behandling af kroniske sygdomme og følger løbende op på behovet for uddannelse af reumatologer. Modellen giver en ramme for systematisk opfølgning og patientuddannelse. Mere specifikt er der afsat midler til forskning på gigtområdet. Folketinget konstaterer videre, at der med disse tiltag og det generelle løft i bevillinger til sundhedsvæsenet er skabt rammer for, at regioner og kommuner i fællesskab kan sikre patienterne - herunder gigtpatienter - de rigtige tilbud på det rigtige tidspunkt.« 
+
+Afstemning:
+ 
+V 52 vedtaget med 55 stemmer (V, DF og KF) mod 45 (S, RV, SF og EL). 
+
+V 51 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:26:22.913', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20760, 2, null, 14, N'Vil ministeren redegøre for udviklingen i antallet af kystfiskere, som gennemfører et miljømæssigt bæredygtigt fiskeri, og deres andel af de fisk, der må fanges i forlængelse af indførelsen af FKA, og herunder redegøre for regeringens planer for at sikre det miljømæssigt bæredygtige fiskeri i fremtiden?', N'Om bæredygtigt fiskeri', N'O', N'F 28', N'F', N'28', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 49. Af Per Clausen (EL), Bjarne Laustsen (S), Ole Glahn (RV) og Kristen Touborg (SF).
+ 
+Fremsat 20-03-07  ..... FF 4727 
+Bortfaldet 20-03-07 ..... FF 4741 
+
+V 50. Af Jens Kirk (V), Bent Bøgsted (DF) og Allan Niebuhr (KF).
+ 
+Fremsat 20-03-07  ..... FF 4728 
+Vedtaget 20-03-07 ...... FF 4741 
+
+Fuld tekst: 
+
+V 49:
+
+»Idet Folketinget konstaterer, at det miljømæssigt bæredygtige fiskeri er kommet i krise efter indførelsen af FKA, opfordrer Folketinget regeringen til 
+
+- at tage de nødvendige initiativer for at styrke det kystfiskeri, der er miljømæssigt bæredygtigt, og som lander friske dagfangede fisk til et voksende dansk marked for friske fisk,
+ 
+- at støtte kystfiskeriet gennem en tildeling af større kvoteandele af de arter, som kystfiskeriet lever af,
+ 
+- at støtte fiskeriet i de indre danske farvande bl.a. i form af en større andel af kvoten på torsk, og 
+
+- at der iværksættes en gennemgribende undersøgelse af, hvorvidt grundlaget for uddeling af FKA-rettigheder er foregået på en for kystfiskeriet og retssikkerheden tilfredsstillende måde. I denne undersøgelse inddrages afgørelser i forbindelse med atypisk fiskeri.« 
+
+V 50:
+
+»Folketinget konstaterer, at der med aftalen om »Ny Regulering« i 2005 og »Handlingsplanen for Fiskeri og Akvakultur« i 2006 er skabt grundlag for en ny fremtid for erhvervet. Erhvervet står efter mange års stagnation over for en betydelig økonomisk og strukturel udfordring. Folketinget ønsker, at udviklingsordningerne for erhvervet bidrager til at skabe det størst mulige vedvarende økonomiske udbytte af den danske fiskeri- og akvakultursektor som grundlag for væksten i kystkommunerne og de mindre fiskerisamfund. Samtidig skal forskningsindsatsen målrettes en løsning af de væsentligste bæredygtighedsproblemer i fiskeriforvaltningen i EU og nationalt, herunder det uacceptable tab af konsumfisk, der finder sted i en række fiskerier. Folketinget konstaterer, at »Ny Regulering« har fastlagt fordelingen af fiskeressourcerne og styrket grundlaget for økonomisk vækst i fiskerisektoren og opfordrer regeringen til herefter at prioritere en udvikling i fiskeriforvaltningen, der kan fremme bæredygtigheden af dansk fiskeri.« 
+
+Afstemning:
+ 
+V 50 vedtaget med 60 stemmer (V, DF og KF) mod 47 (S, RV, SF og EL). 
+
+V 49 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:32:10.250', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20761, 2, null, 14, N'Hvad vil regeringen gøre for at modvirke, at den øgede globale samhandel medfører et globalt kapløb mod bunden med hensyn til løn, arbejdsforhold, arbejdstagerrettigheder, miljøbeskyttelse og beskatning?', N'Om global samhandel og dens konsekvenser', N'O', N'F 29', N'F', N'29', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 57  Af Jens Hald Madsen (V), Lise von Seelen (S), Morten Messerschmidt (DF), Lars Barfoed (KF), Naser Khader (RV) og Steen Gade (SF). 
+
+Fremsat 12-04-07 ....... FF 5482 
+Vedtaget 12-04-07 ....... FF 5500 
+
+V 58. Af Frank Aaen (EL).
+ 
+Fremsat 12-04-07 ....... FF 5498 
+Bortfaldet 12-04-07 ...... FF 5500 
+
+Fuld tekst:
+ 
+V 57:
+
+»Med henblik på fremme af en verdensomfattende bæredygtig udvikling opfordrer Folketinget regeringen til gennem EU og internationale aftaler fortsat at arbejde for
+ 
+- den bredest mulige støtte til opfølgning af ILO''s oplæg til fremme af anstændige arbejdsvilkår i såvel ILO-medlemmernes interne som eksterne politikker, herunder i samarbejdet med tredjelande, 
+
+- en ambitiøs international miljøregulering, der medvirker til at bryde koblingen mellem økonomisk vækst og miljøbelastning, og som fremmer inddragelse af miljøhensyn i såvel offentlige som private dispositioner, 
+
+- et positivt resultat af forhandlingerne i Dohaudviklingsrunden, der gennem handelsliberalisering af miljøvenlige og ressourcebesparende teknologier bl.a. medvirker til at fremme bæredygtig udvikling og sikrer miljøkonventionernes integritet over for internationale handelsregler, 
+
+- internationale handelsaftaler, der supplerer de multilaterale WTO-aftaler, medvirker til en bæredygtig udvikling ikke mindst i større industrialiserede lande og nye vækstøkonomier i Asien og Latinamerika og fremmer Syd-Sydhandel, og 
+
+- et styrket internationalt samarbejde om beskatning, der modvirker skadelig skattekonkurrence.« 
+
+V 58:
+
+»Da det nuværende internationale handelssamarbejde på grund af sin nyliberalistiske karakter styrker de store selskabers magt, indskrænker demokratiet og medfører et kapløb mod bunden med hensyn til arbejdstagerrettigheder, løn, miljøbeskyttelse og erhvervsbeskatning, opfordres regeringen til at arbejde for: 
+
+- at ILO styrkes, og at der oprettes en tilknyttet domstol med mulighed for at pålægge handelssanktioner, 
+
+- at der oprettes en permanent miljøorganisation under FN og vedtages en omfattende miljøkonvention med standarder for miljøvenlig produktion, 
+
+- at det multilaterale handelssystem reformeres, så overholdelse af ILO-konventionerne og miljøkonventionerne bliver en forudsætning for deltagelse, 
+
+- at forpligtende aftaler om respekt for arbejdstagerrettigheder indskrives i alle EU''s nye og eksisterende bilaterale handelsaftaler som en forudsætning for dansk tilslutning, 
+
+- at øge bistanden til udvikling af fagbevægelsen i ulandene, 
+
+- at der oprettes et særligt FN-organ med det formål at bekæmpe transfer pricing, skattely og skattekonkurrence, og 
+
+- at der indføres en global Tobinskat.« 
+
+Afstemning: 
+
+V 57 vedtaget med 94 stemmer (V, S, DF, KF, RV og SF); 3 (EL) stemte hverken for eller imod. 
+
+V 58 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:33:10.917', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20762, 2, null, 14, N'Vil ministeren redegøre for, hvilke nye initiativer regeringen vil tage i forlængelse af FN''s klimapanels nye rapport?', N'Om FN''s klimapanels nye rapport', N'O', N'F 30', N'F', N'30', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 46. Af Per Clausen (EL).
+ 
+Fremsat 13-03-07 ..... FF 4542 
+Bortfaldet 13-03-07 ..... FF 4568 
+
+V 47. Af Eyvind Vesselbo (V), Jørn Dohrmann (DF) og Christian Wedell-Neergaard (KF).
+ 
+Fremsat 13-03-07 ..... FF 4544 
+Vedtaget 13-03-07 ...... FF 4568 
+
+V 48. Af Torben Hansen (S), Johs. Poulsen (RV) og Anne Grete Holmsgaard (SF). 
+
+Fremsat 13-03-07 ..... FF 4548 
+Bortfaldet 13-03-07 ..... FF 4568 
+
+Fuld tekst: 
+
+V 46:
+
+»I forlængelse af FN''s klimapanels rapport opfordrer Folketinget regeringen til 
+
+- at fremlægge en konkret plan, der kan reducere det danske CO2-udslip med mindst 50 pct. i 2025 i forhold til 1990 og sikre, at mindst 50 pct. af det danske energiforbrug i 2025 leveres fra vedvarende energikilder, 
+
+- at gennemføre en analyse af det globale CO2-udslip, som skyldes det danske forbrug, og fremlægge en plan for at reducere dette i samme omfang, som vi reducerer CO2-udslippet i Danmark, 
+
+- at fremlægge en strategi for, hvordan Danmark sikrer, at EU i 2020 får 20 pct. af sin energi fra vedvarende energi og har reduceret sit CO2-udslip med 30 pct., 
+
+- at fastholde EU på, at den industrialiserede verden tager skridt, der sikrer, at CO2-udslippet fra disse lande reduceres med 30 pct. i 2020, samt sikrer, at Danmark under alle omstændigheder kan fastholde dette krav i forhandlingerne.« 
+
+V 47:
+
+»Folketinget ser med største alvor på rapporten fra FN''s klimapanel. 
+
+Folketinget noterer med tilfredshed initiativerne, regeringen har taget nationalt og internationalt for at begrænse drivhusgasudledningerne. Danmark har presset på for de af stats- og regeringscheferne netop vedtagne EU-målsætninger. 
+
+I kraft af allokeringsplanen og energistrategien vil Danmark 
+
+- frem til 2012 reducere CO2-udslippet med 21 pct. i forhold til 1990 et af verdens største reduktionsmål, 
+
+- fastlægge et mål om at anvende mindst 30 pct. vedvarende energi i 2025, 
+
+- øge energispareindsatsen til 1,25 pct. årligt, 
+
+- fordoble forsknings- og udviklingsmidlerne til miljøvenlig energiteknologi og 
+
+- sikre, at bæredygtige biobrændstoffer til transport udgør 10 pct. i 2020 og satse markant på udvikling af 2. generations biobrændstoffer.
+
+Folketinget ser frem til »1-ton-mindre-kampagnen« med fokus på den enkeltes ansvar og til fremlæggelsen af regeringens bebudede klimatilpasnings strategi. 
+
+Folketinget opfordrer regeringen til at fortsætte den ambitiøse indsats, som også tilbuddet om dansk værtskab for klimakonferencen i 2009 understreger.« 
+
+V 48:
+
+»Det kræver hurtig, målrettet indsats at holde den globale opvarmning under +2 grader i dette århundrede. For hvert spildt år bliver indsatsen vanskeligere og dyrere. 
+
+- EU''s beslutning om en bindende målsætning på 20 pct. VE i 2020 er et vigtigt fremskridt, men indsatsen må ikke stoppe her - kun EU kan påtage sig lederskabet i de internationale klimaforhandlinger. 
+
+Regeringen opfordres til umiddelbart at arbejde aktivt for, at EU forpligter sig til 
+
+- 20 pct. energibesparelser i 2020 og 
+
+- 30 pct. reduktion i udslippet af drivhusgasser i 2020. 
+
+Folketinget beklager, at etableringen af vedvarende energi i Danmark er gået i stå siden 2001. Regeringen opfordres til 
+
+- at indfri 2004-aftalen om 400 MW havvind, 350 MW landvind og fordobling af biogaskapaciteten, 
+
+- at realisere målet i bæredygtighedsstrategien fra 2002 om at halvere det danske CO2-udslip inden for en generation, og 
+
+- at fremsætte forslag, der nedbringer bruttoenergiforbruget med min. 1 pct. årligt i forhold til 2005-niveau.« 
+
+Afstemning: 
+
+V 47 vedtaget med 62 stemmer (V, DF og KF) mod 2 (EL); 44 (S, RV og SF) stemte hverken for eller imod. 
+
+V 46 og V 48 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:33:59.377', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20763, 2, null, 14, N'Hvad kan regeringen oplyse om den civile og den militære flytrafiks indvirkning på klimaforandringerne, herunder gods- og passagertransportens betydning?', N'Om flytrafikkens indvirkning på klimaforandringerne', N'O', N'F 31', N'F', N'31', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 62. Af Rune Lund (EL).
+ 
+Fremsat 20-04-07 ...... FF 5834 
+Bortfaldet 24-04-07 ...... FF 5894 
+
+V 63. Af Eyvind Vesselbo (V), Jørn Dohrmann (DF) og Christian Wedell-Neergaard (KF).
+ 
+Fremsat 20-04-07  ...... FF 5836 
+Vedtaget 24-04-07 ...... FF 5894 
+
+V 64. Af Torben Hansen (S), Martin Lidegaard (RV) og Anne Grete Holmsgaard (SF).
+ 
+Fremsat 20-04-07  ...... FF 5840 
+Bortfaldet 24-04-07 ..... FF 5894 
+
+Fuld tekst:
+ 
+V 62:
+
+»Folketinget pålægger regeringen at iværksætte et udredningsarbejde med henblik på at kortlægge flytrafikkens miljøbelastninger - den civile såvel som den militære gods- og persontrafik.
+ 
+Udredningsarbejdet skal skabe klarhed over, hvilke initiativer der - for at mindske flytrafikkens udledninger af klimaskadelige stoffer - skal forhandles om i dansk regi, i EU-regi, og hvilke der skal tages i globalt regi.
+ 
+Fælles for initiativerne i udredningsarbejdet er, at de skal tages ud fra et princip om, at 
+
+- de økonomiske begunstigelser, som flytrafikken har i forhold til andre transportformer, skal afskaffes, og 
+
+- afgifternes størrelse skal laves efter, hvor stor miljøbelastningen er. 
+
+Regeringen opfordres tillige til at undersøge, hvilke strukturelle, organisatoriske, markedsmæssige samt teknologiske muligheder, herunder mere miljøvenligt brændstof, der findes, med henblik på at kunne bruge denne viden til at nedbringe flytrafikkens miljøbelastninger.« 
+
+V 63:
+
+»Folketinget noterer sig regeringens redegørelse om flytrafikkens påvirkning af klimaforandringerne. 
+
+Folketinget noterer sig særligt, at: 
+
+- Kommissionen i lyset af lufttrafikkens kraftige vækst og negative virkning i forhold til EU''s drivhusgasreduktionsindsats har foreslået at inkludere luftfarten i EU''s CO2-kvotehandelssystem. 
+
+- hurtig og effektiv transport er en af drivkræfterne bag globaliseringen og øget internationalt samarbejde, samhandel og samkvem, hvorfor luftfarten er hastigt voksende, og en miljøindsats på området er vigtig. 
+
+Regeringen opfordres derfor til at fortsætte arbejdet med kommissionsforslaget, herunder omfattelsen af tredjelandes fly fra 2011 samt styrkelse af incitamenterne til miljømæssig forbedring af flytrafikken. 
+
+Samtidig opfordres regeringen til at arbejde for, at luftfartens emissioner omfattes af en fremtidig global klimaaftale for perioden efter 2012.« 
+
+V 64:
+
+»Folketinget konstaterer, at luftfarten har betydelige klimapåvirkninger, at disse er i hastig vækst, og at det nødvendiggør, at der etableres international regulering snarest. 
+
+Folketinget opfordrer regeringen til i EU at arbejde for: 
+
+- at flytrafik omfattes af EU''s CO2-kvotesystem, og at der i størst muligt omfang tages hensyn til den yderligere klimabelastning, der følger af NOx-udslip, kondensstriber m.v. 
+
+- at udslippet fra flytrafikken omfattes af Kyoto II efter 2012 
+
+- at EU presser på for at få indført en global klimaafgift på flytrafik eller for at gennemføre ændringer af Chicagokonventionen, så medlemslande kan indføre afgifter på flytrafik på ikkediskriminatorisk basis 
+
+- at EU i det omfang, der ikke kan skaffes opbakning til ændringer af Chicagokonventionen, bruger artikel 38 til at meddele afvigelse til de dele af konventionen, der forbyder afgifter på flytrafik 
+
+- at fremskynde sammenlægningen af luftkontrollen i Europa og indførelse af mere direkte flyruter 
+
+- at fremme investeringerne i hurtige togforbindelser i Europa.« 
+
+Afstemning: 
+
+V 63 vedtaget med 62 stemmer (V, DF og KF) mod 2 (EL); 44 (S, RV og SF) stemte hverken for eller imod. 
+
+V 62 og V 64 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 11:42:59.230', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20764, 2, null, 14, N'Vil ministeren redegøre for konsekvenserne af EU''s Lissabonstrategi, herunder for, hvordan den danske regering lever op til strategien, og hvad man gør for at undgå, at den fører til en forringelse af velfærdssamfundet?', N'Om EU''s Lissabonstrategi', N'O', N'F 32', N'F', N'32', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 69. Af Rune Lund (EL)
+
+Fremsat 15-05-07 ....... FF 6966 
+Forkastet 15-05-07 ....... FF 6966 
+
+Fuld tekst:
+ 
+V 69:
+
+»Idet Folketinget konstaterer, at EU''s Lissabonstrategi har medført større markedsgørelse og deraf følgende forringelser af offentlig velfærd i alle EU''s medlemslande, herunder en liberalisering af markedet for tjenesteydelser, større utryghed i ansættelsesforholdene samt lavere lønninger som andel af BNP, pålægger Folketinget regeringen at arbejde for, at Lissabonstrategien i stedet tager udgangspunkt i hvert enkelt medlemslands sociale ønsker og behov, herunder: 
+
+- forbedring af sociale ydelser som dagpenge, kontanthjælp, folkepension m.v., herunder tilsvarende ordninger i alle de enkelte EU-lande,
+
+- højere pensioner som alternativ til flere private pensionsopsparinger, 
+
+- skabelse af et sygehusvæsen med lige og gratis adgang for alle som alternativ til private sygehuse og sundhedsforsikringer, 
+
+- gratis uddannelse til alle, 
+
+- mere offentlig styret forskning, 
+
+- fremskaffe det nødvendige økonomiske grundlag for opfyldelsen af ovennævnte krav.« 
+
+Afstemning: 
+
+V 69 forkastet, idet 2 (EL) stemte for, 101 (V, S, DF, KF, RV, SF og Leif Mikkelsen (UFG)) imod.', null, 23, null, null, N'2018-12-03 12:20:00.317', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20765, 2, null, 14, N'Hvad kan ministeren oplyse om de forestående kommuneforhandlinger med hensyn til de økonomiske rammer og de velfærdsopgaver, som kommuner og regioner forventes at løse, og hvilken rolle kommer regeringens kvalitetsreform til at spille i forhandlingerne?', N'Om de forestående kommuneforhandlinger.', N'O', N'F 33', N'F', N'33', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 55. Af Peter Christensen (V), Poul Nødgaard (DF) og Christian Wedell-Neergaard (KF).
+ 
+Fremsat 29-03-07 ....... FF 5146 
+Vedtaget 29-03-07 ....... FF 5208 
+
+V 56. Af Ole Stavad (S), Ole Glahn (RV), Ole Sohn (SF) og Line Barfod (EL). 
+
+Fremsat 29-03-07 ....... FF 5159 
+Bortfaldet 29-03-07 ...... FF 5208 
+
+Fuld tekst:
+ 
+V 55:
+
+»Folketinget konstaterer, at overgangen til den nye kommunale struktur grundlæggende er forløbet meget tilfredsstillende. Dette skyldes bl.a. mange engagerede offentligt ansattes store indsats. 
+
+Folketinget konstaterer endvidere, at kommunerne og regionerne med aftalerne for 2007 øger serviceniveauet på centrale velfærdsområder. 
+
+Folketinget noterer sig, at den økonomiske politik har sikret, at der samtidig med betydelig gældsnedbringelse, skattestop og skattelettelser er sket et markant løft i den offentlige velfærd siden 2001, hvorfor Folketinget fortrøstningsfuldt ser frem til de forestående kommuneforhandlinger. 
+
+Folketinget ser endvidere frem til resultatet af arbejdet med en kvalitetsreform.« 
+
+V 56:
+
+»Under de kommende forhandlinger med kommuner og regioner pålægges regeringen at sikre økonomi og råderum til at kunne leve op til de forventninger, regeringen har skabt hos befolkningen med løfter om bedre og mere velfærd - herunder især i forhold til børn, folkeskole, ældre og sundhedsbehandling. Vil regeringen ikke stille den nødvendige økonomi til rådighed, må regeringen påtage sig ansvaret og anvise de områder, der skal udsættes for en forringet service over for borgeme. 
+
+Endvidere opfordres til, at aftalen styrker det kommunale selvstyre, ved at regeringen afstår fra/afskaffer unødig detailregulering.« 
+
+Afstemning: 
+
+V 55 vedtaget med 58 stemmer (V, DF og KF) imod 46 (S, RV, SF og EL). 
+
+V 56 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:20:36.010', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20766, 2, null, 14, N'Hvilke initiativer vil regeringen iværksætte for at styrke den samlede indsats imod vold i hjemmet?', N'Om vold i hjemmet.', N'O', N'F 34', N'F', N'34', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 67. Af Kim Christiansen (DF), Søren Pind (V) og Tom Behnke (KF).
+ 
+Fremsat .............. FF 6740 
+Vedtaget .............. FF 6745 
+
+V 68. Af Kirsten Brosbøl (S), Lone Dybkjær (RV), Pernille Frahm (SF) og Line Barfod (EL).
+ 
+Fremsat .............. FF 6738 
+Bortfaldet ............. FF 6745 
+
+Fuld tekst: 
+
+V 67:
+
+»Folketinget anerkender, at regeringen har iværksat en række initiativer for at forebygge vold i hjemmet, herunder at regeringen sammen med satspuljepartierne har iværksat handlingsplanen til bekæmpelse af mænds vold mod kvinder og børn i familien. 
+
+Folketinget konstaterer, at evalueringen af bortvisningsloven har vist, at der er behov for at udbrede kendskabet til loven. 
+
+Folketinget noterer sig, 
+
+- at der er og vil blive iværksat tiltag for at udbrede kendskabet til bortvisningsloven hos politiet, samt styrke kommunernes opfølgning i forbindelse med bortvisning, 
+
+- at regeringen vil sikre, at voldsramte kvinder og børn - bl.a. med henblik på deres beskyttelse - har adgang til kvindekrisecentre, og 
+
+- at der tages initiativ til fagligt og organisatorisk at udvikle kommunernes samarbejde med krisecentrene - herunder særligt udslusningen. 
+
+Folketinget opfordrer regeringen til at fortsætte den højtprioriterede tværgående indsats på området ved bl.a. at udvikle landsdækkende behandlingstilbud til voldsudøvere og foretage en samlet evaluering af handlingsplanen inden udgangen af 2008.« 
+
+V 68:
+
+»Idet Folketinget konstaterer, at evalueringen af loven om bortvisning fra hjemmet klart viser en mangelfuld indsats over for vold i hjemmet, opfordrer Folketinget regeringen til, at 
+
+- styrke den samlede indsats over for vold i hjemmet, 
+
+- præcisere lovens muligheder for bortvisning over for politi og sociale myndigheder og styrke deres uddannelse i pligter og muligheder og deres samarbejde i bortvisningssager, 
+
+- støtte oprettelse af »interventionscentre« for, efter østrigsk forbillede, at styrke koordinationen i indsatsen over for voldsramte og voldsudøvere i forbindelse med bortvisning, 
+
+- sikre voldsramte kvinder og bøm landsdækkende adgang til krisecentre med uddannet personale til bl.a. at yde psykologhjælp og konflikthåndtering, 
+
+- sikre landsdækkende behandlingstilbud til voldsudøvere, 
+
+- undersøge kommunalreformens konsekvenser for den samlede indsats mod vold i hjemmet og behandling heraf og 
+
+- udarbejde en evaluering af handlingsplanen til bekæmpelse af mænds vold mod kvinder og børn i familien inden juni måned 2008.« 
+
+Afstemning: 
+
+V 67 vedtaget med 54 stemmer (V, DF og KF); 49 (S, RV, SF og EL) stemte hverken for eller imod. 
+
+V 68 var dermed bortfaldet', null, 23, null, null, N'2018-12-03 12:21:31.400', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20767, 2, null, 14, N'Vil ministeren redegøre for, hvilke initiativer regeringen vil tage, efter at EF-Domstolen har afgjort, at bopælspligten på landbrugsejendomme strider mod EU-retten?', N'Om bopælspligten på landbrugsejendomme, jf. EF-Domstolen.', N'O', N'F 35', N'F', N'35', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 59. Af Per Clausen (EL).
+ 
+Fremsat 19-04-07 ...... FF 5800 
+Bortfaldet 24-04-07 ...... FF 5894 
+
+V 60. Af Jens Kirk (V), Mette Gjerskov (S), Allan Niebuhr (KF), Lone Dybkjær (RV) og Anne Grete Holmsgaard (SF). 
+
+Fremsat 19-04-07 ...... FF 5801 
+Vedtaget 24-04-07 ....... FF 5894 
+
+V 61. Af Christian H. Hansen (DF).
+ 
+Fremsat 19-04-07 ...... FF 5806 
+Bortfaldet 24-04-07 ..... FF 5894 
+
+Fuld tekst:
+ 
+V 59:
+
+»Idet Folketinget konstaterer 
+
+- at ophævelsen af bopælspligten for landbrugsejendomme vil have en række negative konsekvenser, og 
+
+- at bopælspligten har været en grundlæggende forudsætning for Danmarks EU-medlemskab siden 1973, 
+
+opfordrer Folketinget regeringen til at tage de fornødne skridt til at sikre, at bopælspligten fortsat kan opretholdes i Danmark.« 
+
+V 60:
+
+»Folketinget tager EF-Domstolens afgørelse i den såkaldte Festersensag til efterretning. Folketinget beklager den affolkning, som domstolskendelsen kan medføre i landdistriktsområdeme. Folketinget finder det afgørende, at der fortsat er liv på landet med aktive beboere, som deltager i lokalsamfundet. Folketinget opfordrer på den baggrund regeringen til at fremsætte et lovforslag i indeværende samling med henblik på snarest muligt at tilpasse reglerne om bopælspligt for landbrugsejendomme op til 30 ha med størst mulig hensyntagen til de formål, som EF-Domstolen anerkender: bevaring af selvejet, sikring af opretholdelsen af en befolkning på landet og hindring af jordspekulation.« 
+
+V 61:
+
+»Folketinget finder EF-Domstolens afgørelse i den såkaldte Festersensag, der fastslog, at den danske bopælspligt strider mod EU-reglerne om kapitalens frie bevægelighed, stærkt utilfredsstillende. 
+
+Folketinget beklager den affolkning, som domstolens kendelse kan medføre i landdistriktsområderne. 
+
+På denne baggrund opfordrer Folketinget regeringen til at komme med initiativer, der kan imødegå skadevirkningerne af domstolens kendelse.« 
+
+Afstemning: 
+
+V 60 vedtaget med 86 stemmer (V, S, KF, RV og SF) mod 18 (DF og EL). 
+
+V 59 og V 61 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:22:02.433', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20768, 2, null, 14, N'Hvilke initiativer vil regeringen igangsætte for at sikre, at kommunerne efterlever lovpligtige krav om sammenhængende børnepolitikker og standarder for sagsbehandlingen på børneområdet samt tilvejebringelse af den nødvendige indsats overfor udsatte børn og unge samt børn og unge med særlige behov?', N'Om børn og unge', N'O', N'F 36', N'F', N'36', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 70. Af Mette Frederiksen (S), Bente Dahl (RV), Pernille Frahm (SF) og Line Barfod (EL).
+ 
+Fremsat 16-05-07 ..... FF 7053 
+Behandlet 22-05-07 ..... FF 7141 
+
+V 71. Af Hans Andersen (V), Henrik Brodersen (DF) og Per Ørum Jørgensen (KF).
+ 
+Fremsat 16-05-07 ..... FF 7055 
+Vedtaget 22-05-07 ....... FF 7141 
+
+Fuld tekst:
+ 
+V 70:
+
+»Idet Folketinget konstaterer, at en række kommuner ikke i tilstrækkelig grad efterlever de lovpligtige krav om at udarbejde sammenhængende børnepolitikker og standarder for sagsbehandlingen, og at dette må antages - i sammenhæng med øvrige tendenser på området - at medføre en mangelfuld indsats i forhold til børn og unge, pålægges regeringen derfor følgende: 
+
+- i de kommende forhandlinger med KL om kommunernes økonomi for 2008 at præcisere kommunernes ansvar samt indbygge en handleforpligtelse i aftalen 
+
+- at gennemføre en kulegravning af de økonomiske konsekvenser af såvel anbringelsesreformen som kommunalreformen, hvad angår de ændrede refusionssatser for det specialiserede sociale område 
+
+- at sikre kommunerne økonomi og råderum til at løse opgaverne samt at fremsætte forslag til de nødvendige lovændringer, således at indsatsen over for såvel udsatte børn og unge som børn og unge med særlige behov forstærkes.« 
+
+V 71:
+
+»Folketinget udtrykker bekymring over, at ikke alle kommuner har vedtaget den lovpligtige børnepolitik og standarder for sagsbehandlingen, samt at der kan være udsatte børn, der ikke får den nødvendige indsats. Folketinget anerkender, at der med anbringelsesreformen er gjort meget for at styrke indsatsen, men konstaterer, at der er brug for tæt opfølgning på kommunernes indsats. 
+
+På den baggrund opfordrer Folketinget regeringen til at: 
+
+- følge op på, at alle kommuner vedtager den lovpligtige børnepolitik og standarder for sagsbehandlingen, samt undersøge indholdet af de vedtagne børnepolitikker 
+
+- gennemføre en undersøgelse af kommunernes håndtering af underretninger 
+
+- sikre national dokumentation af resultaterne af indsatsen over for udsatte børn og unge 
+
+- sætte fokus på kvaliteten i indsatsen under anbringelsen 
+
+- udvide Ankestyrelsens mulighed for at gribe ind over for kommunerne 
+
+- etablere en følgegruppe med kommuner om kommunernes indsats og effekten af denne 
+
+- vejlede kommunerne yderligere om tærsklen for tvangsanbringelser.« 
+
+Afstemning: 
+
+V 71 vedtaget med 56 stemmer (V, DF og KF); 51 (S, RV, SF og EL) stemte hverken for eller imod. 
+
+V 70 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:22:53.220', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20769, 2, null, 14, N'Er ministeren enig i konklusionerne og anbefalingerne i Integrationsministeriets tænketanks rapport om udlændinges værdier fra marts 2007, og vil ministeren tage initiativ til, at der udarbejdes et sæt grundlæggende danske værdier f.eks. om ligestilling mellem kønnene, til brug for pædagoger, lærere, sagsbehandlere og andre personer, der har daglig kontakt med indvandrergrupper, således at de i deres arbejde kan stille direkte og tydelige krav til udlændinge og efterkommere om, at de må tilslutte sig grundlæggende værdier og normer i Danmark?', N'Om grundlæggende værdier og normer i Danmark', N'O', N'F 37', N'F', N'37', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 65. Af Irene Simonsen (V), Peter Skaarup (DF) og Henriette Kjær (KF).
+ 
+Fremsat 26-04-07 ....... FF 6110 
+Vedtaget 08-05-07 ....... FF 6565 
+
+V 66. Af Troels Ravn (S), Morten Østergaard (RV), Steen Gade (SF) og Jørgen Arbo-Bæhr (EL).
+ 
+Fremsat 26-04-07 ....... FF 6121 
+Bortfaldet 08-05-07 ...... FF 6566 
+
+Fuld tekst:
+ 
+V 65:
+
+»Folketinget understreger betydningen af at fremme kendskabet til og accept af de grundlæggende værdier i det danske samfund, herunder demokrati, ytringsfrihed, ligestilling mellem kønnene m.v. 
+
+Folketinget konstaterer med tilfredshed, at regeringen anser udbredelse og accept af grundlæggende værdier i det danske samfund blandt indvandrere som særdeles vigtigt for integrationen, og at integrationsministeren opfordrer til, at man lokalt drøfter, hvorledes man skal forholde sig til, hvordan man håndterer værdikonflikter. 
+
+Folketinget har noteret sig, regeringen allerede har iværksat og støttet en række initiativer og projekter, der skal sikre udbredelsen af, kendskabet til og accepten af grundlæggende værdier i det danske samfund, herunder den gennemførte indfødsretprøve, integrationserklæring og den kommende indvandringsprøve. 
+
+Folketinget noterer med tilfredshed, at integrationsministeren vil videreformidle anbefalingerne i tænketankens rapport om udlændinges værdier til kommuner og regioner.« 
+
+V 66:
+
+»Danmark skal være et åbent samfund, hvor der er plads til mange og nye måder at være dansk på, samtidig skal vi værne om danske grundlæggende værdier og frihedsrettigheder. Det at være dansk kan være mange ting, og der er heldigvis ingen facitliste. 
+
+At være dansk statsborger giver rettigheder, men det forpligter også. Rettigheder som ytringsfrihed, religionsfrihed, forsamlingsfrihed, stemmeret, retten til at sige sin mening, tale autoriteterne imod og deltage i det politiske liv er velkendte her i Danmark. 
+
+Respekt for og viden om universelle menneskerettigheder og dermed danske værdier er helt afgørende for både indvandrere og flygtninge samt danskere. 
+
+Ligestilling mellem kønnene og mellem mennesker med forskellig seksuel observans skal vi til stadighed forsvare og udbygge. 
+
+Folketinget opfordrer derfor regeringen til at følge anbefalingen i rapporten »Værdier og normer«, sådan at det overlades til lokale institutioner at udvikle retningslinjer, der gør det lettere at reagere på handlinger, der er i modstrid med grundlæggende værdier.« 
+
+Afstemning: 
+
+V 65 vedtaget med 63 stemmer (V, DF og KF) mod 48 (S, RV, SF og EL). 
+
+V 66 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:23:53.007', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20770, 2, null, 14, N'Hvilken indsats gør den danske regering - bl.a. gennem EU - for at overvinde fastlåsningen af den israelsk-palæstinensiske konflikt og sikre oprettelsen af en levedygtig palæstinensisk stat, der anerkender og anerkendes af Israel?', N'Om Israel og Palæstina', N'O', N'F 38', N'F', N'38', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 79. Af Jens Hald Madsen (V), Søren Espersen (DF) og Lars Barfoed (KF).
+ 
+Fremsat 30-05-07 ...... FF 7647 
+Vedtaget 31-05-07 ...... FF 7691 
+
+V 80. Af Mogens Lykketoft (S), Niels Helveg Petersen (RV), Pernille Frahm (SF) og Naser Khader (UFG).
+ 
+Fremsat 30-05-07 ...... FF 7650 
+Bortfaldet 31-05-07 ..... FF 7691 
+
+V 81. Af Rune Lund (EL). 
+
+Fremsat 30-05-07 ...... FF 7660 
+Bortfaldet 31-05-07 ..... FF 7691 
+
+Fuld tekst: 
+
+V 79:
+
+»Folketinget udtrykker støtte til regeringens indsats for at overvinde fastlåsningen af den israelsk-palæstinensiske konflikt gennem en genoptagelse af fredsforhandlingerne mellem den israelske regering og den palæstinensiske præsident, der skal føre til en forhandlet tostatsløsning, oprettelse af en uafhængig, demokratisk, økonomisk og socialt levedygtig palæstinensisk stat og en endelig fredsslutning mellem Israel og de arabiske naboer med udgangspunkt i FN''s sikkerhedsrådsresolutioner 242, 338, 1397 og 1515. Folketinget opfordrer regeringen til at fortsætte denne indsats i EU, FN og bilateralt.« 
+
+V 80:
+
+»Folketinget opfordrer regeringen til aktivt at arbejde for, at EU-landene normaliserer forholdet til den palæstinensiske samlingsregering, der til gengæld entydigt må afsværge voldsanvendelse og deltage i forhandlinger om en tostatsløsning. Både palæstinensere og israelere skal have sikkerhed for at kunne leve uden terror og krig bag internationalt anerkendte grænser. 
+
+Verdenssamfundet må insistere på afslutning af 40 års besættelse og en fredsløsning, der tager udgangspunkt i 1967-grænserne og mellem parterne forhandlede korrektioner i forhold hertil. Derfor må den saudiske fredsplan hilses velkommen. 
+
+Folketinget opfordrer derfor regeringen til over for Israels regering at gentage Danmarks og EU''s modstand mod den folkeretsstridige bosættelsespolitik og ekspropriation af ejendom på besat palæstinensisk område, mod opførelse af adskillelsesmuren og mod de militære aktioner og restriktioner, der forhindrer et normalt liv for den palæstinensiske befolkning.« 
+
+V 81:
+
+»Idet Folketinget konstaterer, at Israel nu i 40 år har besat palæstinensisk land, at Verdensbanken i en rapport fra den 9. maj 2007 fastslår, at de mange israelske kontrolposter, vejspærringer og apartheidmuren forhindrer enhver form for økonomisk vækst i de palæstinensiske områder, opfordrer Folketinget regeringen til at arbejde for: 
+
+- i alle internationale sammenhænge at kræve ophør af Israels besættelse af Palæstina samt kræve israelsk tilbagetrækning til 1967-grænserne i overensstemmelse med relevante FN-sikkerhedsrådsresolutioner, 
+
+- øjeblikkelig fjernelse af apartheidmuren, 
+
+- udvide bistanden til de palæstinensiske områder, 
+
+- suspension af EU''s associeringsaftale med Israel indtil Israel respekterer international lov og menneskerettigheder, 
+
+- at Palæstina anerkendes som selvstændig stat, 
+
+- at begge parter overholder menneskerettighederne, herunder afsværger sig brug af terror, 
+
+- straks at normalisere forholdet til den palæstinensiske regering samt at arbejde for dette i alle internationale fora, og 
+
+- kraftigt at fordømme Israels seneste dages brug af magtanvendelse i Gaza.« 
+
+Afstemning: 
+
+V 79 vedtaget med 67 stemmer (V, DF og KF); 50 (S, RV, SF, EL og Leif Mikkelsen (UFG)) stemte hverken for eller imod. 
+
+V 81 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:26:26.670', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20771, 2, null, 14, N'Hvad er regeringens holdning til spørgsmålet om et officielt moratorium i brugen af enhver form for klyngebomber?', N'Om klyngebomber', N'O', N'F 39', N'F', N'39', N'', N'Under forhandlingeme fremsattes følgende forslag til vedtagelse: 
+
+V 82. Af Jens Hald Madsen (V), Søren Espersen (DF), Lars Barfoed (KF), Morten Helveg Petersen (RV) og Naser Khader (UFG).
+ 
+Fremsat 30-05-07 ....... FF 7668 
+Vedtaget 31-05-07 ....... FF 7692 
+
+V 83. Af Bjarne Laustsen (S), Holger K. Nielsen (SF) og Rune Lund (EL). 
+
+Fremsat 30-05-07 ....... FF 7672 
+Bortfaldet 31-05-07 ...... FF 7692 
+
+Fuld tekst:
+ 
+V 82:
+
+»Folketinget opfordrer regeringen til at fortsætte den hidtidige indsats i alle internationale fora for hurtigst muligt at etablere et internationalt juridisk bindende forbud mod alle former for klyngeammunition, som forvolder uacceptable skader på civile. 
+
+Folketinget opfordrer endvidere regeringen til så vidt muligt inden udgangen af november 2007 at gennemføre en analyse af de samlede fordele og ulemper, der ville være ved en eventuel indførelse af et nationalt dansk moratorium vedrørende alle former for klyngeammunition.« 
+
+V 83:
+
+»Folketinget opfordrer den danske regering til at arbejde aktivt i alle internationale fora for et øjeblikkeligt moratorium for produktion, salg og brug af klyngebomber.« 
+
+Afstemning: 
+
+V 82 vedtaget med 81 stemmer (V, DF, KF, RV og Leif Mikkelsen (UFG)); 40 (S, SF og EL) stemte hverken for eller imod. 
+
+V 83 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:27:18.320', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20772, 2, null, 14, N'Hvad kan statsministeren oplyse om den indenrigs- og udenrigspolitiske situation?', N'Om den indenrigs- og udenrigspolitiske situation', N'O', N'F 42', N'F', N'42', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 84. Af Helle Thorning-Schmidt (S), Marianne Jelved (RV), Villy Søvndal (SF) og Per Clausen (EL).
+ 
+Fremsat 31-05-07 ...... FF 7708 
+Bortfaldet 31-05-07 ...... FF 7824 
+
+V 85. Af Troels Lund Poulsen (V), Pia Kjærsgaard (DF) og Pia Christmas-Møller (KF).
+ 
+Fremsat 31-05-07 ...... FF 7764 
+Vedtaget 31 -05-07 ....... FF 7824 
+
+Fuld tekst:
+ 
+V 84:
+
+»Folketinget konstaterer, at velfærden er under pres, fordi regeringen ikke har sikret tilstrækkeligt grundlag for, at kommuner og regioner kan leve op til forventningerne. 
+
+Derfor pålægges regeringen at sikre økonomi og råderum til, at kommuner og regioner kan leve op til de forventninger, regeringen har skabt hos befolkningen med løfter om bedre og mere velfærd - især i forhold til børn, folkeskole, ældre og sundhedsbehandling. Herunder også en plan, der sikrer kvalificeret arbejdskraft i fremtiden gennem målrettet uddannelsesindsats og systematisk arbejde for ordentlige løn- og arbejdsforhold, bl.a. ved at de ansatte har medindflydelse på eget arbejde. 
+
+Endvidere opfordres regeringen til at styrke det kommunale selvstyre ved, at regeringen afstår fra/afskaffer unødig detailregulering, bl.a. kravet om at mindst 25 pct. af kommunernes opgaver skal konkurrenceudsættes.« 
+
+V 85:
+
+»Folketinget tager statsministerens redegørelse til efterretning. 
+
+Folketinget konstaterer, at den førte politik har medført en rekordhøj beskæftigelse og den laveste ledighed i over 30 år, og opfordrer til, at der fortsat fokuseres på vækst og øget arbejdsudbud. 
+
+Folketinget konstaterer, at det offentlige forbrug er vokset med 35 mia. kr. siden 2001, som primært er brugt på flere behandlinger i sygehussektoren samt flere ressourcer i forhold til ældre. 
+
+Folketinget ser frem til, at der ved den kommende kvalitetsreform sikres forbedringer af kvaliteten specifikt inden for sundhed, ældrepleje samt bømepasning. 
+
+Folketinget understreger, at dette sker gennem aktiv inddragelse af brugere og medarbejdere.« 
+
+Afstemning: 
+
+V 85 vedtaget med 67 stemmer (V, DF og KF) mod 51 (S, RV, SF og EL). 
+
+V 84 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:28:24.637', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20773, 2, null, 14, N'Hvad er regeringens holdning til udtalelserne fremsat af folketingsmedlemmer fra Dansk Folkeparti, der sammenligner muslimske kvinders hovedbeklædning med nazisymboler?', N'Om sammenligningen af muslimske kvinders hovedbeklædning med nazisymboler.', N'O', N'F 43', N'F', N'43', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 72. Af Niels Helveg Petersen (RV), Henrik Sass Larsen (S) og Steen Gade (SF). 
+
+Fremsat 23-05-07 ..... FF 7210 
+Bortfaldet 24-05-07 ..... FF 7328 
+
+V 73. Af Troels Lund Poulsen (V), Søren Espersen (DF) og Pia Christmas-Møller (KF). 
+
+Fremsat 23-05-07 ..... FF 7213 
+Vedtaget 24-05-07 ...... FF 7328 
+
+Fuld tekst: 
+
+V 72:
+
+»Folketinget tager afstand fra udtalelser om, at muslimske kvinders hovedbeklædning kan ligestilles med nazistiske og kommunistiske totalitære symboler.« 
+
+V 73:
+
+»Folketinget tager statsministerens klare besvarelse til efterretning. Desuden konstaterer Folketinget, at Danmark er et frit og demokratisk land, hvor ytringsfrihed og religionsfrihed er fundamentale rettigheder for den enkeltes mulighed for at udøve personlig frihed under ansvar.« 
+
+Afstemning: 
+
+V 73 vedtaget med 67 stemmer (V, DF, KF og Leif Mikkelsen (UFG)) mod 52 (S, RV, SF og EL). 
+
+V 72 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:29:05.713', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20774, 2, null, 14, N'Hvad kan ministeren oplyse om regeringens fremtidige energipolitiske initiativer set i lyset af den energipolitiske redegørelse?', N'Om energipolitik', N'O', N'F 44', N'F', N'44', N'', N'Behandlet sammen: F 44 og R 13. 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 78. Af Per Clausen (EL).
+ 
+Fremsat 25-05-07 ...... FF 7469 
+Forkastet 29-05-07 ...... FF 7537 
+
+Fuld tekst: 
+
+V 78:
+
+»Idet Folketinget konstaterer: 
+
+- at et liberaliseret energimarked er præget af kortsigtede kommercielle investeringer, som betyder, at dette marked hverken er velegnet til at sikre forsyningssikkerhed eller miljøhensyn, 
+
+- at Dong Energys fokusering på maksimalt overskud har betydet, at de mere langsigtede udviklingsaktiviteter er forsvundet, 
+
+pålægger Folketinget regeringen: 
+
+- at droppe planerne om at sælge aktierne i DONG og ændre DONG''s formålsparagraf, sådan at formålet bliver at sikre danskernes forsyningssikkerhed og energi til rimelige priser produceret på basis af vedvarende energikilder. DONG skal fungere som en spydspids i implementeringen af en energipolitisk målsætning om at gøre Danmark uafhængig af fossile brændstoffer. På den måde kan DONG gå i spidsen på udviklingsområdet - også hvor der ikke er kommercielle gevinster lige om hjørnet.« 
+
+Afstemning: 
+
+V 78 forkastet, idet 1 (EL) stemte for, 104 (V, S, DF, KF, RV og SF) imod.', null, 23, null, null, N'2018-12-03 12:29:39.277', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20775, 2, null, 14, N'Vil ministeren på baggrund af den netop udsendte landdistriktsredegørelse redegøre for regeringens initiativer til at styrke grundlaget for en bæredygtig udvikling af landdistrikterne, i en tid hvor den regionale udvikling er blevet mere skæv, og kommunalreformen og den aktuelle sygehusplanlægning har centraliseret de kommunale og regionale service- og kulturtilbud mere og mere?', N'Om en bæredygtig udvikling af landdistrikterne', N'O', N'F 45', N'F', N'45', N'', N'Behandlet sammen: R 10 og F 45.
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 76. Af Kristen Touborg (SF), Kirsten Brosbøl (S), Ole Glahn (RV) og Per Clausen (EL).
+ 
+Fremsat 23-05-07 ...... FF 7298 
+Bortfaldet 24-05-07 ...... FF 7329 
+
+V 77. Af Erling Bonnesen (V), Hans Kristian Skibby (DF) og Allan Niebuhr (KF). 
+
+Fremsat 23-05-07 ...... FF 7300 
+Vedtaget 24-05-07 ....... FF 7329 
+
+Fuld tekst: 
+
+V 76:
+
+»Folketinget konstaterer, at en bæredygtig og demokratisk udvikling i landdistrikter afhænger af mulighederne for udvikling af lokale arbejdspladser og service, bosætningsmuligheder, lokal kultur samt lydhørhed og involvering fra Folketinget og kommuner. Folketinget beklager regeringens afvisning af at benytte frivillig modulation af landbrugsstøtten til brug for landdistriktsudvikling. 
+
+Regeringen pålægges at komme med forslag til 
+
+- en målsætning for udviklingen inden for dansk landbrug, dels med hensyn til antallet af landbrugsbedrifter og størrelse, dels for udviklingen af økologisk landbrug, og 
+
+- hvordan principper fra andelsbevægelsen kan fremme erhvervsudviklingen i landdistrikterne. 
+
+Derudover skal regeringen følge op på 
+
+- undersøgelsen af skolens betydning for landdistrikterne og i samarbejde med kommunerne arbejde på, at der findes undervisningstilbud på folkeskoleniveau og på ungdomsuddannelse og mellemlange uddannelser i landdistrikterne i fremtiden, 
+
+- at arbejdet i de regionale vækstforaer er med til at sikre udviklingen i landdistrikterne i samarbejde med kommuner og lokale aktionsgrupper, og 
+
+- at internetkommunikationen fortsat udvikles i landdistrikterne.« 
+
+V 77:
+               
+»Folketinget tager indenrigs- og sundhedsministerens besvarelse af F 45 og Landdistriktsredegørelse 2007 afgivet af indenrigs- og sundhedsministeren og fødevareministeren til efterretning. 
+
+Folketinget anerkender således, at der er taget en lang række statslige initiativer til gavn for udviklingen i landdistrikterne, som beskrevet i redegørelsen. De nye stærkere kommuner kan samtidig fremme en bæredygtig udvikling i landdistrikterne med større styrke end før kommunalreformen. 
+
+Folketinget anbefaler i den sammenhæng, at der i kommunerne individuelt formuleres en lokal landdistriktspolitik, og Folketinget anerkender, at kommunerne i stor udstrækning har fulgt opfordringen. 
+
+Folketinget finder det imidlertid vigtigt, at udviklingen i landdistrikterne fortsat følges tæt, og Folketinget pålægger derfor regeringen at afgive en status i foråret 2009 for udviklingen i de første år efter kommunalreformens ikrafttræden.« 
+
+Afstemning: 
+
+V 77 vedtaget med 65 stemmer (V, DF, KF og Leif Mikkelsen (UFG)) mod 52 (S, RV, SF og EL). 
+
+V 76 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:30:09.190', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20776, 2, null, 7, N'Vil ministeren i forlængelse af den regionalpolitiske redegørelse fra april 2007 forklare, om regeringen har til hensigt at sikre mere ens levevilkår, større lighed i service, beskæftigelse og økonomiske vilkår i alle egne af Danmark, således at stigningen i den regionale ulighed bremses eller rulles tilbage, og i givet fald forklare, hvilke initiativer ud over øget pendling man påtænker?', N'Om den regionale ulighed', N'O', N'F 46', N'F', N'46', N'', N'', null, 23, null, null, N'2017-12-05 22:50:21.687', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20777, 2, null, 14, N'Hvordan kan de ældre og medarbejderne opnå mærkbare forbedringer i hverdagens arbejde i ældreplejen?', N'Om ældreplejen', N'O', N'F 40', N'F', N'40', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 74. Af Ole Sohn (SF), Lise von Seelen (S), Bente Dahl (RV) og Line Barfod (EL). 
+
+Fremsat 23-05-07 ..... FF 7268 
+Bortfaldet 24-05-07 ..... FF 7329 
+
+V 75. Af Hans Andersen (V), Pia Kristensen (DF) og Tom Behnke (KF). 
+
+Fremsat 23-05-07 ..... FF 7273 
+Vedtaget 24-05-07 ....... FF 7329 
+
+Fuld tekst:
+ 
+V 74:
+
+»Idet Folketinget konstaterer: 
+
+- at god ældrepleje skabes i mødet mellem borgeren og den professionelle medarbejder, 
+
+- at der allerede nu og fremover vil mangle tilstrækkelig kvalificeret personale til at yde en tilstrækkelig god ældrepleje, 
+
+opfordrer Folketinget regeringen til: 
+
+- at ændre de politiske rammer for ældrepleje, så de ældre sikres retten til at leve et liv på egne betingelser, og så medarbejdeme får den nødvendige tid til at udføre opgaverne i dialog med borgerne, 
+
+- at tilføre kommunerne tilstrækkelige ressourcer til at dække såvel det stærkt stigende behov for flere ansatte til stadig flere ældre med pleje- og omsorgsbehov som behovet for løbende efteruddannelse af medarbejderne, 
+
+- at sikre økonomi til, at kommunerne kan udbyde uddannelse til social- og sundhedsassistentuddannelsen på voksenløn og tilbyde fuldtidsjob for deltidsansatte, forbedre efter- og videreuddannelse, give ret til særlige seniorordninger og investere i bedre arbejdsmiljø.« 
+
+V 75:
+
+»Folketinget konstaterer, at der er gennemført mange initiativer for at sikre høj kvalitet i ældreplejen for ældre og medarbejdere. 
+
+- Ældreområdet er blevet tilført 500 mio. kr. årligt siden 2002 samt yderligere 500 mio. årligt siden 2006 til styrkelse af kvaliteten og gode, værdige forhold. 
+
+- Der er afsat 2 gange 100 mio. kr. til ansøgningspulje til udvikling af bedre ældrepleje. 
+
+- Der er indført frit leverandørvalg, fleksibel hjemmehjælp og erstatningshjælp, frit boligvalg og adgang for friplejeboliger. 
+
+- Der er med Forebyggelsesfonden afsat 60 mio. kr. i 2007 til projekter, der kan nedbringe nedslidning af personalet på ældreområdet. 
+
+- Der er igangsat vigtige projekter som »Kontinuitet og helhed i hjemmeplejen« og »Kvalitet i ældreplejen«. 
+
+- Der er igangsat flere uddannelsesinitiativer. 
+
+Folketinget konstaterer endvidere, at der med kvalitetsreformen og trepartsforhandlingerne arbejdes målrettet med initiativer, der kan sikre mærkbare forbedringer for de ældre og medarbejderne.« 
+
+Afstemning: 
+
+V 75 vedtaget med 67 stemmer (V, DF, KF og Leif Mikkelsen (UFG)) mod 52 (S, RV, SF og EL). 
+
+V 74 var dermed bortfaldet.', null, 23, null, null, N'2018-12-03 12:27:44.427', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20778, 10, 11, 20, N'Vil ministeren bidrage til at sikre, at Maabjerg Bioenergy får mulighed for at komme i betragtning til økonomisk støtte fra den pulje, Folketinget har afsat til etablering af biogasanlæg i Danmark, på trods af at ministeren har taget det første spadestik til anlægget den 16. august i år?', N'Om biogasanlæg.', N'O', N'S 2633', N'S', N'2633', N'', N'', null, 27, null, null, N'2017-12-05 21:47:01.090', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20779, 10, 11, 20, N'Vil ministeren redegøre for sine planer med at afvikle landbrugserhvervets store gæld?', N'Om afvikling af landbrugerhvervets store gæld.', N'O', N'S 2634', N'S', N'2634', N'', N'', null, 27, null, null, N'2017-12-05 21:47:01.290', 0, N'Landbrugserhvervets gæld beløber sig til omkring 360 mia. kr., hvilket forekommer som værende en ustabil tilstand for et erhverv.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20780, 10, 11, 20, N'Er ministeren enig med spørgeren i, at det bl.a pga. mulighed for chikane er uheldigt at vælge cpr-nr. (som mange har adgang til) som en del i sin identifikation ved brug af NemID?', N'Om NemID.', N'O', N'S 2635', N'S', N'2635', N'', N'', null, 27, null, null, N'2017-12-05 21:47:01.473', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20781, 10, 11, 20, N'Vil ministeren tage initiativ til, at DanID ikke anbefaler brugerne at anvende cpr-nr.?', N'Om NemID.', N'O', N'S 2636', N'S', N'2636', N'', N'', null, 27, null, null, N'2017-12-05 21:47:01.667', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20782, 10, 11, 20, N'Hvad er ministerens holdning til, at KOL-patienter ikke har de samme rettigheder til en hospiceplads som andre, således som det fremgår af artiklen »Lungepatinter dør i religiøs ensomhed« i Kristlig Dagblad den 16. august 2010, og hvordan mener ministeren, at hospicepladsere kan gøres lige for alle terminale patienter uanset diagnose?', N'Om KOL-patienter.', N'O', N'S 2637', N'S', N'2637', N'', N'', null, 27, null, null, N'2017-12-05 21:47:01.860', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20783, 10, 11, 20, N'Hvad vil regeringen gøre for at forhindre, at den danske stat risikerer at betale en del af regningen for oprydningen efter et alvorligt udslip fra udvinding af olie i danske, færøske eller grønlandske farvande?', N'Om olie i danske, færøske eller grønlandske farvande', N'O', N'S 2638', N'S', N'2638', N'', N'', null, 27, null, null, N'2017-12-05 21:47:02.137', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20784, 7, null, 54, N'Rapport fra Kommissionen til Europa-Parlamentet og Rådet om muligheden for at opstille lister over områder i tredjelande med lave drivhusgasemissioner fra dyrkning ', N'Opstilling af lister over områder i tredjelande med lave drivhusgasemissioner fra dyrkning ', N'O', N'KOM (2010) 0427', N'KOM', N'427', N'', N'', null, 11, null, null, N'2015-12-03 07:36:09.157', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20785, 7, null, 54, N'Meddelelse fra Kommissionen til Europa-Parlamentet og Rådet om medicinske anvendelser af ioniserende stråling og forsyningssikkerheden for radioaktive isotoper til nuklearmedicin ', N'Medicinske anvendelser af ioniserende stråling og forsyningssikkerheden for radioaktive isotoper til nuklearmedicin ', N'O', N'KOM (2010) 0423', N'KOM', N'423', N'', N'', null, 11, null, null, N'2015-12-03 07:36:10.250', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20786, 7, null, 54, N'Forslag til Rådets afgørelse om indgåelse af en protokol mellem Den Europæiske Union og Den Arabiske Republik Egypten om fastlæggelse af en tvistbilæggelsesordning for tvister vedrørende handelsbestemmelserne i Euro-Middelhavsaftalen om oprettelse af en associering mellem De Europæiske Fællesskaber og deres medlemsstater på den ene side og Den Arabiske Republik Egypten på den anden side ', N'Fastlæggelse af en tvistbilæggelsesordning for tvister vedrørende handelsbestemmelserne i Euro-Middelhavsaftalen ', N'O', N'KOM (2010) 0424', N'KOM', N'424', N'', N'', null, 11, null, null, N'2015-12-03 07:36:10.827', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20787, 7, null, 54, N'Forslag til Rådets afgørelse om indgåelse af en aftale mellem Den Europæiske Union og Det Schweiziske Forbund om vilkår og betingelser for Det Schweiziske Forbunds deltagelse i programmet "Aktive unge" og i handlingsprogrammet for livslang læring (2007-2013) ', N'Vilkår og betingelser for Det Schweiziske Forbunds deltagelse i programmet "Aktive unge" og i handlingsprogrammet for livslang læring (2007-2013) ', N'O', N'KOM (2010) 0426', N'KOM', N'426', N'', N'', null, 11, null, null, N'2015-12-03 07:36:10.983', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20788, 10, 11, 20, N'Hvad vil udenrigsministeren gøre for at lægge pres på Iran i sagen om den iranske kvinde Sakineh, der er dømt til døden ved stening på grund af anklager om utroskab?', N'Om Iran og utroskab.', N'O', N'S 2639', N'S', N'2639', N'', N'', null, 27, null, null, N'2017-12-05 21:47:02.337', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20789, 10, 11, 20, N' Vil ministeren i forlængelse af ministerens besvarelse af spørgsmål nr. S 2620 redegøre for, hvilke »principielle overvejelser med hensyn til en række spørgsmål om adgangen til aktindsigt« Folkeskolens anmodning om aktindsigt i en række dokumenter bl.a. vedrørende forberedelser til regeringens 360-graders eftersyn af folkeskolen gav anledning til?', N'Om regeringens 360-graders eftersyn af folkeskolen.', N'O', N'S 2640', N'S', N'2640', N'', N'', null, 27, null, null, N'2017-12-05 21:47:02.547', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20790, 10, 11, 20, N'Vil ministeren bede Familiestyrelsen ændre udformningen af sine blanketter, så de kan udfyldes af par af enhver seksuel observans, og så lesbiske mødre ikke længere tvinges til at oplyse, hvor mange mænd de har haft sex med i den periode, hvor de blev gravide?', N'Om lesbiske mødre.', N'O', N'S 2641', N'S', N'2641', N'', N'', null, 27, null, null, N'2017-12-05 21:47:02.717', 0, N'Ifølge Dagbladet/Frederiksborg Amts Avis/Sjællandske den 18. august 2010 kan lesbiske forældre ikke udfylde Familiestyrelsens skemaer og blanketter, fordi skemaerne ikke tager højde for, at forældrepar i dag udmærket kan bestå af to mødre. Desuden tvinges lesbiske par til at køre fadersskabssager, fordi de ikke er gift med den biologiske far, samt til at svare på spørgsmål om, hvorvidt de har haft sex med én eller flere mænd i den periode, hvori de er blevet gravide.
+Spørgeren finder det generelt uheldigt, at offentlige myndigheder ikke for længst har taget højde for de mange forskellige samlivsformer, der findes i samfundet idag. Familiestyrelsens gammeldags blanketter er særligt uheldige, fordi de kan give lesbiske indtryk af ikke fuldt og helt at være accepteret af det offentlige og dermed det omgivende samfund. Spørgsmålet om, hvor mange mænd den lesbiske mor har haft sex med, kan opfattes som meget krænkende, og det burde være en smal sag at indrette systemet, så man undgår den slags spørgsmål i tilfælde, hvor de er åbenlyst unødvendige.
+Spørgeren skal derfor opfordre ministeren til at pålægge Familiestyrelsen så hurtigt som muligt at tilpasse blanketter, så de kan udfyldes af par af enhver seksuel observans, samt i øvrigt at indrette sine procedurer efter den løbende samfundsudvikling.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20791, 7, null, 54, N'Forslag til Rådets afgørelse om indgåelse af aftalen mellem Den Europæiske Union og Den Føderative Republik Brasilien om visumfritagelse for kortvarige ophold for indehavere af almindeligt pas ', N'Visumfritagelse for kortvarige ophold for indehavere af almindeligt pas ', N'O', N'KOM (2010) 0420', N'KOM', N'420', N'', N'', null, 11, null, null, N'2015-12-03 07:36:12.140', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20792, 10, 11, 20, N'Finder ministeren det acceptabelt, at kørestolsbrugere, forældre med barnevogne og andre, der har vanskeligt ved at benytte trapper, ifølge TV2 Lorry oplever at, elevatorerne i den københavnske Metro er ude af drift 50-60 gange om måneden?', N'Om elevatorerne i den københavnske Metro', N'O', N'S 2642', N'S', N'2642', N'', N'', null, 27, null, null, N'2017-12-05 21:47:02.887', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20793, 10, 11, 20, N'Vil udenrigsministeren indkalde Pakistans ambassadør til samtale med henblik på at få en forklaring på, hvorfor Pakistan svigter sine borgere under naturkatastrofen ved ikke at sætte den nødvendige hjælp ind og ved ikke at bevilge de nødvendige midler fra statskassen?', N'Om Pakistans svigt af sine borgere under naturkatastrofen', N'O', N'S 2643', N'S', N'2643', N'', N'', null, 27, null, null, N'2017-12-05 21:47:03.077', 0, N'Spørgeren finder det bemærkelsesværdigt, at mens hele den vestlige verden i den grad engagerer sig i den pakistanske naturkatastrofe og søger at hjælpe på alle tænkelige måder, virker det som om, at det enorme land med de enorme potentialer er så ganske uinteresseret i at gøre det nødvendige. 
+Der spekuleres herhjemme over, hvordan vi mon logistisk kan hjælpe de mange strandede og hjemløse, mens virkeligheden er, at Pakistan har alle tænkelige muligheder for at sørge for sine egne borgere. Det kunne man efter spørgerens opfattelse gøre ved markant at sætte sit enorme militære apparat i gang frem for at sidde og vente på, at Vesten kommer til hjælp.
+Pakistan har med sine 950.000 mand under våben - og 540.000 i reserven - verdens sjettestørste militær, som man bruger hen ved 100 mia. årligt på. Man har 1.500 fly til rådighed - heraf 110 transportfly og et tilsvarende antal transporthelikoptere - glimrende typer som Sikorsky og Alouette, ligesom hæren har i tusindvis af egnede køretøjer. Der er jo efter spørgerens opfattelse derfor ingen som helst undskyldning for, at man ikke kommer i gang med at gøre det nødvendige.
+Det forekommer spørgeren besynderligt, at man er travlt optaget af at bede om penge fra udlandet i stedet for blot fra Pakistans side fra statskassen at bevilge den nødvendige økonomiske hjælp til katastrofeområderne. Man har midlerne, man har de redskaber, der skal til, og man har med halvanden million soldater det mandskab, der skal til. 
+Efter spørgerens opfattelse må det være i udenrigsministerens interesse nu fra den pakistanske ambassadør at få en forklaring på, hvorfor Pakistan ikke gør det det nødvendige.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20794, 7, null, 54, N'Forslag til Rådets afgørelse om indgåelse af aftalen mellem Den Europæiske Union og Den Føderative Republik Brasilien om visumfritagelse for kortvarige ophold for indehavere af diplomatpas, tjenestepas eller officielt pas', N'Visumfritagelse for kortvarige ophold for indehavere af diplomatpas, tjenestepas eller officielt pas', N'O', N'KOM (2010) 0410', N'KOM', N'410', N'', N'', null, 11, null, null, N'2015-12-03 07:36:13.970', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20795, 10, 11, 20, N'Vil ministeren tage initiativ til forhandlinger mellem de partier, der står bag aftalen om vandsektorens fremtid, med henblik på at gennemføre de nødvendige ændringer og tilpasninger af lovgivning og regler, så regnvand fremover kan bortskaffes på den miljømæssigt mest hensigtsmæssige måde?', N'Om aftalen om vandsektorens fremtid', N'O', N'S 2644', N'S', N'2644', N'', N'', null, 27, null, null, N'2017-12-05 21:47:03.253', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20797, 10, 11, 20, N'Vil ministeren tage initiativ til, at kongehusets arkiver opdeles i en privat del og en del, som vedrører kongehusets skiftende rolle i Danmark, sådan at offentligheden kan få adgang til den sidste del af kongehusets arkiver efter de almindelige regler for offentlige arkiver?', N'Om kongehusets arkiver.', N'O', N'S 2645', N'S', N'2645', N'', N'', null, 27, null, null, N'2017-12-05 21:47:03.420', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20798, 6, null, 54, N'Ekstraordinært rådsmøde (Økonomi og finans) den 7. september 2010', N'Ekstraordinært rådsmøde økofin 7/9-10', N'O', N'Rådsmøde 3030 - Økofin', N'', N'', N'', N'', N'', 11, N'', null, N'2015-10-14 09:07:54.253', 1, N'', null, N'', null, N'', null, N'', null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20799, 10, 11, 20, N'Hvilke intiativer vil ministeren tage for at sikre, at de unge i Region Sjælland får en uddannelse og dermed styrker Danmark i fremtiden?', N'Om uddannelse til unge i Region Sjælland.', N'O', N'S 2646', N'S', N'2646', N'', N'', null, 27, null, null, N'2017-12-05 21:47:03.593', 0, N'I Region Sjælland  mangler 1472 unge en praktikplads, mens 2461 unge i årets første 6 måneder har fået pratikplads.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20800, 10, 11, 20, N'Har ministeren fortsat tillid til EU''s bæredygtighedskriterier for biobrændstoffer, efter det er kommet frem, at EU’s embedsmænd er uenige om, hvorvidt EU’s officielle miljøregnskab for biobrændstoffer overhovedet er retvisende?', N'Om biobrændstoffer.', N'O', N'S 2647', N'S', N'2647', N'', N'', null, 27, null, null, N'2017-12-05 21:47:03.787', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20801, 5, 15, 13, N'Forslag til folketingsbeslutning om en udvidelse af Rejsegarantifondens dækningsområde.', N'Om udvidelse af Rejsegarantifondens dækningsområde.', N'O', N'B 45', N'B', N'45', N'', N'Med beslutningsforslaget opfordrede forslagsstillerne regeringen til at fremsætte lovforslag om ændring af lov nr. 315 af 14. maj 1997 med senere ændringer om en rejsegarantifond, således at rejsegarantien blev udvidet til at omfatte alle private ferierejser.', null, 26, null, null, N'2017-12-05 21:53:15.940', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20802, 5, 15, 13, N'Forslag til folketingsbeslutning om bedre miljøzoner.', N'Om bedre miljøzoner.', N'O', N'B 54', N'B', N'54', N'', N'Beslutningsforslaget pålagde regeringen inden udgangen af folketingsåret 2008-09 at fremsætte et lovforslag om skærpet lovgivning om miljøzoner, så kommunerne fik mulighed for at indføre miljøzoner i alle større byer med over 25.000 indbyggere, krav om partikelfilter til tunge køretøjer, der opfyldte EURO IV- eller EURO V-normen i miljøzonerne, krav om SCR-katalysatorer på tunge køretøjer og på lette varebiler, krav om katalysator på benzinbiler og krav om partikelfilter på dieselpersonbiler.', null, 26, null, null, N'2017-12-05 21:53:16.143', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20803, 5, 15, 13, N'Forslag til folketingsbeslutning om bekæmpelse af trafikstøj.', N'Om bekæmpelse af trafikstøj.', N'O', N'B 58', N'B', N'58', N'', N'Beslutningsforslaget pålagde regeringen at udarbejde og gennemføre en strategi til nedbringelse af trafikstøjen i de mere end 150.000 boliger, der var stærkt støjbelastede. Strategien skulle indeholde en række elementer, herunder bl.a. oprettelse af en støjpulje på 100 mio. kr. Målsætningen var, at antallet af stærkt støjbelastede boliger i 2015 skulle være nedbragt til maksimalt 50.000. 
+Beslutningsforslaget var en genfremsættelse af beslutningsforslag nr. B 130 fra folketingsåret 2007-08, 2. samling.', null, 26, null, null, N'2017-12-05 21:53:16.380', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20804, 10, 11, 20, N'Finder ministeren, at de mange billige flyrejser - såvel indenrigs som udenrigs - og den stigende brug deraf harmonerer med regeringens målsætninger om at reducere transportsektorens udslip af klimaskadelige stoffer?', N'Om flyrejser og klima.', N'O', N'S 2648', N'S', N'2648', N'', N'', null, 27, null, null, N'2017-12-05 21:47:03.983', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20805, 10, 11, 20, N'Har ministeren fortsat tillid til EU’s bæredygtighedskriterier, efter det har vist sig, at embedsmænd har set sig nødsaget til at justere i forskningskonklusioner for at sikre, at forskningen bliver bragt i overensstemmelse med EU’s politiske ambitioner på området?', N'Om biobrændstoffer.', N'O', N'S 2649', N'S', N'2649', N'', N'', null, 27, null, null, N'2017-12-05 21:47:04.427', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20806, 10, 11, 20, N'Vil ministeren tage initiativ til at opfordre Kommissionen til en grundig undersøgelse af, hvad der er op og ned i sagen om den censurerede forskningsrapport i forhold til EU''s bæredygtighedskriterier?', N'Om biobrændstoffer.', N'O', N'S 2650', N'S', N'2650', N'', N'', null, 27, null, null, N'2017-12-05 21:47:04.710', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20807, 10, 11, 20, N'Vil ministeren tage initiativ til at sikre, at alle forskningsresultater inddrages, når biobrændstoffers bæredygtighed vurderes, også selv om det skulle medføre en anerkendelse af, at målsætningen om 10 pct. biobrændstoffer i transportsektoren klimamæssigt er en stor fejltagelse, hvilket internationale miljøorganisationer i øvrigt har ment i årevis?', N'Om biobrændstoffer.', N'O', N'S 2651', N'S', N'2651', N'', N'', null, 27, null, null, N'2017-12-05 21:47:04.937', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20808, 10, 11, 20, N'Mener ministeren, at der er nogen fornuftig sammenhæng mellem Beredskabsstyrelsens nye krav, som begrænser idrætsforeningernes mulighed for at bruge skolerne til overnatning, og regeringens ønske om at lette betingelserne for det frivillige arbejde i foreningerne?', N'Om idrætsforeningernes brug af skoler til overnatning.', N'O', N'S 2652', N'S', N'2652', N'', N'', null, 27, null, null, N'2017-12-05 21:47:05.183', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20809, 10, 11, 20, N'Vil ministeren tage initiativ til at sikre, at mulighederne for at benytte skolerne til overnatning f.eks. i forbindelse med idrætsstævner ikke begrænses?', N'Om idrætsforeningernes brug af skoler til overnatning.', N'O', N'S 2653', N'S', N'2653', N'', N'', null, 27, null, null, N'2017-12-05 21:47:05.377', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20810, 10, 11, 20, N'Vil ministeren forhindre Google i at sælge annoncer til danske virksomheder via Irland for at undgå at betale skat i Danmark?', N'Om Google.', N'O', N'S 2654', N'S', N'2654', N'', N'', null, 27, null, null, N'2017-12-05 21:47:05.590', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20811, 10, 11, 20, N'Finder ministeren, at det er acceptabelt, at virksomheden Google undgår at betale skat i Danmark, fordi de fakturerer størstedelen af deres salg til danske virksomheder gennem en udenlandsk afdeling, til trods for at de har en dansk afdeling?', N'Om Google.', N'O', N'S 2655', N'S', N'2655', N'', N'', null, 27, null, null, N'2017-12-05 21:47:05.830', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20812, 10, 11, 20, N'Vil ministeren i forlængelse af svaret på SOU alm. del - spørgsmål 609 og 610, hvoraf de ønskede oplysninger ikke fremgår, oplyse, hvorfor ministeren ikke vil svare hverken på, hvordan reglerne om loft over betaling for madservice skal fortolkes, eller på om ministeren finder det rimeligt, hvis man på et plejehjem opdeler betaling for maden, så de der har råd får serveret dessert, mens de der ikke har råd, må se på at de andre spiser dessert?', N'Om reglerne om loft over betaling for madservice.', N'O', N'S 2656', N'S', N'2656', N'', N'', null, 27, null, null, N'2017-12-05 21:47:06.007', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20813, 10, 11, 20, N'Mener ministeren, at det er acceptabelt, at der er sket en stigning på 24 pct. i antallet af klasser med 30 elever eller mere ifølge optællinger fra Danske Gymnasielevers Sammenslutning?', N'Om antallet af elever i gymnasieklasserne.', N'O', N'S 2657', N'S', N'2657', N'', N'', null, 27, null, null, N'2017-12-05 21:47:06.193', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20814, 10, 11, 20, N'Mener ministeren, at stigningen i antallet af store klasser giver grund til at genoverveje regeringens holdning til et loft over klassekvotienten på landets ungdomsuddannelser? 
+', N'Om antallet af elever i gymnasieklasserne.', N'O', N'S 2658', N'S', N'2658', N'', N'', null, 27, null, null, N'2017-12-05 21:47:06.380', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20815, 10, 11, 20, N'Mener ministeren, at hun har foretaget sig tilstrækkeligt inden for de sidste år for at nedbringe stigningen i klassestørrelsen på landets ungdomsuddannelser?', N'Om antallet af elever i gymnasieklasserne.', N'O', N'S 2659', N'S', N'2659', N'', N'', null, 27, null, null, N'2017-12-05 21:47:06.553', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20816, 10, 11, 20, N'Mener ministeren, at det er rimeligt, at kontrollen med, om vognmænd overholder betingelserne for at måtte køre i miljøzonerne, tilsyneladende er så sporadisk, at der reelt ikke er nogen risiko for at blive opdaget for at overtræde reglerne?', N'Om kontrol af kørsel i miljøzonerne.', N'O', N'S 2660', N'S', N'2660', N'', N'', null, 27, null, null, N'2017-12-05 21:47:06.743', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20817, 10, 11, 20, N'Vil ministeren tage initiativ til, at der indføres en effektiv kontrol og overvågning af, at kun godkendte lastbiler kører ind i miljøzonerne?', N'Om kontrol af kørsel i miljøzonerne.', N'O', N'S 2661', N'S', N'2661', N'', N'', null, 27, null, null, N'2017-12-05 21:47:06.937', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20818, 8, null, 21, N'Gældslettelse til Irak', N'Gældslettelse til Irak', N'O', N'Aktstk. 171', N'Aktstk.', N'171', N'', N'', null, 27, N'TU', null, N'2017-12-05 21:47:07.140', 0, null, 6, N'Udenrigsministeriet', N'2010-09-02 00:00:00.000', N'Tiltrådt af Finansudvalget den 02-09-2010 ', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20819, 8, null, 21, N'Støtte til multilaterale klimaindsatser vedr. reduktionsindsatser, teknologioverførsel og klimatilpasning', N'Støtte til multilaterale klimaindsatser vedr. reduktionsindsatser, teknologioverførsel og klimatilpasning', N'O', N'Aktstk. 172', N'Aktstk.', N'172', N'', N'', null, 27, N'TU', null, N'2017-12-05 21:47:07.307', 0, null, 6, N'Udenrigsministeriet', N'2010-09-02 00:00:00.000', N'Tiltrådt af Finansudvalget den 02-09-2010. Enhedslistens medlem af udvalget støtter finansiering af klimaindsatser som reduktionsindsatser, teknologioverførsel og klimatilpasning, men finder det kritisabelt, at finansieringen kommer fra bistandsmidlerne fremfor at være nye additionelle midler. ', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20820, 8, null, 27, N'Orientering om status af Arbejdsskadestyrelsens sagsbehandlingssystem PROASK', N'Orientering om status af Arbejdsskadestyrelsens sagsbehandlingssystem PROASK', N'O', N'Aktstk. 173', N'Aktstk.', N'173', N'', N'', null, 27, N'TE', null, N'2017-12-05 21:47:07.583', 0, null, 17, N'Beskæftigelsesministeriet', N'2010-09-01 00:00:00.000', N'Taget til efterretning af Finansudvalget på et møde den 01-09-2010 ', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20821, 8, null, 21, N'Tilslutning til fastsættelse af licens', N'Tilslutning til fastsættelse af licens', N'O', N'Aktstk. 174', N'Aktstk.', N'174', N'', N'', null, 27, N'TF', null, N'2017-12-05 21:47:07.757', 0, null, 21, N'Kulturministeriet', N'2010-09-01 00:00:00.000', N'Tiltrådt af et flertal i Finansudvalget den 01-09-2010 (udvalget med undtagelse af Enhedslistens medlem, der stemte imod andragendet, og Socialdemokratiets, Socialistisk Folkepartis og Det Radikale Venstres medlemmer, der undlod at stemme). Socialdemokratiet, Socialistisk Folkeparti og Det Radikale Venstre er ikke en del af medieforliget og finder bl.a., at det er uhensigtsmæssigt at fastholde den særligt lave erhvervslicens, da der ikke synes gode argumenter for, at virksomheder skal have licensrabat i forhold til private husstande. En øget indtægt fra erhvervslicens kunne bruges til at undgå de kvalitetsforringelser, som medieforliget indebærer, ikke mindst i DR. ', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20822, 8, null, 21, N'Bemyndigelse til på statens vegne at stille ATP en garanti for dækning af udgifter', N'Bemyndigelse til på statens vegne at stille ATP en garanti for dækning af udgifter', N'O', N'Aktstk. 175', N'Aktstk.', N'175', N'', N'', null, 27, N'TF', null, N'2017-12-05 21:47:07.947', 0, null, 17, N'Beskæftigelsesministeriet', N'2010-09-01 00:00:00.000', N'Tiltrådt af et flertal i Finansudvalget den 01-09-2010 (udvalget med undtagelse af Enhedslistens medlem, der stemte imod andragendet)', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20823, 8, null, 21, N'Tilslutning til, at SKATs bevilling i 2010 forhøjes', N'Tilslutning til, at SKATs bevilling i 2010 forhøjes', N'O', N'Aktstk. 176', N'Aktstk.', N'176', N'', N'', null, 27, N'TU', null, N'2017-12-05 21:47:08.123', 0, null, 9, N'Skatteministeriet', N'2010-09-01 00:00:00.000', N'Tiltrådt af Finansudvalget den 01-09-2010. Socialdemokratiets, Socialistisk Folkepartis og Det Radikale Venstres medlemmer af udvalget bemærker, at det er positivt, at regeringen erkender nødvendigheden af øgede bevillinger til SKAT, som S, SF og RV har påpeget ganske længe, men når budgettet i SKAT i 2010 glider for regeringen med ikke mindre end 499 årsværk, giver det anledning til at vurdere, om regeringen evner at gennemføre de omfattende stramninger, som der lægges op til i finansloven og dermed betydelig usikkerhed om den økonomiske politik.  ', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20824, 8, null, 21, N'Forhøjelse af kriminalforsorgens bevilling', N'Forhøjelse af kriminalforsorgens bevilling', N'O', N'Aktstk. 177', N'Aktstk.', N'177', N'', N'', null, 27, N'TF', null, N'2017-12-05 21:47:08.337', 0, null, 11, N'Justitsministeriet', N'2010-09-16 00:00:00.000', N'Tiltrådt af et flertal i Finansudvalget den 16-09-2010 (udvalget med undtagelse af Enhedslistens medlem, der stemte imod andragendet). Socialdemokratiets, Socialistisk Folkepartis og Det Radikale Venstres medlemmer af udvalget stemmer for aktstykket blandt andet på grund af styrkelsen af sikkerheden i de åbne fængsler, men finder fortsat anledning til at kritisere, at der ikke afsættes midler til forlængelsen af fodlænkeordningen. ', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20825, 8, null, 21, N'Tilslutning til at tegne aktier i Max Bank A/S', N'Tilslutning til at tegne aktier i Max Bank A/S', N'O', N'Aktstk. 178', N'Aktstk.', N'178', N'', N'', null, 27, N'TF', null, N'2017-12-05 21:47:08.680', 0, null, 7, N'Finansministeriet', N'2010-09-02 00:00:00.000', N'Tiltrådt af et flertal i Finansudvalget den 02-09-2010 (udvalget med undtagelse af Enhedslistens medlem, der stemte imod andragendet). Enhedslistens medlem af udvalget mener, at hvis skatteyderne skal risikere penge i en privat bank, skal der være et klart samfundsmæssigt mål for denne satsning - mere end bare at drive bank som andre private banker drives. I den forbindelse er Enhedslisten imod, at der tillades en aflønning af banken ledelse og ansatte, der omfatter aktieoptioner. Aktieoptioner har flere gange vist sig som kilde til uansvarlig ledelse af banker og andre selskaber. ', null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20826, 10, 11, 20, N'Mener ministeren, at det er rimeligt, at de regler, der regulerer lægers forhold til medicinalindustrien, er slappere end de regler, der forhindrer advokater, revisorer og journalister i at involvere sig i aktiviteter, som kan medføre interessekonflikter?', N'Om  lægers forhold til medicinalindustrien', N'O', N'S 2663', N'S', N'2663', N'', N'', null, 27, null, null, N'2017-12-05 21:47:08.877', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20827, 10, 11, 20, N'Finder ministeren det tilfredsstillende, at Danmark halter langt bagefter, når det kommer til ligestilling på barselsområdet, jf. 3F''s Nyhedsbrev, der omtaler et amerikansk forskningsprojekt om barselslovgivningen i 21 højindkomstlande, hvor Danmark placerer sig på en 12. plads?', N'Om ligestilling på barselsområdet.', N'O', N'S 2662', N'S', N'2662', N'', N'', null, 27, null, null, N'2017-12-05 21:47:09.070', 0, N'Der henvises til hjemmesiden http://forsiden.3f.dk/article/20100825/NYHEDER/100829947/2140.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20828, 10, 11, 20, N'Vil ministeren skærpe de regler, der regulerer lægers forhold til medicinalindustrien, så de kommer til at svare til de regler, der forhindrer advokater, revisorer og journalister i at involvere sig i aktiviteter, som kan medføre interessekonflikter?', N'Om  lægers forhold til medicinalindustrien', N'O', N'S 2664', N'S', N'2664', N'', N'', null, 27, null, null, N'2017-12-05 21:47:09.247', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20829, 10, 11, 20, N'Vil ministeren være med til at ændre på Lægemiddelstyrelsens grænse for læger, der udskriver medicin fra de firmaer, de selv ejer aktier i, en grænse der i dag er på 200.000 kroner?', N'Om interessekonflikter i medicinalindustrien', N'O', N'S 2666', N'S', N'2666', N'', N'', null, 27, null, null, N'2017-12-05 21:47:09.447', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20830, 10, 11, 20, N'Giver det amerikanske forskningsprojekt om barselslovgivningen i 21 højindkomstlande, hvor Danmark placerer sig på en 12. plads, ministeren anledning til at tage nye initiativer, der kan fremme ligestillingen mellem fædre og mødre på barselsområdet, hvilket den nuværende danske barselslovgivning tydeligvis ikke gør i tilstrækkelig grad?', N'Om ligestilling på barselsområdet.', N'O', N'S 2665', N'S', N'2665', N'', N'', null, 27, null, null, N'2017-12-05 21:47:09.703', 0, N'Der henvises til hjemmesiden http://forsiden.3f.dk/article/20100825/NYHEDER/100829947/2140.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20831, 10, 11, 20, N'Finder ministeren, at der er »lighed for loven«, når de rejsende mellem Svanemøllen og Hillerød i op til fire måneder påføres en række gener ved brug af de indsatte togbusser, samtidig med at der udfoldes store anstrengelser for at mindske generne for bilisterne i forbindelse med asfaltarbejder på den sønderjyske motorvej?', N'Om sporombygningen Svanemøllen-Hillerød.', N'O', N'S 2667', N'S', N'2667', N'', N'', null, 27, null, null, N'2017-12-05 21:47:09.937', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20832, 10, 11, 20, N'Finder ministeren det hensigtsmæssigt, at for at Banedanmark kan gennemføre sporombygningen Svanemøllen-Hillerød til lavest mulige omkostninger for Banedanmark, påføres de rejsende, og operatørerne i området såvel større udgifter som et øget tidsforbrug?', N'Om sporombygningen Svanemøllen-Hillerød.', N'O', N'S 2668', N'S', N'2668', N'', N'', null, 27, null, null, N'2017-12-05 21:47:10.130', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20833, 10, 11, 20, N'Er ministeren tilfreds med, at Lægemiddelstyrelsen har valgt at tillade læger at have aktier og aktieoptioner for op til 200.000 kr. i medicinalvirksomheder, hvis medicin de også skriver recepter ud på?', N'Om lægers aktier og aktieoptioner.', N'O', N'S 2669', N'S', N'2669', N'', N'', null, 27, null, null, N'2017-12-05 21:47:10.343', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20834, 10, 11, 20, N'Mener ministeren, at vi kan forvente, at VIFAB (Videns- og forskningscenter For Alternativ Behandling) kan sikre kvalitetsrådgivning om alternativ behandling og igangsætte den nødvendige forskning på området med et driftsbudget på 3,3, mio. kr. og en forskningsbevilling på 1 mio. kr. årligt?', N'Om VIFAB.', N'O', N'S 2670', N'S', N'2670', N'', N'', null, 27, null, null, N'2017-12-05 21:47:10.580', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20835, 10, 11, 20, N'Vil ministeren sikre, at Økonomistyrelsen senest 1. januar 2011 udbyder en rammeaftale på mellem 400 og 500 mio. kr. vedrørende alternativer til Microsoftprogrammel for at etablere en ligeværdig konkurrence på området for kontorpakker, styresystemer og anden software relateret til desktop og servere?', N'Om konkurrence på IT-området.', N'O', N'S 2671', N'S', N'2671', N'', N'', null, 27, null, null, N'2017-12-05 21:47:10.790', 0, N'Et enigt Folketing har gentagne gange understreget behovet for konkurrence på IT-området i almindelighed og i særdeleshed på området for kontorpakker, styresystemer mv., hvor Microsoft har en monopollignende stilling, hvilket også Konkurrencestyrelsen har kritiseret i flere omgange.
+
+B 103 fra juni 2006 understregede behovet for konkurrence, og senest har et enigt Folketing under forespørgselsdebatten 29. januar 2010 fastslået behovet for at etablere konkurrence på dette område.
+
+Økonomistyrelsens udbud af en rammeaftale om indkøb af konsulentassistance vedrørende Microsoftprogrammel på mellem 400 og 500 mio. kr. risikerer at skævvride yderligere konkurrence til Microsofts fordel. En rammeaftale om alternativer til Microsoftprogrammel vil være et bidrag blandt flere til at øge konkurrencen til fordel for de offentlige myndigheder.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20836, 10, 11, 20, N'Er statsministeren enig med Venstres gruppe i Europa-Parlamentet, som arbejder for at få EU til at gribe ind og kræve, at det danske arbejdsmarkedspensionssystem ændres?', N'Om ændring af det danske arbejdsmarkedspensionssystem.', N'O', N'S 2672', N'S', N'2672', N'', N'', null, 27, null, null, N'2017-12-05 21:47:10.983', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20837, 10, 11, 20, N'Kan ministeren tilslutte sig præsident Obamas moratorium om, at der ikke må søges efter olie og gas på havdybder, der er over 150 meter?', N'Om søgning af olie og gas på havdybder over 150 meter', N'O', N'S 2673', N'S', N'2673', N'', N'', null, 27, null, null, N'2017-12-05 21:47:11.140', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20838, 10, 11, 20, N'Mener ministeren, at det er retfærdigt, at man kan få hjælp til udtrapning ved blandingsmisbrug, men ikke ved afhængighed af benzodiazepiner?', N'Om hjælp til udtrapning ved blandingsmisbrug', N'O', N'S 2674', N'S', N'2674', N'', N'', null, 27, null, null, N'2017-12-05 21:47:11.323', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20839, 10, 11, 20, N'Hvad er årsagen til, at Danmark pr. juni 2010 ikke havde indbetalt sit medlemsbidrag til Det Internationale Agentur for Vedvarende Energi (IRENA)?', N'Om medlemsbidrag til Det Internationale Agentur for Vedvarende Energi (IRENA)', N'O', N'S 2675', N'S', N'2675', N'', N'', null, 27, null, null, N'2017-12-05 21:47:11.507', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20840, 10, 11, 20, N'Er der ifølge ministeren en sammenhæng mellem manglende medlemsbidrag til IRENA og at IRENA midlertidigt har indstillet sine aktiviteter?', N'Om medlemsbidrag til Det Internationale Agentur for Vedvarende Energi (IRENA)', N'O', N'S 2676', N'S', N'2676', N'', N'', null, 27, null, null, N'2017-12-05 21:47:11.683', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20841, 10, 11, 20, N'Hvad er ministeren forventning til IRENAs fremtid?', N'Om Det Internationale Agentur for Vedvarende Energi (IRENA)s fremtid', N'O', N'S 2677', N'S', N'2677', N'', N'', null, 27, null, null, N'2017-12-05 21:47:11.857', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20842, 10, 11, 20, N'Hvordan vil ministeren sikre, at kommunerne kan tilvejebringe økonomi til ekstra timer til børn i indskolingen, når ressourcerne til undervisningen på de almindelige folkeskoler er faldet med 3.301 kr. pr. elev, svarende til et fald på 6 pct. fra 2002 til 2009, jf. »Opgørelse af udviklingen i udgifterne til undervisning i folkeskolen pr. elev« udarbejdet af BDO Kommunernes Revision (august 2010)?', N'Om ressourcer til undervisningen.', N'O', N'S 2678', N'S', N'2678', N'', N'', null, 27, null, null, N'2017-12-05 21:47:12.030', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20843, 10, 11, 20, N'Hvordan vil statsministeren sikre, at kommunerne kan tilvejebringe økonomi til ekstra timer til børn i indskolingen, når ressourcerne til undervisningen på de almindelige folkeskoler er faldet med 3.301 kr. pr. elev, svarende til et fald på 6 pct. fra 2002 til 2009, jf. »Opgørelse af udviklingen i udgifterne til undervisning i folkeskolen pr. elev« udarbejdet af BDO Kommunernes Revision (august 2010)?', N'Om ressourcer til undervisningen.', N'O', N'S 2679', N'S', N'2679', N'', N'', null, 27, null, null, N'2017-12-05 21:47:12.257', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20844, 10, 11, 20, N'Mener ministeren, at det er i overensstemmelse med regeringens erklærede ønske om at reducere kvælstofudledningen frem til 2015, at kvælstofnormerne for 2011 er sat op?', N'Om kvælstofudledning.', N'O', N'S 2680', N'S', N'2680', N'', N'', null, 27, null, null, N'2017-12-05 21:47:12.447', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20845, 10, 11, 20, N'Mener ministeren, at en aftale om masseudlevering af persondata til det amerikanske efterretningstjenesters frie afbenyttelse, som vi ser det i SWIFT-aftalen, ingen hjemmel kræver, mener ministeren, at legalitetsprincippet er sat ud af kraft i denne sag, og mener ministeren, at dette kan ske uden lovhjemmel?', N'Om SWIFT-aftalen.', N'O', N'S 2681', N'S', N'2681', N'', N'', null, 27, null, null, N'2017-12-05 21:47:12.663', 0, N'Ingen', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20846, 2, null, 14, N'Hvad agter statsministeren med baggrund i den stærke kritik, som samtlige Folketingets partier har udtalt angående skatteministerens grundlovsbrud, at foretage sig for at sikre, at regeringen og dens ministre fremover overholder grundloven?', N'Om kritik af skatteministeren.', N'O', N'F 51', N'F', N'51', N'', N'Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 86. Af Peter Christensen (V), Carsten Hansen (S), Kristian Thulesen Dahl (DF), Ole Sohn (SF), Henriette Kjær (KF), Niels Helveg Petersen (RV) og Line Barfod (EL). 
+
+
+Fremsat 20-05-09 ...... FF 7834 
+Vedtaget 26-05-09 ...... FF 7922 
+
+Fuld tekst: 
+
+V 86:
+
+»Folketinget tager statsministerens og justitsministerens redegørelser til efterretning. 
+
+Folketinget udtrykker stærk kritik af, at Skatteministeriet har håndhævet bestemmelserne i L 154, inden lovforslaget var vedtaget, stadfæstet og kundgjort. 
+
+Folketinget finder, at det påhviler statsministeren at tilrettelægge regeringens arbejde, så der ikke sker gentagelser i fremtiden.« 
+
+Afstemning: 
+V 86 vedtaget enstemmigt med 106 stemmer.', null, 26, null, null, N'2019-05-08 11:57:47.863', 0, null, null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20847, 10, 11, 20, N'Mener ministeren, det er fair, at kræftpatienter, svækkede ældre m.fl., der får ordineret energidrikken Fresubin, oplever, at den er dyrere i nogle kommuner, og vil ministeren gøre noget ved denne prisforskel?', N'Om prisen på Fresubin.', N'O', N'S 2682', N'S', N'2682', N'', N'', null, 27, null, null, N'2017-12-05 21:47:12.820', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20848, 10, 11, 20, N'Vil ministeren redegøre for status for den politiske behandling af vand- og naturplanerne, efter at der i medierne er rejst tvivl om Venstres folketingsgruppes holdning, samt omtalen d. 30. august 2010 i Dagbladet Roskilde, hvoraf det fremgår, at der er almindelig kaos efter sommerens monsterregn, fordi ingen ved, hvem der har ansvaret for vandløbsvedligeholdelse, før vand- og naturplanerne er vedtaget?', N'Om vand- og naturplanerne.', N'O', N'S 2683', N'S', N'2683', N'', N'', null, 27, null, null, N'2017-12-05 21:47:13.027', 0, N'Ingen.', null, null, null, null, null, null, null, null, null, null);
+INSERT INTO ODA.dbo.Sag (id, typeid, kategoriid, statusid, titel, titelkort, offentlighedskode, nummer, nummerprefix, nummernumerisk, nummerpostfix, resume, afstemningskonklusion, periodeid, afgørelsesresultatkode, baggrundsmateriale, opdateringsdato, statsbudgetsag, begrundelse, paragrafnummer, paragraf, afgørelsesdato, afgørelse, rådsmødedato, lovnummer, lovnummerdato, retsinformationsurl, fremsatundersagid, deltundersagid) VALUES (20849, 2, null, 14, N'Vil ministeren redegøre for den seneste udvikling i Kina (herunder situationen i Tibet), hvilke initiativer regeringen har taget, og hvilke konsekvenser regeringen mener denne udvikling bør have for det officielle Danmarks (ministre, kronprinsen m.fl.) deltagelse i OL?', N'Om Kina og OL', N'O', N'F 20', N'F', N'20', N'', N'Behandlet sammen: F 20 og F 21. 
+
+Under forhandlingerne fremsattes følgende forslag til vedtagelse: 
+
+V 63. Af Per Clausen (EL), Søren Espersen (DF), Pernille Frahm (SF) og Pia Christmas-Møller (UFG). 
+
+Fremsat 22-05-08 ....... FF 5200 
+Bortfaldet 22-05-08 .......  FF 5249 
+
+V 64. Af Troels Christensen (V), Mogens Lykketoft (S), Per Ørum Jørgensen (KF), Simon Emil Ammitzbøll (RV) og Gitte Seeberg (UFG).
+ 
+Fremsat 22-05-08 .......  FF 5206 
+Vedtaget 22-05-08 ....... FF 5249 
+
+Fuld tekst:
+ 
+V 63:
+
+»Folketinget tager afstand fra det kinesiske regimes massive undertrykkelse af Tibet og af arbejdstager- og menneskerettigheder i Kina og opfordrer på den baggrund regeringen til at markere dette, ved at sørge for at ingen repræsentanter for regeringen deltager i OL''s åbnings- og afslutningsceremoni.« 
+
